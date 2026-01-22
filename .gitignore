@@ -1,0 +1,15 @@
+# Google Sheets credentials and tokens
+scripts/sheets/credentials.json
+scripts/sheets/token.json
+scripts/sheets/.env
+
+# Python and environment
+.venv/
+__pycache__/
+
+# Data directories
+corpus_snapshots/
+runs/
+
+# macOS
+.DS_Store

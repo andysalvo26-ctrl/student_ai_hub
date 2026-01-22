@@ -1,0 +1,23 @@
+{
+  "url": "https://www.mtu.edu/computing/ai/",
+  "final_url": "https://www.mtu.edu/computing/ai/",
+  "retrieved_at": null,
+  "http_status": null,
+  "title": null,
+  "site_name": null,
+  "content_type": null,
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "blocked",
+  "blocked_reason": "Blocked by robots.txt",
+  "notes": {
+    "section": "AI Basics",
+    "source_type": "Explainer / Guide",
+    "relevance_note": "University-level introduction to artificial intelligence concepts, definitions, and core ideas.",
+    "date_added": "2026-01-21",
+    "url": "https://www.mtu.edu/computing/ai/"
+  }
+}

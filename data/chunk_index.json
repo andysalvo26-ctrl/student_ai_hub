@@ -1,0 +1,2728 @@
+{
+  "generated_at": "2026-01-22T00:16:47.029571Z",
+  "sources_chunked": 29,
+  "total_chunks": 272,
+  "average_chunk_length": 1357.3,
+  "chunks": [
+    {
+      "chunk_id": "www_library_jhu_edu__9981251c7844ce31::c0000",
+      "stable_id": "www_library_jhu_edu__9981251c7844ce31",
+      "section": "AI Basics",
+      "title": "Approaching the Black Box: How AI Works in 5 Definitions - Sheridan Libraries",
+      "url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "retrieved_at": "2026-01-22T00:14:11.159400Z",
+      "char_start": 0,
+      "char_end": 1238
+    },
+    {
+      "chunk_id": "www_library_jhu_edu__9981251c7844ce31::c0001",
+      "stable_id": "www_library_jhu_edu__9981251c7844ce31",
+      "section": "AI Basics",
+      "title": "Approaching the Black Box: How AI Works in 5 Definitions - Sheridan Libraries",
+      "url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "retrieved_at": "2026-01-22T00:14:11.159400Z",
+      "char_start": 1238,
+      "char_end": 2478
+    },
+    {
+      "chunk_id": "www_library_jhu_edu__9981251c7844ce31::c0002",
+      "stable_id": "www_library_jhu_edu__9981251c7844ce31",
+      "section": "AI Basics",
+      "title": "Approaching the Black Box: How AI Works in 5 Definitions - Sheridan Libraries",
+      "url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "retrieved_at": "2026-01-22T00:14:11.159400Z",
+      "char_start": 2478,
+      "char_end": 4090
+    },
+    {
+      "chunk_id": "www_library_jhu_edu__9981251c7844ce31::c0003",
+      "stable_id": "www_library_jhu_edu__9981251c7844ce31",
+      "section": "AI Basics",
+      "title": "Approaching the Black Box: How AI Works in 5 Definitions - Sheridan Libraries",
+      "url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "retrieved_at": "2026-01-22T00:14:11.159400Z",
+      "char_start": 4090,
+      "char_end": 5260
+    },
+    {
+      "chunk_id": "ai_engineering_columbia_edu__8662d32a1c231998::c0000",
+      "stable_id": "ai_engineering_columbia_edu__8662d32a1c231998",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence (AI) vs. Machine Learning | Columbia AI",
+      "url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:07.375159Z",
+      "char_start": 0,
+      "char_end": 1323
+    },
+    {
+      "chunk_id": "ai_engineering_columbia_edu__8662d32a1c231998::c0001",
+      "stable_id": "ai_engineering_columbia_edu__8662d32a1c231998",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence (AI) vs. Machine Learning | Columbia AI",
+      "url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:07.375159Z",
+      "char_start": 1323,
+      "char_end": 2752
+    },
+    {
+      "chunk_id": "ai_engineering_columbia_edu__8662d32a1c231998::c0002",
+      "stable_id": "ai_engineering_columbia_edu__8662d32a1c231998",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence (AI) vs. Machine Learning | Columbia AI",
+      "url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:07.375159Z",
+      "char_start": 2752,
+      "char_end": 3970
+    },
+    {
+      "chunk_id": "ai_engineering_columbia_edu__8662d32a1c231998::c0003",
+      "stable_id": "ai_engineering_columbia_edu__8662d32a1c231998",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence (AI) vs. Machine Learning | Columbia AI",
+      "url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:07.375159Z",
+      "char_start": 3970,
+      "char_end": 5628
+    },
+    {
+      "chunk_id": "library_educause_edu__5d89022942069cae::c0000",
+      "stable_id": "library_educause_edu__5d89022942069cae",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence (AI) | EDUCAUSE Library",
+      "url": "https://library.educause.edu/topics/infrastructure-and-research-technologies/artificial-intelligence-ai",
+      "retrieved_at": "2026-01-22T00:14:09.372967Z",
+      "char_start": 0,
+      "char_end": 519
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0000",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 0,
+      "char_end": 1207
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0001",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 1207,
+      "char_end": 2409
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0002",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 2409,
+      "char_end": 3712
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0003",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 3712,
+      "char_end": 4954
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0004",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 4954,
+      "char_end": 6739
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0005",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 6739,
+      "char_end": 8336
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0006",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 8336,
+      "char_end": 9638
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0007",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 9638,
+      "char_end": 10911
+    },
+    {
+      "chunk_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a::c0008",
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "section": "AI Basics",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "char_start": 10911,
+      "char_end": 12247
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0000",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 0,
+      "char_end": 1315
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0001",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 1315,
+      "char_end": 2519
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0002",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 2519,
+      "char_end": 3859
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0003",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 3859,
+      "char_end": 5134
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0004",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 5134,
+      "char_end": 6432
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0005",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 6432,
+      "char_end": 7781
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0006",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 7781,
+      "char_end": 9029
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0007",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 9029,
+      "char_end": 10340
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0008",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 10340,
+      "char_end": 11558
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0009",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 11558,
+      "char_end": 12947
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0010",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 12947,
+      "char_end": 14164
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0011",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 14164,
+      "char_end": 15560
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0012",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 15560,
+      "char_end": 16822
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0013",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 16822,
+      "char_end": 18062
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__b85f152879c15db1::c0014",
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "section": "AI Basics",
+      "title": "Machine learning, explained | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "char_start": 18062,
+      "char_end": 19013
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0000",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 0,
+      "char_end": 1326
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0001",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 1326,
+      "char_end": 2541
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0002",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 2541,
+      "char_end": 4006
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0003",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 4006,
+      "char_end": 5227
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0004",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 5227,
+      "char_end": 6674
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0005",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 6674,
+      "char_end": 7994
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0006",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 7994,
+      "char_end": 9217
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0007",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 9217,
+      "char_end": 10418
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0008",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 10418,
+      "char_end": 11856
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0009",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 11856,
+      "char_end": 13131
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0010",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 13131,
+      "char_end": 14628
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0011",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 14628,
+      "char_end": 15881
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0012",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 15881,
+      "char_end": 17467
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0013",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 17467,
+      "char_end": 19003
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0014",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 19003,
+      "char_end": 20509
+    },
+    {
+      "chunk_id": "www_ibm_com__4c73255b7dd33ab9::c0015",
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "section": "AI Basics",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "char_start": 20509,
+      "char_end": 21180
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0000",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 0,
+      "char_end": 1382
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0001",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 1382,
+      "char_end": 2683
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0002",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 2683,
+      "char_end": 4059
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0003",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 4059,
+      "char_end": 5274
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0004",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 5274,
+      "char_end": 6624
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0005",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 6624,
+      "char_end": 7887
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0006",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 7887,
+      "char_end": 9280
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0007",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 9280,
+      "char_end": 10622
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0008",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 10622,
+      "char_end": 11877
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0009",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 11877,
+      "char_end": 13195
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0010",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 13195,
+      "char_end": 14555
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0011",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 14555,
+      "char_end": 15916
+    },
+    {
+      "chunk_id": "ischool_syracuse_edu__34a1e846df86ce05::c0012",
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "section": "AI Basics",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "char_start": 15916,
+      "char_end": 17478
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0000",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 0,
+      "char_end": 1329
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0001",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 1329,
+      "char_end": 2819
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0002",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 2819,
+      "char_end": 4242
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0003",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 4242,
+      "char_end": 5930
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0004",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 5930,
+      "char_end": 7502
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0005",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 7502,
+      "char_end": 8970
+    },
+    {
+      "chunk_id": "hai_stanford_edu__da87f2b213eb9272::c0006",
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "section": "AI News That Matters",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "char_start": 8970,
+      "char_end": 10261
+    },
+    {
+      "chunk_id": "aiguidebook_vcu_edu__c78139a06334a4fe::c0000",
+      "stable_id": "aiguidebook_vcu_edu__c78139a06334a4fe",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools - Artificial Intelligence Guidebook - Virginia Commonwealth University",
+      "url": "https://aiguidebook.vcu.edu/tools/",
+      "retrieved_at": "2026-01-22T00:14:51.015831Z",
+      "char_start": 0,
+      "char_end": 1577
+    },
+    {
+      "chunk_id": "aiguidebook_vcu_edu__c78139a06334a4fe::c0001",
+      "stable_id": "aiguidebook_vcu_edu__c78139a06334a4fe",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools - Artificial Intelligence Guidebook - Virginia Commonwealth University",
+      "url": "https://aiguidebook.vcu.edu/tools/",
+      "retrieved_at": "2026-01-22T00:14:51.015831Z",
+      "char_start": 1577,
+      "char_end": 2923
+    },
+    {
+      "chunk_id": "aiguidebook_vcu_edu__c78139a06334a4fe::c0002",
+      "stable_id": "aiguidebook_vcu_edu__c78139a06334a4fe",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools - Artificial Intelligence Guidebook - Virginia Commonwealth University",
+      "url": "https://aiguidebook.vcu.edu/tools/",
+      "retrieved_at": "2026-01-22T00:14:51.015831Z",
+      "char_start": 2923,
+      "char_end": 4198
+    },
+    {
+      "chunk_id": "aiguidebook_vcu_edu__c78139a06334a4fe::c0003",
+      "stable_id": "aiguidebook_vcu_edu__c78139a06334a4fe",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools - Artificial Intelligence Guidebook - Virginia Commonwealth University",
+      "url": "https://aiguidebook.vcu.edu/tools/",
+      "retrieved_at": "2026-01-22T00:14:51.015831Z",
+      "char_start": 4198,
+      "char_end": 4664
+    },
+    {
+      "chunk_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d::c0000",
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "char_start": 0,
+      "char_end": 1327
+    },
+    {
+      "chunk_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d::c0001",
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "char_start": 1327,
+      "char_end": 2728
+    },
+    {
+      "chunk_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d::c0002",
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "char_start": 2728,
+      "char_end": 4019
+    },
+    {
+      "chunk_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d::c0003",
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "char_start": 4019,
+      "char_end": 5294
+    },
+    {
+      "chunk_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d::c0004",
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "section": "AI Tools You Might Use",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "char_start": 5294,
+      "char_end": 5827
+    },
+    {
+      "chunk_id": "www_huit_harvard_edu__8f8b35cba5ce9e90::c0000",
+      "stable_id": "www_huit_harvard_edu__8f8b35cba5ce9e90",
+      "section": "AI Tools You Might Use",
+      "title": "Generative AI Tool Comparison | Harvard University Information Technology",
+      "url": "https://www.huit.harvard.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:49.288151Z",
+      "char_start": 0,
+      "char_end": 1566
+    },
+    {
+      "chunk_id": "www_huit_harvard_edu__8f8b35cba5ce9e90::c0001",
+      "stable_id": "www_huit_harvard_edu__8f8b35cba5ce9e90",
+      "section": "AI Tools You Might Use",
+      "title": "Generative AI Tool Comparison | Harvard University Information Technology",
+      "url": "https://www.huit.harvard.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:49.288151Z",
+      "char_start": 1566,
+      "char_end": 2897
+    },
+    {
+      "chunk_id": "www_huit_harvard_edu__8f8b35cba5ce9e90::c0002",
+      "stable_id": "www_huit_harvard_edu__8f8b35cba5ce9e90",
+      "section": "AI Tools You Might Use",
+      "title": "Generative AI Tool Comparison | Harvard University Information Technology",
+      "url": "https://www.huit.harvard.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:49.288151Z",
+      "char_start": 2897,
+      "char_end": 4155
+    },
+    {
+      "chunk_id": "www_huit_harvard_edu__8f8b35cba5ce9e90::c0003",
+      "stable_id": "www_huit_harvard_edu__8f8b35cba5ce9e90",
+      "section": "AI Tools You Might Use",
+      "title": "Generative AI Tool Comparison | Harvard University Information Technology",
+      "url": "https://www.huit.harvard.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:49.288151Z",
+      "char_start": 4155,
+      "char_end": 4625
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0000",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 0,
+      "char_end": 1294
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0001",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 1294,
+      "char_end": 2742
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0002",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 2742,
+      "char_end": 4053
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0003",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 4053,
+      "char_end": 5519
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0004",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 5519,
+      "char_end": 6793
+    },
+    {
+      "chunk_id": "www_sba_gov__f3b30e5beeef2707::c0005",
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "section": "How Businesses Are Using AI",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "char_start": 6793,
+      "char_end": 7344
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0000",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 0,
+      "char_end": 1402
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0001",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 1402,
+      "char_end": 2874
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0002",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 2874,
+      "char_end": 4351
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0003",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 4351,
+      "char_end": 5825
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0004",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 5825,
+      "char_end": 7029
+    },
+    {
+      "chunk_id": "www_flagler_edu__77ae53fb510874a9::c0005",
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "section": "How Businesses Are Using AI",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "char_start": 7029,
+      "char_end": 8366
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__55f3ee2df411df14::c0000",
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "section": "How Businesses Are Using AI",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "char_start": 0,
+      "char_end": 1201
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__55f3ee2df411df14::c0001",
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "section": "How Businesses Are Using AI",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "char_start": 1201,
+      "char_end": 2410
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__55f3ee2df411df14::c0002",
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "section": "How Businesses Are Using AI",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "char_start": 2410,
+      "char_end": 3881
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__55f3ee2df411df14::c0003",
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "section": "How Businesses Are Using AI",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "char_start": 3881,
+      "char_end": 5131
+    },
+    {
+      "chunk_id": "mitsloan_mit_edu__55f3ee2df411df14::c0004",
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "section": "How Businesses Are Using AI",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "char_start": 5131,
+      "char_end": 6483
+    },
+    {
+      "chunk_id": "www_artificialintelligence_news_com__f00bf123dd759632::c0000",
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "section": "How Businesses Are Using AI",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "char_start": 0,
+      "char_end": 1404
+    },
+    {
+      "chunk_id": "www_artificialintelligence_news_com__f00bf123dd759632::c0001",
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "section": "How Businesses Are Using AI",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "char_start": 1404,
+      "char_end": 2686
+    },
+    {
+      "chunk_id": "www_artificialintelligence_news_com__f00bf123dd759632::c0002",
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "section": "How Businesses Are Using AI",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "char_start": 2686,
+      "char_end": 4017
+    },
+    {
+      "chunk_id": "www_artificialintelligence_news_com__f00bf123dd759632::c0003",
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "section": "How Businesses Are Using AI",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "char_start": 4017,
+      "char_end": 5386
+    },
+    {
+      "chunk_id": "www_artificialintelligence_news_com__f00bf123dd759632::c0004",
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "section": "How Businesses Are Using AI",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "char_start": 5386,
+      "char_end": 5858
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0000",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 0,
+      "char_end": 1336
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0001",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 1336,
+      "char_end": 2874
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0002",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 2874,
+      "char_end": 4351
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0003",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 4351,
+      "char_end": 5724
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0004",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 5724,
+      "char_end": 6975
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0005",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 6975,
+      "char_end": 8191
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0006",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 8191,
+      "char_end": 9563
+    },
+    {
+      "chunk_id": "www_ibm_com__c0f7a40a9c452b3a::c0007",
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "section": "How Businesses Are Using AI",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "char_start": 9563,
+      "char_end": 10883
+    },
+    {
+      "chunk_id": "www_nist_gov__590e8afe152537ff::c0000",
+      "stable_id": "www_nist_gov__590e8afe152537ff",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "AI Standards: Federal Engagement | NIST",
+      "url": "https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement",
+      "retrieved_at": "2026-01-22T00:15:04.661266Z",
+      "char_start": 0,
+      "char_end": 1443
+    },
+    {
+      "chunk_id": "www_nist_gov__590e8afe152537ff::c0001",
+      "stable_id": "www_nist_gov__590e8afe152537ff",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "AI Standards: Federal Engagement | NIST",
+      "url": "https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement",
+      "retrieved_at": "2026-01-22T00:15:04.661266Z",
+      "char_start": 1443,
+      "char_end": 2957
+    },
+    {
+      "chunk_id": "www_nist_gov__590e8afe152537ff::c0002",
+      "stable_id": "www_nist_gov__590e8afe152537ff",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "AI Standards: Federal Engagement | NIST",
+      "url": "https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement",
+      "retrieved_at": "2026-01-22T00:15:04.661266Z",
+      "char_start": 2957,
+      "char_end": 4024
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0000",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 0,
+      "char_end": 1216
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0001",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 1216,
+      "char_end": 2532
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0002",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 2532,
+      "char_end": 3771
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0003",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 3771,
+      "char_end": 5433
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0004",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 5433,
+      "char_end": 6695
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0005",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 6695,
+      "char_end": 7934
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0006",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 7934,
+      "char_end": 9270
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0007",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 9270,
+      "char_end": 10687
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0008",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 10687,
+      "char_end": 11920
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0009",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 11920,
+      "char_end": 13096
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0010",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 13096,
+      "char_end": 14409
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0011",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 14409,
+      "char_end": 15843
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0012",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 15843,
+      "char_end": 17483
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0013",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 17483,
+      "char_end": 19114
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0014",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 19114,
+      "char_end": 20839
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0015",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 20839,
+      "char_end": 21844
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0016",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 21844,
+      "char_end": 23300
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0017",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 23300,
+      "char_end": 24618
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0018",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 24618,
+      "char_end": 25971
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0019",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 25971,
+      "char_end": 27653
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0020",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 27653,
+      "char_end": 29049
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0021",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 29049,
+      "char_end": 30239
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0022",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 30239,
+      "char_end": 31504
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0023",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 31504,
+      "char_end": 32993
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0024",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 32993,
+      "char_end": 34215
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0025",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 34215,
+      "char_end": 35461
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0026",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 35461,
+      "char_end": 36898
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0027",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 36898,
+      "char_end": 38167
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0028",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 38167,
+      "char_end": 39825
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0029",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 39825,
+      "char_end": 41533
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0030",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 41533,
+      "char_end": 42801
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0031",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 42801,
+      "char_end": 44339
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0032",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 44339,
+      "char_end": 45892
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0033",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 45892,
+      "char_end": 47411
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0034",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 47411,
+      "char_end": 48642
+    },
+    {
+      "chunk_id": "www_aaup_org__920dd7ff9e19f3c6::c0035",
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "char_start": 48642,
+      "char_end": 50040
+    },
+    {
+      "chunk_id": "www_nea_org__9eff2ae51d184c5d::c0000",
+      "stable_id": "www_nea_org__9eff2ae51d184c5d",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Dos and Don'ts of AI in the Classroom | NEA",
+      "url": "https://www.nea.org/professional-excellence/student-engagement/tools-tips/dos-and-donts-ai-classroom",
+      "retrieved_at": "2026-01-22T00:15:03.038648Z",
+      "char_start": 0,
+      "char_end": 1295
+    },
+    {
+      "chunk_id": "www_nea_org__9eff2ae51d184c5d::c0001",
+      "stable_id": "www_nea_org__9eff2ae51d184c5d",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Dos and Don'ts of AI in the Classroom | NEA",
+      "url": "https://www.nea.org/professional-excellence/student-engagement/tools-tips/dos-and-donts-ai-classroom",
+      "retrieved_at": "2026-01-22T00:15:03.038648Z",
+      "char_start": 1295,
+      "char_end": 2585
+    },
+    {
+      "chunk_id": "www_nea_org__9eff2ae51d184c5d::c0002",
+      "stable_id": "www_nea_org__9eff2ae51d184c5d",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Dos and Don'ts of AI in the Classroom | NEA",
+      "url": "https://www.nea.org/professional-excellence/student-engagement/tools-tips/dos-and-donts-ai-classroom",
+      "retrieved_at": "2026-01-22T00:15:03.038648Z",
+      "char_start": 2585,
+      "char_end": 3537
+    },
+    {
+      "chunk_id": "infoguides_gmu_edu__9691dd62a09a1480::c0000",
+      "stable_id": "infoguides_gmu_edu__9691dd62a09a1480",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethical Use - Generative Artificial Intelligence (AI) - InfoGuides at George Mason University",
+      "url": "https://infoguides.gmu.edu/GenArtificial-Intelligence/ethics",
+      "retrieved_at": "2026-01-22T00:14:56.295414Z",
+      "char_start": 0,
+      "char_end": 12694
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0000",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 0,
+      "char_end": 1445
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0001",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 1445,
+      "char_end": 2758
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0002",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 2758,
+      "char_end": 4158
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0003",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 4158,
+      "char_end": 5474
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0004",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 5474,
+      "char_end": 6702
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0005",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 6702,
+      "char_end": 8250
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0006",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 8250,
+      "char_end": 9723
+    },
+    {
+      "chunk_id": "professional_dce_harvard_edu__b348c4377dbfa8f0::c0007",
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "char_start": 9723,
+      "char_end": 10969
+    },
+    {
+      "chunk_id": "www_unesco_org__831d1af606b537dd::c0000",
+      "stable_id": "www_unesco_org__831d1af606b537dd",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence - AI | UNESCO",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "retrieved_at": "2026-01-22T00:15:01.228259Z",
+      "char_start": 0,
+      "char_end": 1216
+    },
+    {
+      "chunk_id": "www_unesco_org__831d1af606b537dd::c0001",
+      "stable_id": "www_unesco_org__831d1af606b537dd",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence - AI | UNESCO",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "retrieved_at": "2026-01-22T00:15:01.228259Z",
+      "char_start": 1216,
+      "char_end": 2433
+    },
+    {
+      "chunk_id": "www_unesco_org__831d1af606b537dd::c0002",
+      "stable_id": "www_unesco_org__831d1af606b537dd",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence - AI | UNESCO",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "retrieved_at": "2026-01-22T00:15:01.228259Z",
+      "char_start": 2433,
+      "char_end": 3836
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0000",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 0,
+      "char_end": 1743
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0001",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 1743,
+      "char_end": 3113
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0002",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 3113,
+      "char_end": 4248
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0003",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 4248,
+      "char_end": 5700
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0004",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 5700,
+      "char_end": 6479
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0005",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 6479,
+      "char_end": 8135
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0006",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 8135,
+      "char_end": 9565
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0007",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 9565,
+      "char_end": 10938
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0008",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 10938,
+      "char_end": 12192
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0009",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 12192,
+      "char_end": 13783
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0010",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 13783,
+      "char_end": 14361
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0011",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 14361,
+      "char_end": 15707
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0012",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 15707,
+      "char_end": 17064
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0013",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 17064,
+      "char_end": 18669
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0014",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 18669,
+      "char_end": 20397
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0015",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 20397,
+      "char_end": 21979
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0016",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 21979,
+      "char_end": 23216
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0017",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 23216,
+      "char_end": 24870
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0018",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 24870,
+      "char_end": 26409
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0019",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 26409,
+      "char_end": 28107
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0020",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 28107,
+      "char_end": 29023
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0021",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 29023,
+      "char_end": 30039
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0022",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 30039,
+      "char_end": 31432
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0023",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 31432,
+      "char_end": 33197
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0024",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 33197,
+      "char_end": 34342
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0025",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 34342,
+      "char_end": 35569
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0026",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 35569,
+      "char_end": 36988
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0027",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 36988,
+      "char_end": 38220
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0028",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 38220,
+      "char_end": 39463
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0029",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 39463,
+      "char_end": 40801
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0030",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 40801,
+      "char_end": 42138
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0031",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 42138,
+      "char_end": 43460
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0032",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 43460,
+      "char_end": 44995
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0033",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 44995,
+      "char_end": 46543
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0034",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 46543,
+      "char_end": 47492
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0035",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 47492,
+      "char_end": 48745
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0036",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 48745,
+      "char_end": 49981
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0037",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 49981,
+      "char_end": 51652
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0038",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 51652,
+      "char_end": 52966
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0039",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 52966,
+      "char_end": 54062
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0040",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 54062,
+      "char_end": 54935
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0041",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 54935,
+      "char_end": 56346
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0042",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 56346,
+      "char_end": 57608
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0043",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 57608,
+      "char_end": 58840
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0044",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 58840,
+      "char_end": 60190
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0045",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 60190,
+      "char_end": 61892
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0046",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 61892,
+      "char_end": 63106
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0047",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 63106,
+      "char_end": 64320
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0048",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 64320,
+      "char_end": 65570
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0049",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 65570,
+      "char_end": 66919
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0050",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 66919,
+      "char_end": 68161
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0051",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 68161,
+      "char_end": 69614
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0052",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 69614,
+      "char_end": 70839
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0053",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 70839,
+      "char_end": 72080
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0054",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 72080,
+      "char_end": 73284
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0055",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 73284,
+      "char_end": 74509
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0056",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 74509,
+      "char_end": 75883
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0057",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 75883,
+      "char_end": 77196
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0058",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 77196,
+      "char_end": 78459
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0059",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 78459,
+      "char_end": 79835
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0060",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 79835,
+      "char_end": 81051
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0061",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 81051,
+      "char_end": 82336
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0062",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 82336,
+      "char_end": 83537
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0063",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 83537,
+      "char_end": 84926
+    },
+    {
+      "chunk_id": "iep_utm_edu__b4724b6f15ae5245::c0064",
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "char_start": 84926,
+      "char_end": 85515
+    },
+    {
+      "chunk_id": "ai_psu_edu__36e51f436456047f::c0000",
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "char_start": 0,
+      "char_end": 1360
+    },
+    {
+      "chunk_id": "ai_psu_edu__36e51f436456047f::c0001",
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "char_start": 1360,
+      "char_end": 2758
+    },
+    {
+      "chunk_id": "ai_psu_edu__36e51f436456047f::c0002",
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "char_start": 2758,
+      "char_end": 3967
+    },
+    {
+      "chunk_id": "ai_psu_edu__36e51f436456047f::c0003",
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "char_start": 3967,
+      "char_end": 5423
+    },
+    {
+      "chunk_id": "ai_psu_edu__36e51f436456047f::c0004",
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "section": "Rules, Risks, and Ethics of AI",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "char_start": 5423,
+      "char_end": 5885
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0000",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 0,
+      "char_end": 1163
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0001",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 1163,
+      "char_end": 2718
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0002",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 2718,
+      "char_end": 4257
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0003",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 4257,
+      "char_end": 5469
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0004",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 5469,
+      "char_end": 6764
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0005",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 6764,
+      "char_end": 8085
+    },
+    {
+      "chunk_id": "ctl_stanford_edu__7f5d76108cf20c2c::c0006",
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "section": "Using AI for School and Work",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "char_start": 8085,
+      "char_end": 9607
+    },
+    {
+      "chunk_id": "www_tc_columbia_edu__5643ed615fb8162e::c0000",
+      "stable_id": "www_tc_columbia_edu__5643ed615fb8162e",
+      "section": "Using AI for School and Work",
+      "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+      "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "retrieved_at": "2026-01-22T00:14:14.539810Z",
+      "char_start": 0,
+      "char_end": 1258
+    },
+    {
+      "chunk_id": "www_tc_columbia_edu__5643ed615fb8162e::c0001",
+      "stable_id": "www_tc_columbia_edu__5643ed615fb8162e",
+      "section": "Using AI for School and Work",
+      "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+      "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "retrieved_at": "2026-01-22T00:14:14.539810Z",
+      "char_start": 1258,
+      "char_end": 2528
+    },
+    {
+      "chunk_id": "www_tc_columbia_edu__5643ed615fb8162e::c0002",
+      "stable_id": "www_tc_columbia_edu__5643ed615fb8162e",
+      "section": "Using AI for School and Work",
+      "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+      "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "retrieved_at": "2026-01-22T00:14:14.539810Z",
+      "char_start": 2528,
+      "char_end": 3599
+    },
+    {
+      "chunk_id": "www_tc_columbia_edu__5643ed615fb8162e::c0003",
+      "stable_id": "www_tc_columbia_edu__5643ed615fb8162e",
+      "section": "Using AI for School and Work",
+      "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+      "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "retrieved_at": "2026-01-22T00:14:14.539810Z",
+      "char_start": 3599,
+      "char_end": 4967
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0000",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 0,
+      "char_end": 1596
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0001",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 1596,
+      "char_end": 2925
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0002",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 2925,
+      "char_end": 4693
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0003",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 4693,
+      "char_end": 6045
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0004",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 6045,
+      "char_end": 7400
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0005",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 7400,
+      "char_end": 8851
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0006",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 8851,
+      "char_end": 10271
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0007",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 10271,
+      "char_end": 11558
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0008",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 11558,
+      "char_end": 13089
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0009",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 13089,
+      "char_end": 14480
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0010",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 14480,
+      "char_end": 15935
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0011",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 15935,
+      "char_end": 17144
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0012",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 17144,
+      "char_end": 18365
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0013",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 18365,
+      "char_end": 19576
+    },
+    {
+      "chunk_id": "sites_campbell_edu__62497847e244cab4::c0014",
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "section": "Using AI for School and Work",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "char_start": 19576,
+      "char_end": 20786
+    },
+    {
+      "chunk_id": "blog_methodistcollege_edu__35d435c16f5275ac::c0000",
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "section": "Using AI for School and Work",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "char_start": 0,
+      "char_end": 1232
+    },
+    {
+      "chunk_id": "blog_methodistcollege_edu__35d435c16f5275ac::c0001",
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "section": "Using AI for School and Work",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "char_start": 1232,
+      "char_end": 2438
+    },
+    {
+      "chunk_id": "blog_methodistcollege_edu__35d435c16f5275ac::c0002",
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "section": "Using AI for School and Work",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "char_start": 2438,
+      "char_end": 3657
+    },
+    {
+      "chunk_id": "blog_methodistcollege_edu__35d435c16f5275ac::c0003",
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "section": "Using AI for School and Work",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "char_start": 3657,
+      "char_end": 4922
+    },
+    {
+      "chunk_id": "blog_methodistcollege_edu__35d435c16f5275ac::c0004",
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "section": "Using AI for School and Work",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "char_start": 4922,
+      "char_end": 5694
+    },
+    {
+      "chunk_id": "scs_oregonstate_edu__f3cf6e6718506e10::c0000",
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "section": "Using AI for School and Work",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "char_start": 0,
+      "char_end": 1559
+    },
+    {
+      "chunk_id": "scs_oregonstate_edu__f3cf6e6718506e10::c0001",
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "section": "Using AI for School and Work",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "char_start": 1559,
+      "char_end": 2805
+    },
+    {
+      "chunk_id": "scs_oregonstate_edu__f3cf6e6718506e10::c0002",
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "section": "Using AI for School and Work",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "char_start": 2805,
+      "char_end": 4137
+    },
+    {
+      "chunk_id": "scs_oregonstate_edu__f3cf6e6718506e10::c0003",
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "section": "Using AI for School and Work",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "char_start": 4137,
+      "char_end": 5384
+    },
+    {
+      "chunk_id": "scs_oregonstate_edu__f3cf6e6718506e10::c0004",
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "section": "Using AI for School and Work",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "char_start": 5384,
+      "char_end": 5992
+    }
+  ]
+}

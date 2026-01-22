@@ -1,0 +1,13 @@
+{
+  "name": "sheets-ingest",
+  "version": "1.0.0",
+  "description": "Google Sheets ingestion workflow for Corpus sheet",
+  "type": "commonjs",
+  "scripts": {
+    "append": "node append_links.js ./sample_links.json"
+  },
+  "dependencies": {
+    "googleapis": "^128.0.0",
+    "dotenv": "^16.4.5"
+  }
+}

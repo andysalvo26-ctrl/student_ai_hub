@@ -1,0 +1,23 @@
+{
+  "url": "https://platform.openai.com/docs/concepts",
+  "final_url": "https://platform.openai.com/docs/concepts",
+  "retrieved_at": null,
+  "http_status": null,
+  "title": null,
+  "site_name": null,
+  "content_type": null,
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "blocked",
+  "blocked_reason": "Blocked by robots.txt",
+  "notes": {
+    "section": "AI Tools You Might Use",
+    "source_type": "Tool Documentation",
+    "relevance_note": "Official OpenAI documentation explaining core concepts behind modern AI models and APIs.",
+    "date_added": "2026-01-21",
+    "url": "https://platform.openai.com/docs/concepts"
+  }
+}

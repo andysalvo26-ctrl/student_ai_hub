@@ -1,0 +1,10 @@
+---
+# Pandoc metadata defaults for Student AI Hub section PDFs
+title: "Student AI Hub"
+author: "Student AI Hub"
+geometry: margin=1in
+fontsize: 11pt
+linestretch: 1.25
+documentclass: article
+mainfont: Palatino
+...

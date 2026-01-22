@@ -1,0 +1,2107 @@
+{
+  "generated_at": "2026-01-22T00:16:47.029571Z",
+  "source_count": 36,
+  "success_count": 29,
+  "blocked_count": 5,
+  "error_count": 2,
+  "partial_count": 0,
+  "sources": [
+    {
+      "snapshot_id": "fddb9fd0f189_20260122_001357",
+      "url": "https://www.mtu.edu/computing/ai/",
+      "final_url": "https://www.mtu.edu/computing/ai/",
+      "retrieved_at": null,
+      "title": null,
+      "site_name": null,
+      "content_type": null,
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "University-level introduction to artificial intelligence concepts, definitions, and core ideas.",
+      "date_added": "2026-01-21",
+      "scrape_status": "blocked",
+      "blocked_reason": "Blocked by robots.txt",
+      "http_status": null,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "www_mtu_edu__aa4341b9e32a115c",
+      "run_snapshot_id": "fddb9fd0f189_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/fddb9fd0f189_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_mtu_edu__aa4341b9e32a115c.json"
+    },
+    {
+      "snapshot_id": "21276aa17ad0_20260122_001357",
+      "url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "final_url": "https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/",
+      "retrieved_at": "2026-01-22T00:14:11.159400Z",
+      "title": "Approaching the Black Box: How AI Works in 5 Definitions - Sheridan Libraries",
+      "site_name": "www.library.jhu.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Conceptual breakdown of how AI systems work, framed through clear definitions and limitations, written for a general academic audience.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 844,
+      "content_hash": "26d10a9095ab88f63ea6e9be8bac3bf10497fa7ee733a4f6f73ad431909e52f9",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Search"
+        },
+        {
+          "level": "h2",
+          "text": "Get Materials"
+        },
+        {
+          "level": "h1",
+          "text": "Approaching the Black Box: How AI Works in 5 Definitions"
+        },
+        {
+          "level": "h2",
+          "text": "Sidebar"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_library_jhu_edu__9981251c7844ce31",
+      "run_snapshot_id": "21276aa17ad0_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/21276aa17ad0_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_library_jhu_edu__9981251c7844ce31.json"
+    },
+    {
+      "snapshot_id": "42deb37066e6_20260122_001357",
+      "url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "final_url": "https://ai.engineering.columbia.edu/ai-vs-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:07.375159Z",
+      "title": "Artificial Intelligence (AI) vs. Machine Learning | Columbia AI",
+      "site_name": "ai.engineering.columbia.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Clear comparison explaining the differences and relationship between artificial intelligence and machine learning.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 816,
+      "content_hash": "90ddc3e6025efa86cb7b597ac4f10519588cc39bec2fd9f7056855c8a94b1273",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Artificial Intelligence (AI) vs. Machine Learning"
+        },
+        {
+          "level": "h2",
+          "text": "What Is Artificial Intelligence?"
+        },
+        {
+          "level": "h2",
+          "text": "What Is Machine Learning?"
+        },
+        {
+          "level": "h2",
+          "text": "How Companies Use AI and Machine Learning"
+        },
+        {
+          "level": "h2",
+          "text": "Request Information"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "ai_engineering_columbia_edu__8662d32a1c231998",
+      "run_snapshot_id": "42deb37066e6_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/42deb37066e6_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/ai_engineering_columbia_edu__8662d32a1c231998.json"
+    },
+    {
+      "snapshot_id": "1cc4f50b4de8_20260122_001357",
+      "url": "https://library.educause.edu/topics/infrastructure-and-research-technologies/artificial-intelligence-ai",
+      "final_url": "https://library.educause.edu/topics/infrastructure-and-research-technologies/artificial-intelligence-ai",
+      "retrieved_at": "2026-01-22T00:14:09.372967Z",
+      "title": "Artificial Intelligence (AI) | EDUCAUSE Library",
+      "site_name": "library.educause.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "University / Official",
+      "relevance_note": "Higher-education focused overview of artificial intelligence, including institutional context and implications.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 66,
+      "content_hash": "7c9c101f23f10f4fd55c62c17a21a118a546db2de401ec760afa9d5ad64e4053",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Featured Showcase"
+        },
+        {
+          "level": "h2",
+          "text": "Upcoming Showcase"
+        },
+        {
+          "level": "h2",
+          "text": "Past Showcases"
+        },
+        {
+          "level": "h2",
+          "text": "Focus Areas"
+        },
+        {
+          "level": "h2",
+          "text": "Library Topics"
+        },
+        {
+          "level": "h2",
+          "text": "Research"
+        },
+        {
+          "level": "h2",
+          "text": "Publications"
+        },
+        {
+          "level": "h2",
+          "text": "Benchmarking and Assessment"
+        },
+        {
+          "level": "h2",
+          "text": "Upcoming Events"
+        },
+        {
+          "level": "h2",
+          "text": "Signature Conferences"
+        },
+        {
+          "level": "h2",
+          "text": "Career Advancement Guides"
+        },
+        {
+          "level": "h2",
+          "text": "Annual Conference"
+        },
+        {
+          "level": "h2",
+          "text": "Leadership & Management Programs"
+        },
+        {
+          "level": "h2",
+          "text": "More Learning Experiences"
+        },
+        {
+          "level": "h2",
+          "text": "Get Connected"
+        },
+        {
+          "level": "h2",
+          "text": "Volunteer"
+        },
+        {
+          "level": "h2",
+          "text": "Career Center"
+        },
+        {
+          "level": "h2",
+          "text": "Awards"
+        },
+        {
+          "level": "h2",
+          "text": "My EDUCAUSE Profile"
+        },
+        {
+          "level": "h2",
+          "text": "About Us"
+        },
+        {
+          "level": "h2",
+          "text": "Careers at EDUCAUSE"
+        },
+        {
+          "level": "h2",
+          "text": "Membership"
+        },
+        {
+          "level": "h2",
+          "text": "Corporate Engagement"
+        },
+        {
+          "level": "h1",
+          "text": "Artificial Intelligence (AI)"
+        },
+        {
+          "level": "h2",
+          "text": "Sort by:"
+        },
+        {
+          "level": "h2",
+          "text": "Filter your results:"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "library_educause_edu__5d89022942069cae",
+      "run_snapshot_id": "1cc4f50b4de8_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/1cc4f50b4de8_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/library_educause_edu__5d89022942069cae.json"
+    },
+    {
+      "snapshot_id": "afbfd810ca34_20260122_001357",
+      "url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "final_url": "https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained",
+      "retrieved_at": "2026-01-22T00:14:12.821065Z",
+      "title": "Artificial Intelligence, Explained | Carnegie Mellon University's Heinz College",
+      "site_name": "www.heinz.cmu.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Plain-language explanation of artificial intelligence from a leading computer science and public policy institution.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1970,
+      "content_hash": "e03282b12e05c6fd75a56c3dbd08e59e90a5bcd8b2852385d72a15c1200c9121",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Artificial Intelligence, Explained"
+        },
+        {
+          "level": "h2",
+          "text": "Why It Matters"
+        },
+        {
+          "level": "h2",
+          "text": "Some Basic History and Definitions…What AIIs"
+        },
+        {
+          "level": "h2",
+          "text": "How Generative AI Works"
+        },
+        {
+          "level": "h2",
+          "text": "What AI IsNot"
+        },
+        {
+          "level": "h2",
+          "text": "Moving Forward"
+        },
+        {
+          "level": "h2",
+          "text": "In This Story"
+        },
+        {
+          "level": "h2",
+          "text": "Related Articles"
+        },
+        {
+          "level": "h2",
+          "text": "Students develop machine learning tool to mitigate side effects from cancer treatment"
+        },
+        {
+          "level": "h2",
+          "text": "Invisible, Essential, Everywhere: Information Systems Explained"
+        },
+        {
+          "level": "h2",
+          "text": "Is Continuing Education Worth the Investment? Two Senior Executives Weigh In."
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_heinz_cmu_edu__8bda06f17ee8ff1a",
+      "run_snapshot_id": "afbfd810ca34_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/afbfd810ca34_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_heinz_cmu_edu__8bda06f17ee8ff1a.json"
+    },
+    {
+      "snapshot_id": "b38d89855b4a_20260122_001357",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "final_url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+      "retrieved_at": "2026-01-22T00:14:16.123232Z",
+      "title": "Machine learning, explained | MIT Sloan",
+      "site_name": "mitsloan.mit.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Business-oriented explanation of machine learning concepts from MIT Sloan, connecting technical ideas to real-world decision-making.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 3046,
+      "content_hash": "b87b1219d40ec6de06d4039de42fbd20f8b51b18a51fcabd6fcae1c61b8a7e0a",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Which program is right for you?"
+        },
+        {
+          "level": "h1",
+          "text": "Machine learning, explained"
+        },
+        {
+          "level": "h2",
+          "text": "Why It Matters"
+        },
+        {
+          "level": "h2",
+          "text": "What is machine learning?"
+        },
+        {
+          "level": "h2",
+          "text": "How businesses are using machine learning"
+        },
+        {
+          "level": "h2",
+          "text": "How machine learning works: promises and challenges"
+        },
+        {
+          "level": "h2",
+          "text": "Putting machine learning to work"
+        },
+        {
+          "level": "h2",
+          "text": "Learn more:"
+        },
+        {
+          "level": "h2",
+          "text": "RelatedArticles"
+        },
+        {
+          "level": "h2",
+          "text": "The Mission"
+        },
+        {
+          "level": "h2",
+          "text": "Find Us"
+        },
+        {
+          "level": "h2",
+          "text": "Links"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "mitsloan_mit_edu__b85f152879c15db1",
+      "run_snapshot_id": "b38d89855b4a_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/b38d89855b4a_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/mitsloan_mit_edu__b85f152879c15db1.json"
+    },
+    {
+      "snapshot_id": "b332a3b7c252_20260122_001357",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "final_url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:13:57.906642Z",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "site_name": "www.ibm.com",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Plain-language overview of artificial intelligence concepts, uses, and limitations from an enterprise perspective",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 3199,
+      "content_hash": "3489f555e274409f7a2bd3079626e5e8741d5424256896d243022f44309390f9",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "What is artificial intelligence (AI)?"
+        },
+        {
+          "level": "h2",
+          "text": "Authors"
+        },
+        {
+          "level": "h2",
+          "text": "What is AI?"
+        },
+        {
+          "level": "h2",
+          "text": "Machine learning"
+        },
+        {
+          "level": "h2",
+          "text": "Deep learning"
+        },
+        {
+          "level": "h2",
+          "text": "Generative AI"
+        },
+        {
+          "level": "h2",
+          "text": "How generative AI works"
+        },
+        {
+          "level": "h2",
+          "text": "AI agents and agentic AI"
+        },
+        {
+          "level": "h2",
+          "text": "Benefits of AI"
+        },
+        {
+          "level": "h2",
+          "text": "AI use cases"
+        },
+        {
+          "level": "h2",
+          "text": "AI challenges and risks"
+        },
+        {
+          "level": "h2",
+          "text": "AI ethics and governance"
+        },
+        {
+          "level": "h2",
+          "text": "Weak AI vs. Strong AI"
+        },
+        {
+          "level": "h2",
+          "text": "History of AI"
+        },
+        {
+          "level": "h2",
+          "text": "Resources"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_ibm_com__4c73255b7dd33ab9",
+      "run_snapshot_id": "b332a3b7c252_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/b332a3b7c252_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_ibm_com__4c73255b7dd33ab9.json"
+    },
+    {
+      "snapshot_id": "b943591ceb72_20260122_001357",
+      "url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "final_url": "https://ischool.syracuse.edu/what-is-machine-learning/",
+      "retrieved_at": "2026-01-22T00:14:19.236972Z",
+      "title": "What Is Machine Learning? Key Concepts and Real-World Uses",
+      "site_name": "ischool.syracuse.edu",
+      "content_type": "text/html",
+      "section": "AI Basics",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Clear academic explanation of machine learning fundamentals from an information science perspective.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 2580,
+      "content_hash": "276553d3bd3a6e61bf3217c6bd03e7cd55dbad82881ec28ab18b27ae9943756b",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "What Is Machine Learning? Key Concepts and Real-World Uses"
+        },
+        {
+          "level": "h2",
+          "text": "Key Takeaways"
+        },
+        {
+          "level": "h2",
+          "text": "What Is Machine Learning?"
+        },
+        {
+          "level": "h2",
+          "text": "Machine Learning Versus Other Similar Fields"
+        },
+        {
+          "level": "h2",
+          "text": "Types of Machine Learning"
+        },
+        {
+          "level": "h2",
+          "text": "How Does Machine Learning Work?"
+        },
+        {
+          "level": "h2",
+          "text": "Machine Learning Algorithms"
+        },
+        {
+          "level": "h2",
+          "text": "Pros and Cons of Machine Learning Algorithms"
+        },
+        {
+          "level": "h2",
+          "text": "Real-World Machine Learning Applications Across Industries"
+        },
+        {
+          "level": "h2",
+          "text": "Machine Learning: A Tool, a Field, and a Future"
+        },
+        {
+          "level": "h2",
+          "text": "Frequently Asked Questions (FAQs)"
+        },
+        {
+          "level": "h1",
+          "text": "JOIN 1,000+ Students"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "ischool_syracuse_edu__34a1e846df86ce05",
+      "run_snapshot_id": "b943591ceb72_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/b943591ceb72_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/ischool_syracuse_edu__34a1e846df86ce05.json"
+    },
+    {
+      "snapshot_id": "8634f6c64c9e_20260122_001357",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "final_url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "retrieved_at": "2026-01-22T00:14:03.745663Z",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "site_name": "hai.stanford.edu",
+      "content_type": "text/html",
+      "section": "AI News That Matters",
+      "source_type": "Research / Academic",
+      "relevance_note": "Stanford's annual AI Index Report provides comprehensive data and analysis on AI progress, trends, and impacts across multiple sectors.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1515,
+      "content_hash": "e876b272576015acf7fcba6cce1a086777ef90bec42e390119bcdb311fdabc6b",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "The 2025 AI Index Report"
+        },
+        {
+          "level": "h2",
+          "text": "Past Reports"
+        },
+        {
+          "level": "h2",
+          "text": "Top Takeaways"
+        },
+        {
+          "level": "h2",
+          "text": "Measuring trends in Intelligence"
+        },
+        {
+          "level": "h2",
+          "text": "Policy Highlights"
+        },
+        {
+          "level": "h2",
+          "text": "Chapter Lineup"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "hai_stanford_edu__da87f2b213eb9272",
+      "run_snapshot_id": "8634f6c64c9e_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/8634f6c64c9e_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/hai_stanford_edu__da87f2b213eb9272.json"
+    },
+    {
+      "snapshot_id": "a62bfb8976ef_20260122_001357",
+      "url": "https://platform.openai.com/docs/concepts",
+      "final_url": "https://platform.openai.com/docs/concepts",
+      "retrieved_at": null,
+      "title": null,
+      "site_name": null,
+      "content_type": null,
+      "section": "AI Tools You Might Use",
+      "source_type": "Tool Documentation",
+      "relevance_note": "Official OpenAI documentation explaining core concepts behind modern AI models and APIs.",
+      "date_added": "2026-01-21",
+      "scrape_status": "blocked",
+      "blocked_reason": "Blocked by robots.txt",
+      "http_status": null,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "platform_openai_com__0e4e2e76fadd6a88",
+      "run_snapshot_id": "a62bfb8976ef_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/a62bfb8976ef_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/platform_openai_com__0e4e2e76fadd6a88.json"
+    },
+    {
+      "snapshot_id": "568504eaffbc_20260122_001357",
+      "url": "https://aiguidebook.vcu.edu/tools/",
+      "final_url": "https://aiguidebook.vcu.edu/tools/",
+      "retrieved_at": "2026-01-22T00:14:51.015831Z",
+      "title": "AI Tools - Artificial Intelligence Guidebook - Virginia Commonwealth University",
+      "site_name": "aiguidebook.vcu.edu",
+      "content_type": "text/html",
+      "section": "AI Tools You Might Use",
+      "source_type": "University / Official",
+      "relevance_note": "University-maintained guidebook listing and describing AI tools available to students, with academic context and usage guidance.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 729,
+      "content_hash": "d80128b96092e10032ad8172b503f4a5d7889c919fa531f2ca39108143c43aab",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "A Guide to AI at VCU"
+        },
+        {
+          "level": "h2",
+          "text": "Academic Affairs"
+        },
+        {
+          "level": "h2",
+          "text": "AI Tools"
+        },
+        {
+          "level": "h2",
+          "text": "Examples of AI in Industry"
+        },
+        {
+          "level": "h2",
+          "text": "Helpful links"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "aiguidebook_vcu_edu__c78139a06334a4fe",
+      "run_snapshot_id": "568504eaffbc_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/568504eaffbc_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/aiguidebook_vcu_edu__c78139a06334a4fe.json"
+    },
+    {
+      "snapshot_id": "8d726034201f_20260122_001357",
+      "url": "https://guides.library.georgetown.edu/ai/tools",
+      "final_url": "https://guides.library.georgetown.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:52.870452Z",
+      "title": "AI Tools for Research - Artificial Intelligence (Generative) Resources - Guides at Georgetown University",
+      "site_name": "guides.library.georgetown.edu",
+      "content_type": "text/html",
+      "section": "AI Tools You Might Use",
+      "source_type": "University / Official",
+      "relevance_note": "Georgetown University Library guide outlining AI tools for research, writing, and academic work, with contextual guidance for students.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 942,
+      "content_hash": "43529a1f9603c10d3af3a8409576f51d4466e82788bc715b022e333d1f6b4bd6",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "User account menu"
+        },
+        {
+          "level": "h1",
+          "text": "Artificial Intelligence (Generative) Resources"
+        },
+        {
+          "level": "h2",
+          "text": "About This Table"
+        },
+        {
+          "level": "h2",
+          "text": "AI Research Tools"
+        },
+        {
+          "level": "h2",
+          "text": "Additional AI Tools"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "guides_library_georgetown_edu__3fee8ba3bf16d12d",
+      "run_snapshot_id": "8d726034201f_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/8d726034201f_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/guides_library_georgetown_edu__3fee8ba3bf16d12d.json"
+    },
+    {
+      "snapshot_id": "572a994ffd3b_20260122_001357",
+      "url": "https://www.huit.harvard.edu/ai/tools",
+      "final_url": "https://www.huit.harvard.edu/ai/tools",
+      "retrieved_at": "2026-01-22T00:14:49.288151Z",
+      "title": "Generative AI Tool Comparison | Harvard University Information Technology",
+      "site_name": "www.huit.harvard.edu",
+      "content_type": "text/html",
+      "section": "AI Tools You Might Use",
+      "source_type": "University / Official",
+      "relevance_note": "Harvard University IT–maintained overview of AI tools available to students and faculty, including guidance and constraints.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 672,
+      "content_hash": "1795e65baa4d9e4ec04756d560e4558fb8a6fcf472ceed290e6f5d332770f4ad",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Generative AI Tool Comparison"
+        },
+        {
+          "level": "h1",
+          "text": "Generative AI tool comparison"
+        },
+        {
+          "level": "h2",
+          "text": "AI tools for general use"
+        },
+        {
+          "level": "h2",
+          "text": "AI developer tools"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_huit_harvard_edu__8f8b35cba5ce9e90",
+      "run_snapshot_id": "572a994ffd3b_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/572a994ffd3b_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_huit_harvard_edu__8f8b35cba5ce9e90.json"
+    },
+    {
+      "snapshot_id": "5c74211624e7_20260122_001357",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877050920307389",
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S1877050920307389",
+      "retrieved_at": null,
+      "title": null,
+      "site_name": null,
+      "content_type": null,
+      "section": "How Businesses Are Using AI",
+      "source_type": "Research / Academic",
+      "relevance_note": "Academic research article examining applications and impacts of artificial intelligence in business contexts.",
+      "date_added": "2026-01-21",
+      "scrape_status": "blocked",
+      "blocked_reason": "Blocked by robots.txt",
+      "http_status": null,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "www_sciencedirect_com__ded06e38c0729ed7",
+      "run_snapshot_id": "5c74211624e7_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/5c74211624e7_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_sciencedirect_com__ded06e38c0729ed7.json"
+    },
+    {
+      "snapshot_id": "64bfef679051_20260122_001357",
+      "url": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "final_url": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "retrieved_at": "2026-01-22T00:14:41.695211Z",
+      "title": null,
+      "site_name": "www.businessnewsdaily.com",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "News / Update",
+      "relevance_note": "Overview of current artificial intelligence trends and applications across businesses, written for a general business audience.",
+      "date_added": "2026-01-21",
+      "scrape_status": "blocked",
+      "blocked_reason": "Possible paywall or access restriction detected",
+      "http_status": 200,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "www_businessnewsdaily_com__1ab9a80e42966474",
+      "run_snapshot_id": "64bfef679051_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/64bfef679051_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_businessnewsdaily_com__1ab9a80e42966474.json"
+    },
+    {
+      "snapshot_id": "dd6c81ff33b6_20260122_001357",
+      "url": "https://www.esade.edu/beyond/en/the-future-of-ai-in-business/",
+      "final_url": "https://www.esade.edu/beyond/en/the-future-of-ai-in-business/",
+      "retrieved_at": null,
+      "title": null,
+      "site_name": null,
+      "content_type": null,
+      "section": "How Businesses Are Using AI",
+      "source_type": "University / Official",
+      "relevance_note": "Business school perspective on how artificial intelligence is shaping strategy, operations, and future business models.",
+      "date_added": "2026-01-21",
+      "scrape_status": "blocked",
+      "blocked_reason": "Blocked by robots.txt",
+      "http_status": null,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "www_esade_edu__8ea20dff9afb23d1",
+      "run_snapshot_id": "dd6c81ff33b6_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/dd6c81ff33b6_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_esade_edu__8ea20dff9afb23d1.json"
+    },
+    {
+      "snapshot_id": "967647b2a219_20260122_001357",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "final_url": "https://www.sba.gov/business-guide/manage-your-business/ai-small-business",
+      "retrieved_at": "2026-01-22T00:14:38.527375Z",
+      "title": "AI for small business | U.S. Small Business Administration",
+      "site_name": "www.sba.gov",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "University / Official",
+      "relevance_note": "Government guidance outlining practical ways small businesses can adopt and use artificial intelligence.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1234,
+      "content_hash": "e2c2a6040c8a68a5aeb48a132e9ca93966580b51c656f7c1186dbc97873c76c1",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Primary Navigation"
+        },
+        {
+          "level": "h2",
+          "text": "Breadcrumb"
+        },
+        {
+          "level": "h2",
+          "text": "Section navigation"
+        },
+        {
+          "level": "h1",
+          "text": "AI for small business"
+        },
+        {
+          "level": "h2",
+          "text": "Content"
+        },
+        {
+          "level": "h2",
+          "text": "How AI can benefit your small business"
+        },
+        {
+          "level": "h2",
+          "text": "Risks of AI use"
+        },
+        {
+          "level": "h2",
+          "text": "Common terms"
+        },
+        {
+          "level": "h2",
+          "text": "Additional resources"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_sba_gov__f3b30e5beeef2707",
+      "run_snapshot_id": "967647b2a219_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/967647b2a219_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_sba_gov__f3b30e5beeef2707.json"
+    },
+    {
+      "snapshot_id": "2a31f5502486_20260122_001357",
+      "url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "final_url": "https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity",
+      "retrieved_at": "2026-01-22T00:14:34.113914Z",
+      "title": "AI in Business & Education: A new era of opportunity | Flagler College",
+      "site_name": "www.flagler.edu",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "University / Official",
+      "relevance_note": "University perspective on how artificial intelligence is being integrated into business education and applied management training.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1346,
+      "content_hash": "8d9b6bc5dae7cffe831a6bdddc38cde3aaf2a2a71e592c13311fec9d214d2fb2",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Signature Programs"
+        },
+        {
+          "level": "h2",
+          "text": "Academic Support"
+        },
+        {
+          "level": "h2",
+          "text": "Application Process"
+        },
+        {
+          "level": "h2",
+          "text": "Tuition & Fees"
+        },
+        {
+          "level": "h2",
+          "text": "Financial Aid & Scholarships"
+        },
+        {
+          "level": "h2",
+          "text": "Living On Campus"
+        },
+        {
+          "level": "h2",
+          "text": "Get Involved"
+        },
+        {
+          "level": "h2",
+          "text": "Health & Wellness"
+        },
+        {
+          "level": "h2",
+          "text": "Safety & Security"
+        },
+        {
+          "level": "h2",
+          "text": "Career Development"
+        },
+        {
+          "level": "h2",
+          "text": "Academics"
+        },
+        {
+          "level": "h2",
+          "text": "Admissions & Aid"
+        },
+        {
+          "level": "h2",
+          "text": "News & Events"
+        },
+        {
+          "level": "h2",
+          "text": "About"
+        },
+        {
+          "level": "h2",
+          "text": "Student Life"
+        },
+        {
+          "level": "h1",
+          "text": "AI in Business & Education: A new era of opportunity"
+        },
+        {
+          "level": "h2",
+          "text": "Related Stories"
+        },
+        {
+          "level": "h2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "h2",
+          "text": "Connect With Us"
+        },
+        {
+          "level": "h2",
+          "text": "Popular Searches"
+        },
+        {
+          "level": "h2",
+          "text": "Let Us Help You"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_flagler_edu__77ae53fb510874a9",
+      "run_snapshot_id": "2a31f5502486_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/2a31f5502486_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_flagler_edu__77ae53fb510874a9.json"
+    },
+    {
+      "snapshot_id": "81c6c3d7aeb0_20260122_001357",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "final_url": "https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai",
+      "retrieved_at": "2026-01-22T00:14:46.067561Z",
+      "title": "How digital business models are evolving in the age of agentic AI | MIT Sloan",
+      "site_name": "mitsloan.mit.edu",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "University / Official",
+      "relevance_note": "MIT Sloan analysis of how agentic AI is reshaping digital business models and organizational strategy.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 967,
+      "content_hash": "c97b41130e3d90d4238f3fd5cca337518dc768beec64c262676c3835dd3439db",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Which program is right for you?"
+        },
+        {
+          "level": "h1",
+          "text": "How digital business models are evolving in the age of agentic AI"
+        },
+        {
+          "level": "h2",
+          "text": "The original digital business models"
+        },
+        {
+          "level": "h2",
+          "text": "4 business models for the AI era"
+        },
+        {
+          "level": "h2",
+          "text": "How One New Zealand Group has evolved its business model"
+        },
+        {
+          "level": "h2",
+          "text": "RelatedArticles"
+        },
+        {
+          "level": "h2",
+          "text": "The Mission"
+        },
+        {
+          "level": "h2",
+          "text": "Find Us"
+        },
+        {
+          "level": "h2",
+          "text": "Links"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "mitsloan_mit_edu__55f3ee2df411df14",
+      "run_snapshot_id": "81c6c3d7aeb0_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/81c6c3d7aeb0_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/mitsloan_mit_edu__55f3ee2df411df14.json"
+    },
+    {
+      "snapshot_id": "a76678536b53_20260122_001357",
+      "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "final_url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+      "retrieved_at": "2026-01-22T00:14:01.176574Z",
+      "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+      "site_name": "www.artificialintelligence-news.com",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "News / Update",
+      "relevance_note": "Retail companies testing AI agents while retaining internal control rather than outsourcing to major platforms",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 956,
+      "content_hash": "9418be754e6b13e77527db078bdeff00df752b030575f78309df00741662b954",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Retailers like Kroger and Lowe’s test AI agents without handing control to Google"
+        },
+        {
+          "level": "h2",
+          "text": "agentic aiaiartificial intelligencechatbotretail"
+        },
+        {
+          "level": "h2",
+          "text": "AI Business StrategyAI in ActionAI Market TrendsArtificial IntelligenceDeep DivesFeaturesRetail & Logistics AI"
+        },
+        {
+          "level": "h2",
+          "text": "About the Author"
+        },
+        {
+          "level": "h2",
+          "text": "Related"
+        },
+        {
+          "level": "h2",
+          "text": "Join our Community"
+        },
+        {
+          "level": "h2",
+          "text": "Popular"
+        },
+        {
+          "level": "h2",
+          "text": "Latest"
+        },
+        {
+          "level": "h1",
+          "text": "Scaling AI value beyond pilot phase purgatory"
+        },
+        {
+          "level": "h1",
+          "text": "Credit unions, fintech and the AI inflection of financial services"
+        },
+        {
+          "level": "h1",
+          "text": "JPMorgan Chase treats AI spending as core infrastructure"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe"
+        },
+        {
+          "level": "h2",
+          "text": "Explore"
+        },
+        {
+          "level": "h2",
+          "text": "Reach Our Audience"
+        },
+        {
+          "level": "h2",
+          "text": "Categories"
+        },
+        {
+          "level": "h2",
+          "text": "Other Publications"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_artificialintelligence_news_com__f00bf123dd759632",
+      "run_snapshot_id": "a76678536b53_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/a76678536b53_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_artificialintelligence_news_com__f00bf123dd759632.json"
+    },
+    {
+      "snapshot_id": "11519d998e12_20260122_001357",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "final_url": "https://www.ibm.com/think/topics/artificial-intelligence-business",
+      "retrieved_at": "2026-01-22T00:14:35.823870Z",
+      "title": "What is Artificial Intelligence (AI) in Business? | IBM",
+      "site_name": "www.ibm.com",
+      "content_type": "text/html",
+      "section": "How Businesses Are Using AI",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Overview of how artificial intelligence is applied across business functions, including operations, strategy, and decision-making.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1586,
+      "content_hash": "e596eba2ff12588f8c4827a64ab9f4a8f5eef6214b1da302569d698eaf620ff2",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "What is artificial intelligence (AI) in business?"
+        },
+        {
+          "level": "h2",
+          "text": "Authors"
+        },
+        {
+          "level": "h2",
+          "text": "What is artificial intelligence (AI) in business?"
+        },
+        {
+          "level": "h2",
+          "text": "Artificial intelligence: A brief overview"
+        },
+        {
+          "level": "h2",
+          "text": "AI in business use cases"
+        },
+        {
+          "level": "h2",
+          "text": "Resources"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_ibm_com__c0f7a40a9c452b3a",
+      "run_snapshot_id": "11519d998e12_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/11519d998e12_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_ibm_com__c0f7a40a9c452b3a.json"
+    },
+    {
+      "snapshot_id": "d4daa9835e08_20260122_001357",
+      "url": "https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement",
+      "final_url": "https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement",
+      "retrieved_at": "2026-01-22T00:15:04.661266Z",
+      "title": "AI Standards: Federal Engagement | NIST",
+      "site_name": "www.nist.gov",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "NIST overview of U.S. federal standards, frameworks, and engagement efforts related to artificial intelligence governance and risk management.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 572,
+      "content_hash": "04c4b604272219096f060308763628bb69e32f72dda19c6f0bff227ee801d6a7",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Artificial intelligence"
+        },
+        {
+          "level": "h1",
+          "text": "AI Standards: Federal Engagement"
+        },
+        {
+          "level": "h2",
+          "text": "Share"
+        },
+        {
+          "level": "h2",
+          "text": "Contacts"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_nist_gov__590e8afe152537ff",
+      "run_snapshot_id": "d4daa9835e08_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/d4daa9835e08_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_nist_gov__590e8afe152537ff.json"
+    },
+    {
+      "snapshot_id": "55aade1cd7b8_20260122_001357",
+      "url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "final_url": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic",
+      "retrieved_at": "2026-01-22T00:14:29.028278Z",
+      "title": "Artificial Intelligence and Academic Professions | AAUP",
+      "site_name": "www.aaup.org",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "AAUP report outlining academic principles, risks, and considerations related to the use of artificial intelligence in higher education.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 7027,
+      "content_hash": "b6d82a5ea40faba092f7a153ce0e030c344b28aef200d5b1c6a3ea04da841c00",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "AAUP Header Utility Links"
+        },
+        {
+          "level": "h2",
+          "text": "AAUP Header Main Links"
+        },
+        {
+          "level": "h2",
+          "text": "AAUP Sticky Header Links"
+        },
+        {
+          "level": "h1",
+          "text": "Artificial Intelligence and Academic Professions"
+        },
+        {
+          "level": "h2",
+          "text": "Executive Summary"
+        },
+        {
+          "level": "h2",
+          "text": "Introduction"
+        },
+        {
+          "level": "h2",
+          "text": "Methodology"
+        },
+        {
+          "level": "h2",
+          "text": "Findings"
+        },
+        {
+          "level": "h2",
+          "text": "Strategy, Targets, Outputs, and Action"
+        },
+        {
+          "level": "h2",
+          "text": "Conclusion: Next Steps for AI in Higher Education"
+        },
+        {
+          "level": "h2",
+          "text": "Notes"
+        },
+        {
+          "level": "h2",
+          "text": "Join the AAUP"
+        },
+        {
+          "level": "h2",
+          "text": "Social Icons Links"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up for Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Quick Navigation"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_aaup_org__920dd7ff9e19f3c6",
+      "run_snapshot_id": "55aade1cd7b8_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/55aade1cd7b8_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_aaup_org__920dd7ff9e19f3c6.json"
+    },
+    {
+      "snapshot_id": "eede3e1ffaab_20260122_001357",
+      "url": "https://www.nea.org/professional-excellence/student-engagement/tools-tips/dos-and-donts-ai-classroom",
+      "final_url": "https://www.nea.org/professional-excellence/student-engagement/tools-tips/dos-and-donts-ai-classroom",
+      "retrieved_at": "2026-01-22T00:15:03.038648Z",
+      "title": "Dos and Don'ts of AI in the Classroom | NEA",
+      "site_name": "www.nea.org",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "Education-focused guidance outlining practical do's and don'ts for using AI responsibly in classroom settings.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 509,
+      "content_hash": "835b3a33ec7a5e14830d562a9bee1658eb07c656df127e6823cc111a25dbf9bf",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Search"
+        },
+        {
+          "level": "h1",
+          "text": "Dos and Don'ts of AI in the Classroom"
+        },
+        {
+          "level": "h2",
+          "text": "Do…"
+        },
+        {
+          "level": "h2",
+          "text": "Don't…"
+        },
+        {
+          "level": "h2",
+          "text": "References"
+        },
+        {
+          "level": "h2",
+          "text": "Education News Relevant to You"
+        },
+        {
+          "level": "h2",
+          "text": "Stay InformedWe'll come to you"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_nea_org__9eff2ae51d184c5d",
+      "run_snapshot_id": "eede3e1ffaab_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/eede3e1ffaab_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_nea_org__9eff2ae51d184c5d.json"
+    },
+    {
+      "snapshot_id": "fd5b5c8d672e_20260122_001357",
+      "url": "https://infoguides.gmu.edu/GenArtificial-Intelligence/ethics",
+      "final_url": "https://infoguides.gmu.edu/GenArtificial-Intelligence/ethics",
+      "retrieved_at": "2026-01-22T00:14:56.295414Z",
+      "title": "Ethical Use - Generative Artificial Intelligence (AI) - InfoGuides at George Mason University",
+      "site_name": "infoguides.gmu.edu",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "University library guide curating resources on ethical considerations, risks, and responsible use of generative AI.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1795,
+      "content_hash": "50d5bd5a78685dba2fd29da35a0268db51cff34da9691bd5173814052b730e6e",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Generative Artificial Intelligence (AI)"
+        },
+        {
+          "level": "h2",
+          "text": "AI and Ethics"
+        },
+        {
+          "level": "h2",
+          "text": "Mason Specific Guidelines for Ethics"
+        },
+        {
+          "level": "h2",
+          "text": "Key Ethical Considerations"
+        },
+        {
+          "level": "h2",
+          "text": "Broader Ethical Impacts"
+        },
+        {
+          "level": "h2",
+          "text": "Graduate Student-Specific Considerations"
+        },
+        {
+          "level": "h2",
+          "text": "Professional Development Implications"
+        },
+        {
+          "level": "h2",
+          "text": "\"Can I use AI for this task?\" Flowchart"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "infoguides_gmu_edu__9691dd62a09a1480",
+      "run_snapshot_id": "fd5b5c8d672e_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/fd5b5c8d672e_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/infoguides_gmu_edu__9691dd62a09a1480.json"
+    },
+    {
+      "snapshot_id": "43825b352fa8_20260122_001357",
+      "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "final_url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+      "retrieved_at": "2026-01-22T00:14:54.549493Z",
+      "title": "Ethics in AI: Why It Matters - Professional & Executive Development | Harvard DCE",
+      "site_name": "professional.dce.harvard.edu",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Overview explaining why ethical considerations matter in the development and use of artificial intelligence.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1675,
+      "content_hash": "7e3e01d93b23a86c1b34eba480308a5f0deec669d83f5a2b9de2489af5ed56f0",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ethics in AI: Why It Matters"
+        },
+        {
+          "level": "h2",
+          "text": "The Importance of AI Ethics"
+        },
+        {
+          "level": "h2",
+          "text": "Ethical Challenges in AI"
+        },
+        {
+          "level": "h2",
+          "text": "The Impact of AI on Employment"
+        },
+        {
+          "level": "h2",
+          "text": "AI Governance"
+        },
+        {
+          "level": "h2",
+          "text": "The Future of AI Ethics"
+        },
+        {
+          "level": "h2",
+          "text": "Ready to dive deeper into AI?"
+        },
+        {
+          "level": "h2",
+          "text": "Read Next"
+        },
+        {
+          "level": "h2",
+          "text": "Share"
+        },
+        {
+          "level": "h2",
+          "text": "New: AI Fundamentals for Business Leaders (Live Online, Half‑Day)"
+        },
+        {
+          "level": "h2",
+          "text": "Harvard Division of Continuing Education"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "professional_dce_harvard_edu__b348c4377dbfa8f0",
+      "run_snapshot_id": "43825b352fa8_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/43825b352fa8_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/professional_dce_harvard_edu__b348c4377dbfa8f0.json"
+    },
+    {
+      "snapshot_id": "4d024ec2dbb4_20260122_001357",
+      "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "final_url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+      "retrieved_at": "2026-01-22T00:15:01.228259Z",
+      "title": "Ethics of Artificial Intelligence - AI | UNESCO",
+      "site_name": "www.unesco.org",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "UNESCO's global recommendation outlining ethical principles and governance frameworks for the development and use of artificial intelligence.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 564,
+      "content_hash": "d7af3aa55fdf3acc256ac82b93c24ab206f5d7d24bffe728ed0e91d1265ed936",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Breadcrumb"
+        },
+        {
+          "level": "h1",
+          "text": "Ethics of Artificial Intelligence"
+        },
+        {
+          "level": "h2",
+          "text": "Four core values"
+        },
+        {
+          "level": "h2",
+          "text": "A dynamic understanding of AI"
+        },
+        {
+          "level": "h2",
+          "text": "A human rights approach to AI"
+        },
+        {
+          "level": "h2",
+          "text": "Actionable policies"
+        },
+        {
+          "level": "h2",
+          "text": "Implementing the Recommendation"
+        },
+        {
+          "level": "h2",
+          "text": "Women4Ethical AI expert platform to advance gender equality"
+        },
+        {
+          "level": "h2",
+          "text": "Business Council for Ethics of AI"
+        },
+        {
+          "level": "h2",
+          "text": "Ideas, news & stories"
+        },
+        {
+          "level": "h2",
+          "text": "Events"
+        },
+        {
+          "level": "h2",
+          "text": "Examples of ethical dilemmas"
+        },
+        {
+          "level": "h2",
+          "text": "Discover our resources"
+        },
+        {
+          "level": "h2",
+          "text": "More ..."
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_unesco_org__831d1af606b537dd",
+      "run_snapshot_id": "4d024ec2dbb4_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/4d024ec2dbb4_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_unesco_org__831d1af606b537dd.json"
+    },
+    {
+      "snapshot_id": "61d78e5f9640_20260122_001357",
+      "url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "final_url": "https://iep.utm.edu/ethics-of-artificial-intelligence/",
+      "retrieved_at": "2026-01-22T00:14:58.390095Z",
+      "title": "Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy",
+      "site_name": "iep.utm.edu",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "Research / Academic",
+      "relevance_note": "Academic reference article outlining major ethical frameworks and philosophical debates surrounding artificial intelligence.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 12893,
+      "content_hash": "9f8ed6c1d97f4e21d96dafbd4fa1143bda57020eae4b1780c3debc92d1ab75a2",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Internet Encyclopedia of Philosophy"
+        },
+        {
+          "level": "h1",
+          "text": "Ethics of Artificial Intelligence"
+        },
+        {
+          "level": "h2",
+          "text": "1. The Relevance of AI for Ethics"
+        },
+        {
+          "level": "h2",
+          "text": "2. Main Debates"
+        },
+        {
+          "level": "h2",
+          "text": "3. Ethical Guidelines for AI"
+        },
+        {
+          "level": "h2",
+          "text": "4. Conclusion"
+        },
+        {
+          "level": "h2",
+          "text": "5. References and Further Reading"
+        },
+        {
+          "level": "h2",
+          "text": "An encyclopedia of philosophy articles written by professional philosophers."
+        },
+        {
+          "level": "h1",
+          "text": "Stay Connected"
+        },
+        {
+          "level": "h1",
+          "text": "Browse by Topic"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "iep_utm_edu__b4724b6f15ae5245",
+      "run_snapshot_id": "61d78e5f9640_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/61d78e5f9640_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/iep_utm_edu__b4724b6f15ae5245.json"
+    },
+    {
+      "snapshot_id": "5a2792649bfe_20260122_001357",
+      "url": "https://ai.psu.edu/guidelines/",
+      "final_url": "https://ai.psu.edu/guidelines/",
+      "retrieved_at": "2026-01-22T00:15:07.682665Z",
+      "title": "Guidelines - Official Site of the Penn State AI Hub",
+      "site_name": "ai.psu.edu",
+      "content_type": "text/html",
+      "section": "Rules, Risks, and Ethics of AI",
+      "source_type": "University / Official",
+      "relevance_note": "Penn State–specific guidelines outlining appropriate, ethical, and responsible use of artificial intelligence across the university.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 893,
+      "content_hash": "b50ca840ccb62f193bf3d390e795c3dcdef2a67ecc8248281c41512636668c32",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "AI guidelines"
+        },
+        {
+          "level": "h2",
+          "text": "Supported by"
+        },
+        {
+          "level": "h2",
+          "text": "Other AI Resources"
+        },
+        {
+          "level": "h2",
+          "text": "PENN STATE AI CENTERS"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe Today & get all the latest Penn State AI News in your inbox!"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "ai_psu_edu__36e51f436456047f",
+      "run_snapshot_id": "5a2792649bfe_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/5a2792649bfe_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/ai_psu_edu__36e51f436456047f.json"
+    },
+    {
+      "snapshot_id": "a70e2444326f_20260122_001357",
+      "url": "https://er.educause.edu/articles/sponsored/2025/8/4-ways-ai-can-help-students-succeed-in-college",
+      "final_url": "https://er.educause.edu/articles/sponsored/2025/8/4-ways-ai-can-help-students-succeed-in-college",
+      "retrieved_at": "2026-01-22T00:14:32.497215Z",
+      "title": null,
+      "site_name": "er.educause.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "News / Update",
+      "relevance_note": "Sponsored EDUCAUSE Review article outlining examples of how AI tools may support student success in college.",
+      "date_added": "2026-01-21",
+      "scrape_status": "error",
+      "blocked_reason": "HTTP 403",
+      "http_status": 403,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "er_educause_edu__be17ba0e5c9578d3",
+      "run_snapshot_id": "a70e2444326f_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/a70e2444326f_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/er_educause_edu__be17ba0e5c9578d3.json"
+    },
+    {
+      "snapshot_id": "eec426dc63f0_20260122_001357",
+      "url": "https://er.educause.edu/articles/sponsored/2025/5/shaping-the-future-of-learning-ai-in-higher-education",
+      "final_url": "https://er.educause.edu/articles/sponsored/2025/5/shaping-the-future-of-learning-ai-in-higher-education",
+      "retrieved_at": "2026-01-22T00:14:27.314774Z",
+      "title": null,
+      "site_name": "er.educause.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "News / Update",
+      "relevance_note": "Sponsored EDUCAUSE Review article discussing emerging trends and perspectives on how AI is shaping learning in higher education.",
+      "date_added": "2026-01-21",
+      "scrape_status": "error",
+      "blocked_reason": "HTTP 403",
+      "http_status": 403,
+      "word_count": 0,
+      "content_hash": null,
+      "headings": [],
+      "full_text_present": false,
+      "stable_id": "er_educause_edu__830f5b6f120a56a4",
+      "run_snapshot_id": "eec426dc63f0_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/eec426dc63f0_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/er_educause_edu__830f5b6f120a56a4.json"
+    },
+    {
+      "snapshot_id": "827bd8b63c2b_20260122_001357",
+      "url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "final_url": "https://ctl.stanford.edu/aimes/ai-learning-guide-students",
+      "retrieved_at": "2026-01-22T00:14:21.275983Z",
+      "title": "AI and Your Learning: A Guide for Students | Center for Teaching and Learning",
+      "site_name": "ctl.stanford.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "University / Official",
+      "relevance_note": "Student-facing guide from Stanford on using AI tools to support learning responsibly and effectively.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 1545,
+      "content_hash": "aae4bd1f416655f68ba6dc70029afac374497d298aaea21de77f980a0f568fcc",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "AI and Your Learning: A Guide for Students"
+        },
+        {
+          "level": "h2",
+          "text": "Main navigation"
+        },
+        {
+          "level": "h2",
+          "text": "Can I Use Generative AI for Assignments or Research?"
+        },
+        {
+          "level": "h2",
+          "text": "How Might the Design of AI Tools Influence My Learning?"
+        },
+        {
+          "level": "h2",
+          "text": "Can AI Tools Help Me Meet My Learning Goals?"
+        },
+        {
+          "level": "h2",
+          "text": "Questions to Consider When Using Generative AI for Learning"
+        },
+        {
+          "level": "h2",
+          "text": "Additional AI Resources"
+        },
+        {
+          "level": "h2",
+          "text": "References"
+        },
+        {
+          "level": "h2",
+          "text": "Address"
+        },
+        {
+          "level": "h2",
+          "text": "Make an Appointment"
+        },
+        {
+          "level": "h2",
+          "text": "Resources"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "ctl_stanford_edu__7f5d76108cf20c2c",
+      "run_snapshot_id": "827bd8b63c2b_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/827bd8b63c2b_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/ctl_stanford_edu__7f5d76108cf20c2c.json"
+    },
+    {
+      "snapshot_id": "6dfe0de16669_20260122_001357",
+      "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "final_url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+      "retrieved_at": "2026-01-22T00:14:14.539810Z",
+      "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+      "site_name": "www.tc.columbia.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "Explainer / Guide",
+      "relevance_note": "Introductory overview of AI concepts with an emphasis on practical understanding for students and educators.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 802,
+      "content_hash": "e55ba47ece04fd31f535fa42705ef1efe3bd43704f183fb3d9a1bd52b3907231",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "AI for Beginners: Artificial Intelligence Explained in Simple Terms"
+        },
+        {
+          "level": "h2",
+          "text": ""
+        },
+        {
+          "level": "h1",
+          "text": "AI for Beginners: Artificial Intelligence Explained in Simple Terms"
+        },
+        {
+          "level": "h2",
+          "text": "The second post in a series focused on introductory AI concepts and skills"
+        },
+        {
+          "level": "h2",
+          "text": "What is AI?"
+        },
+        {
+          "level": "h2",
+          "text": "What Makes AI Different Now?"
+        },
+        {
+          "level": "h2",
+          "text": "The Basics of Prompts"
+        },
+        {
+          "level": "h2",
+          "text": "How AI Works"
+        },
+        {
+          "level": "h2",
+          "text": "What AI Can Do"
+        },
+        {
+          "level": "h2",
+          "text": "AI Concerns & Limitations"
+        },
+        {
+          "level": "h2",
+          "text": "Which AI Tool to Try?"
+        },
+        {
+          "level": "h2",
+          "text": "Where to Start"
+        },
+        {
+          "level": "h2",
+          "text": "AI transparency statement"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "www_tc_columbia_edu__5643ed615fb8162e",
+      "run_snapshot_id": "6dfe0de16669_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/6dfe0de16669_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/www_tc_columbia_edu__5643ed615fb8162e.json"
+    },
+    {
+      "snapshot_id": "67ab885e7d03_20260122_001357",
+      "url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "final_url": "https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/",
+      "retrieved_at": "2026-01-22T00:14:23.461690Z",
+      "title": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty – Campbell Academic Technology Services",
+      "site_name": "sites.campbell.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "University / Official",
+      "relevance_note": "Summary of recent surveys examining how students and faculty are using and perceiving AI in higher education.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 2967,
+      "content_hash": "6207ddcc63c73b4300cb0baf4ee85c1f680cabfa1737a96bc2c273fe9edc1c65",
+      "headings": [
+        {
+          "level": "h1",
+          "text": "AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty"
+        },
+        {
+          "level": "h1",
+          "text": "Overview:"
+        },
+        {
+          "level": "h2",
+          "text": "AI Usage Among Students"
+        },
+        {
+          "level": "h2",
+          "text": "AI Usage Among Faculty"
+        },
+        {
+          "level": "h2",
+          "text": "AI Competencies Among Students and Faculty"
+        },
+        {
+          "level": "h2",
+          "text": "Attitudes Toward AI in Higher Education"
+        },
+        {
+          "level": "h2",
+          "text": "Comparing Student and Faculty Survey Findings"
+        },
+        {
+          "level": "h2",
+          "text": "Potential Implications for the Future of AI in Higher Education"
+        },
+        {
+          "level": "h2",
+          "text": "Conclusion"
+        },
+        {
+          "level": "h2",
+          "text": "Appendix: Matrix Summary of Key Survey Findings"
+        },
+        {
+          "level": "h2",
+          "text": "Post navigation"
+        },
+        {
+          "level": "h2",
+          "text": "6 thoughts on “AI in Higher Education: A Meta Summary of Recent Surveys of Students and Faculty”"
+        },
+        {
+          "level": "h2",
+          "text": "Recent Posts"
+        },
+        {
+          "level": "h2",
+          "text": "Recent Comments"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "sites_campbell_edu__62497847e244cab4",
+      "run_snapshot_id": "67ab885e7d03_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/67ab885e7d03_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/sites_campbell_edu__62497847e244cab4.json"
+    },
+    {
+      "snapshot_id": "4da5f13df172_20260122_001357",
+      "url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "final_url": "https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool",
+      "retrieved_at": "2026-01-22T00:14:30.882216Z",
+      "title": "How to Use Artificial Intelligence as a Study Tool",
+      "site_name": "blog.methodistcollege.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "University / Official",
+      "relevance_note": "Practical guidance from a university blog on using artificial intelligence as a study and learning support tool.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 873,
+      "content_hash": "d2859fe5a696d961225927924d81c1574ee6d51459339edb000d712ba261d149",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Nursing"
+        },
+        {
+          "level": "h2",
+          "text": "Allied Health"
+        },
+        {
+          "level": "h2",
+          "text": "Healthcare management"
+        },
+        {
+          "level": "h2",
+          "text": "Online Programs"
+        },
+        {
+          "level": "h2",
+          "text": "Professional Development"
+        },
+        {
+          "level": "h2",
+          "text": "Admissions"
+        },
+        {
+          "level": "h2",
+          "text": "Tuition & Financial Aid"
+        },
+        {
+          "level": "h2",
+          "text": "Student life"
+        },
+        {
+          "level": "h2",
+          "text": "About NMC"
+        },
+        {
+          "level": "h1",
+          "text": "How to Use Artificial Intelligence as a Study Tool"
+        },
+        {
+          "level": "h2",
+          "text": "Maintaining Academic Integrity Using AI"
+        },
+        {
+          "level": "h2",
+          "text": "Using Artificial Intelligence as a Learning Tool"
+        },
+        {
+          "level": "h2",
+          "text": "A Step-by-Step Guide to Using a Chatbot in College"
+        },
+        {
+          "level": "h2",
+          "text": "Student Academic Support at NMC"
+        },
+        {
+          "level": "h2",
+          "text": "Featured Blog Articles"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "blog_methodistcollege_edu__35d435c16f5275ac",
+      "run_snapshot_id": "4da5f13df172_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/4da5f13df172_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/blog_methodistcollege_edu__35d435c16f5275ac.json"
+    },
+    {
+      "snapshot_id": "440f1eafd3c7_20260122_001357",
+      "url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "final_url": "https://scs.oregonstate.edu/using-artificial-intelligence",
+      "retrieved_at": "2026-01-22T00:14:25.625837Z",
+      "title": "Using Artificial Intelligence | Student Community Standards | Office of the Dean of Students | Oregon State University",
+      "site_name": "scs.oregonstate.edu",
+      "content_type": "text/html",
+      "section": "Using AI for School and Work",
+      "source_type": "University / Official",
+      "relevance_note": "University guidance outlining appropriate and effective ways students can use artificial intelligence in academic contexts.",
+      "date_added": "2026-01-21",
+      "scrape_status": "success",
+      "blocked_reason": null,
+      "http_status": 200,
+      "word_count": 873,
+      "content_hash": "7449c688c8f4f2d34eef07554fc13e45c073e32b08fcc73aa1a129e440d43b0c",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Breadcrumb"
+        },
+        {
+          "level": "h1",
+          "text": "Using Artificial Intelligence"
+        },
+        {
+          "level": "h2",
+          "text": "Citing Generative Artificial Intelligence"
+        },
+        {
+          "level": "h2",
+          "text": "How to Cite AI"
+        },
+        {
+          "level": "h2",
+          "text": "Glossary of Important AI Terms"
+        },
+        {
+          "level": "h2",
+          "text": "Library Resources"
+        },
+        {
+          "level": "h2",
+          "text": "Academic Integrity"
+        }
+      ],
+      "full_text_present": true,
+      "stable_id": "scs_oregonstate_edu__f3cf6e6718506e10",
+      "run_snapshot_id": "440f1eafd3c7_20260122_001357",
+      "snapshot_path_original": "data/corpus_snapshots/440f1eafd3c7_20260122_001357.json",
+      "snapshot_path_stable": "data/corpus_snapshots_stable/scs_oregonstate_edu__f3cf6e6718506e10.json"
+    }
+  ]
+}

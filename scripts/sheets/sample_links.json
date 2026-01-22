@@ -1,0 +1,20 @@
+[
+  {
+    "section": "How Businesses Are Using AI",
+    "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+    "source_type": "News / Update",
+    "relevance_note": "Real-world example of businesses testing AI agents while maintaining control"
+  },
+  {
+    "section": "AI Basics",
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "source_type": "Explainer / Guide",
+    "relevance_note": "Comprehensive guide to AI fundamentals from IBM"
+  },
+  {
+    "section": "How Businesses Are Using AI",
+    "url": "https://www.forbes.com/sites/bernardmarr/2023/03/06/microsofts-plan-to-infuse-ai-and-chatgpt-into-everything/",
+    "source_type": "Case Study / Example",
+    "relevance_note": "Microsoft's strategic approach to integrating AI across products"
+  }
+]

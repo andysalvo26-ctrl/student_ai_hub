@@ -194,6 +194,99 @@ body {
     background: #CBD5E0;
 }
 
+/* Embed mode (when inside iframe) */
+body.embed {
+    background-color: transparent;
+}
+
+body.embed .widget-container {
+    background-color: transparent;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    overflow: hidden;
+    height: 100%;
+}
+
+body.embed .widget-header {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 0.5rem 0.75rem;
+    border-radius: 0;
+}
+
+body.embed .widget-header h1 {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #1E3A5F;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+body.embed .widget-header .disclosure {
+    display: none;
+}
+
+body.embed .preview-badge {
+    background-color: rgba(0, 0, 0, 0.06);
+    color: #666;
+    padding: 0.15rem 0.4rem;
+    border-radius: 12px;
+    font-size: 0.65rem;
+    font-weight: 400;
+    margin-left: 0;
+}
+
+body.embed .widget-content {
+    background-color: #fff;
+}
+
+body.embed .transcript-area {
+    background-color: #fff;
+    padding: 0.75rem;
+    border-bottom: none;
+}
+
+body.embed .input-area {
+    background-color: #fff;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 0.75rem;
+}
+
+body.embed #user-input {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    font-size: 0.875rem;
+    padding: 0.625rem 0.75rem;
+}
+
+body.embed #user-input:focus {
+    border-color: rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+body.embed #send-button {
+    background-color: #1E3A5F;
+    font-size: 0.875rem;
+    padding: 0.625rem 1rem;
+    font-weight: 500;
+}
+
+body.embed .citations-line {
+    font-size: 0.7rem;
+    color: #888;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+body.embed .message-content {
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
 /* Responsive for embedding */
 @media (max-width: 480px) {
     .widget-header h1 {
@@ -222,6 +315,22 @@ body {
         padding: 0.5rem 0.75rem;
         font-size: 0.85rem;
     }
+
+    body.embed .widget-header h1 {
+        font-size: 0.8125rem;
+    }
+
+    body.embed .message-content {
+        font-size: 0.8125rem;
+    }
+
+    body.embed #user-input {
+        font-size: 0.8125rem;
+    }
+
+    body.embed #send-button {
+        font-size: 0.8125rem;
+    }
 }
 
     </style>
@@ -237,7 +346,7 @@ body {
             <div class="transcript-area" id="transcript-area">
                 <div class="message bot-message">
                     <div class="message-content">
-                        <p>Hello. I can help you find information about the Student AI Hub site. What would you like to know?</p>
+                        <p>Ask about the Hub or any topic in the preview materials.</p>
                     </div>
                 </div>
             </div>
@@ -1700,6 +1809,11 @@ body {
 
     // Initialize
     function init() {
+        // Detect embed mode (inside iframe)
+        if (window.self !== window.top) {
+            document.body.classList.add('embed');
+        }
+        
         // Load dataset (will be embedded in dist version)
         dataset = loadDataset();
         

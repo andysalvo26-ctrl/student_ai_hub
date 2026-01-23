@@ -422,6 +422,11 @@
 
     // Initialize
     function init() {
+        // Detect embed mode (inside iframe)
+        if (window.self !== window.top) {
+            document.body.classList.add('embed');
+        }
+        
         // Load dataset (will be embedded in dist version)
         dataset = loadDataset();
         

@@ -1,0 +1,23 @@
+{
+  "url": "https://er.educause.edu/articles/sponsored/2025/8/4-ways-ai-can-help-students-succeed-in-college",
+  "final_url": "https://er.educause.edu/articles/sponsored/2025/8/4-ways-ai-can-help-students-succeed-in-college",
+  "retrieved_at": "2026-01-22T00:14:32.497215Z",
+  "http_status": 403,
+  "title": null,
+  "site_name": "er.educause.edu",
+  "content_type": "text/html",
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "error",
+  "blocked_reason": "HTTP 403",
+  "notes": {
+    "section": "Using AI for School and Work",
+    "source_type": "News / Update",
+    "relevance_note": "Sponsored EDUCAUSE Review article outlining examples of how AI tools may support student success in college.",
+    "date_added": "2026-01-21",
+    "url": "https://er.educause.edu/articles/sponsored/2025/8/4-ways-ai-can-help-students-succeed-in-college"
+  }
+}

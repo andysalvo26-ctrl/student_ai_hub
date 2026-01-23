@@ -8,8 +8,8 @@ scripts/sheets/.env
 __pycache__/
 
 # Data directories
-corpus_snapshots/
-runs/
+data/snapshots/
+data/runs/
 
 # macOS
 .DS_Store

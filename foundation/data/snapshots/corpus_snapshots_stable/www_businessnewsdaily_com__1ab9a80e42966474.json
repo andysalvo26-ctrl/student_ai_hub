@@ -1,0 +1,23 @@
+{
+  "url": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+  "final_url": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+  "retrieved_at": "2026-01-22T00:14:41.695211Z",
+  "http_status": 200,
+  "title": null,
+  "site_name": "www.businessnewsdaily.com",
+  "content_type": "text/html",
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "blocked",
+  "blocked_reason": "Possible paywall or access restriction detected",
+  "notes": {
+    "section": "How Businesses Are Using AI",
+    "source_type": "News / Update",
+    "relevance_note": "Overview of current artificial intelligence trends and applications across businesses, written for a general business audience.",
+    "date_added": "2026-01-21",
+    "url": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "numberOfFiles": 13,
+    "numberOfChunks": 40,
+    "chunkSize": 800,
+    "chunkOverlap": 100,
+    "generatedAt": "2026-01-23T04:52:39.144Z"
+  },
+  "fileList": [
+    {
+      "path": "demo_corpus/pages/ai_at_penn_state.md",
+      "title": "AI at Penn State",
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_basics.md",
+      "title": "AI Basics",
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "ai-basics"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/ai_by_smeal_major.md",
+      "title": "AI by Smeal Major",
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_news_that_matters.md",
+      "title": "AI News That Matters",
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+      "title": "AI Tools You Might Use",
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "tools"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/faq_students.md",
+      "title": "FAQ for Students",
+      "chunks": 5,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/foundational_sources.md",
+      "title": "Foundational Sources",
+      "chunks": 2,
+      "tags": [
+        "transparency",
+        "sources"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/glossary.md",
+      "title": "Glossary",
+      "chunks": 5,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/home.md",
+      "title": "Student AI Hub",
+      "chunks": 3,
+      "tags": [
+        "home",
+        "overview"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/how_businesses_use_ai.md",
+      "title": "How Businesses Are Using AI",
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "business"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/process_and_provenance.md",
+      "title": "Process and Provenance",
+      "chunks": 2,
+      "tags": [
+        "transparency",
+        "process"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/rules_risks_ethics.md",
+      "title": "Rules, Risks, and Ethics of AI",
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "ethics"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/using_ai_school_work.md",
+      "title": "Using AI for School and Work",
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "school-work"
+      ]
+    }
+  ]
+}

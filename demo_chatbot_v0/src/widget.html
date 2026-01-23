@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student AI Hub — Demo Guide</title>
+    <link rel="stylesheet" href="widget.css">
+</head>
+<body>
+    <div class="widget-container">
+        <header class="widget-header">
+            <h1>Student AI Hub — Demo Guide</h1>
+            <p class="disclosure">Demo mode. Answers are limited to documented project materials.</p>
+        </header>
+
+        <div class="widget-content">
+            <div class="transcript-area" id="transcript-area">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello. I can help answer questions about this site's structure, pages, and how it was built. What would you like to know?</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-area-row">
+                    <input type="text" id="user-input" placeholder="Ask about the site, sections, or where to start..." />
+                    <button id="send-button">Send</button>
+                </div>
+                <p class="input-note">Preview assistant. Answers may miss things while the full version is finalized.</p>
+            </div>
+
+            <div class="info-section">
+                <button class="info-toggle" id="what-can-answer-toggle">What I can answer</button>
+                <div class="info-content" id="what-can-answer-content">
+                    <p>I can answer questions about:</p>
+                    <ul>
+                        <li>What this site is and what it contains</li>
+                        <li>How the foundation was built</li>
+                        <li>Repository structure and organization</li>
+                        <li>Source registry and audit materials</li>
+                        <li>Process documentation</li>
+                    </ul>
+                    <p>I cannot answer questions about:</p>
+                    <ul>
+                        <li>Specific AI tools or recommendations</li>
+                        <li>AI policies or ethics beyond what's documented</li>
+                        <li>Content not in the demo dataset</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="info-section">
+                <button class="info-toggle" id="training-manifest-toggle">Training manifest</button>
+                <div class="info-content" id="training-manifest-content">
+                    <p>This demo uses content from the following files:</p>
+                    <ul id="manifest-list"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="manifest-modal">
+        <div class="modal-content">
+            <span class="modal-close" id="modal-close">&times;</span>
+            <h2>Training Manifest</h2>
+            <p>This demo chatbot uses content from the following files:</p>
+            <ul id="modal-manifest-list"></ul>
+            <p class="modal-note">Only these files are included in the demo dataset. Questions outside this scope will be refused.</p>
+        </div>
+    </div>
+
+    <script src="widget.js"></script>
+</body>
+</html>

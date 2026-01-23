@@ -1,0 +1,23 @@
+{
+  "url": "https://www.sciencedirect.com/science/article/pii/S1877050920307389",
+  "final_url": "https://www.sciencedirect.com/science/article/pii/S1877050920307389",
+  "retrieved_at": null,
+  "http_status": null,
+  "title": null,
+  "site_name": null,
+  "content_type": null,
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "blocked",
+  "blocked_reason": "Blocked by robots.txt",
+  "notes": {
+    "section": "How Businesses Are Using AI",
+    "source_type": "Research / Academic",
+    "relevance_note": "Academic research article examining applications and impacts of artificial intelligence in business contexts.",
+    "date_added": "2026-01-21",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877050920307389"
+  }
+}

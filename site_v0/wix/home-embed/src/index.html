@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student AI Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Student AI Hub</h1>
+            <p class="subtitle" id="subtitle"></p>
+        </header>
+
+        <main>
+            <section class="intro">
+                <p class="intro-text" id="intro-text"></p>
+            </section>
+
+            <section class="sections primary-sections">
+                <h2 id="primary-sections-title"></h2>
+                <div class="section-grid" id="primary-section-grid">
+                    <!-- Primary sections will be populated from content.json via render.js -->
+                </div>
+            </section>
+
+            <section class="sections human-maintained">
+                <h2 id="human-maintained-title"></h2>
+                <p class="human-maintained-note" id="human-maintained-note"></p>
+                <div class="section-grid" id="human-maintained-grid">
+                    <!-- Human-maintained sections will be populated from content.json via render.js -->
+                </div>
+            </section>
+
+            <section class="sections transparency">
+                <h2 id="transparency-title"></h2>
+                <div class="section-grid" id="transparency-grid">
+                    <!-- Transparency tiles will be populated from content.json via render.js -->
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p class="footer-text" id="footer-text"></p>
+        </footer>
+    </div>
+
+    <script src="content.json" type="application/json" id="content-data"></script>
+    <script src="links.json" type="application/json" id="links-data"></script>
+    <script src="render.js"></script>
+</body>
+</html>

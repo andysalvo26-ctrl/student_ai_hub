@@ -1,0 +1,206 @@
+/* Student AI Hub — Home Page Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+}
+
+/* Header */
+header {
+    margin-bottom: 4rem;
+    text-align: center;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    font-size: 1.15rem;
+    color: #666;
+    font-weight: 400;
+}
+
+/* Main content */
+main {
+    margin-bottom: 4rem;
+}
+
+section {
+    margin-bottom: 4rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 1.5rem;
+}
+
+/* Intro section */
+.intro {
+    margin-bottom: 4rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-text {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #444;
+}
+
+/* Section grids */
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+/* Section cards */
+.section-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 2rem;
+    background-color: #fafafa;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    position: relative;
+}
+
+.section-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: #d0d0d0;
+}
+
+.section-card h3 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 0.75rem;
+}
+
+.section-card p {
+    font-size: 0.95rem;
+    color: #666;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.section-card a {
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.section-card a:hover {
+    text-decoration: underline;
+}
+
+/* Human-maintained section */
+.human-maintained {
+    margin-top: 5rem;
+}
+
+.human-maintained-note {
+    font-size: 0.9rem;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+}
+
+.human-maintained .section-card {
+    position: relative;
+    padding-top: 2.5rem;
+}
+
+.human-maintained-tag {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.25rem 0.5rem;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+}
+
+/* Transparency section */
+.transparency {
+    margin-top: 5rem;
+}
+
+.transparency .section-card {
+    background-color: #f8f8f8;
+}
+
+/* Footer */
+footer {
+    margin-top: 5rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 2rem 1rem;
+    }
+
+    h1 {
+        font-size: 2.25rem;
+    }
+
+    .section-grid {
+        grid-template-columns: 1fr;
+        gap: 1.25rem;
+    }
+
+    .section-card {
+        padding: 1.5rem;
+    }
+
+    .human-maintained .section-card {
+        padding-top: 2rem;
+    }
+
+    section {
+        margin-bottom: 3rem;
+    }
+
+    .intro {
+        margin-bottom: 3rem;
+    }
+}

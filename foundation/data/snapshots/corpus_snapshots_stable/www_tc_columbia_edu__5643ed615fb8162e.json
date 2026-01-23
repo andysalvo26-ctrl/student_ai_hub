@@ -1,0 +1,76 @@
+{
+  "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+  "final_url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/",
+  "retrieved_at": "2026-01-22T00:14:14.539810Z",
+  "http_status": 200,
+  "title": "AI for Beginners: Artificial Intelligence Explained in Simple Terms",
+  "site_name": "www.tc.columbia.edu",
+  "content_type": "text/html",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "AI for Beginners: Artificial Intelligence Explained in Simple Terms"
+    },
+    {
+      "level": "h2",
+      "text": ""
+    },
+    {
+      "level": "h1",
+      "text": "AI for Beginners: Artificial Intelligence Explained in Simple Terms"
+    },
+    {
+      "level": "h2",
+      "text": "The second post in a series focused on introductory AI concepts and skills"
+    },
+    {
+      "level": "h2",
+      "text": "What is AI?"
+    },
+    {
+      "level": "h2",
+      "text": "What Makes AI Different Now?"
+    },
+    {
+      "level": "h2",
+      "text": "The Basics of Prompts"
+    },
+    {
+      "level": "h2",
+      "text": "How AI Works"
+    },
+    {
+      "level": "h2",
+      "text": "What AI Can Do"
+    },
+    {
+      "level": "h2",
+      "text": "AI Concerns & Limitations"
+    },
+    {
+      "level": "h2",
+      "text": "Which AI Tool to Try?"
+    },
+    {
+      "level": "h2",
+      "text": "Where to Start"
+    },
+    {
+      "level": "h2",
+      "text": "AI transparency statement"
+    }
+  ],
+  "full_text": "By Debbie Beaudry, Director of Academic Technology\nIf you're curious about artificial intelligence but don't know where to start, you're in the right place. We'll be your guide, demystifying AI and exploring its many practical applications, whether you want to use these powerful tools or learn more.\nWhat is AI?\nAI enables machines to perform tasks that typically require human intelligence. You’ve probably used AI without realizing it—like when your streaming service recommends shows, your shopping site suggests products, or your phone predicts text as you type.\nWhat Makes AI Different Now?\nAI has been around for years, but in November 2022, OpenAI made ChatGPT widely available. This marked a shift because ChatGPT is a generative AI tool—it doesn’t just analyze data; it creates new content based on what you input.\nThe Basics of Prompts\nInteracting with generative AI tools like ChatGPT involves entering prompts (questions or instructions) and receiving responses (the AI’s generated output).\nTypes of Basic Prompts\n- Question Prompt – Ask a question, and the AI provides an answer (e.g., What causes lightning?).\n- Instruction Prompt – Give a command, and the AI performs a task (e.g., Create a 45-minute lesson plan on climate change).\nWatch this 90-second video to see this in action.\nA short video guiding viewers through basic generative AI prompts\nHow AI Works\nAI tools are trained on vast amounts of information from the internet. Using complex algorithms, they predict and generate responses that mimic human conversation. These tools belong to a category called large language models (LLMs). Watch our 90-second explainer video for more info.\nA brief explainer about Generative AI\nWhat AI Can Do\nGenerative AI tools can:\n- Assist with writing (clarify, summarize, or generate content)\n- Spark ideas\n- Explain topics or serve as a tutor\n- Summarize articles, videos, or audio\n- Help shift focus from routine tasks to higher-level thinking\nAI Concerns & Limitations\nWhile AI is a powerful tool with many benefits, it also comes with challenges and ethical concerns. Understanding these can help you use AI responsibly. Here are some key issues to keep in mind:\n- Data Privacy – Be cautious about sharing personal or proprietary information; some AI models may use inputs for further training.\n- Inaccuracy (Hallucinations) – AI sometimes generates incorrect or misleading information that sounds plausible.\n- Biases – Since AI learns from internet data, it can reflect existing biases.\n- Ethical Issues – AI tools are trained on content scraped from the web, often without permission from creators. Lawsuits regarding copyright violations are ongoing.\n- Accessibility - Not all AI tools are built to be accessible for people with disabilities.\n- Environmental Impact – AI models require vast computing power and consume significant electricity and water.\n- Human Labor – AI moderation sometimes relies on underpaid workers who review harmful content, sometimes at personal cost.\nWhich AI Tool to Try?\nSince ChatGPT’s release, many other generative AI text tools have emerged. Most offer free versions but also have paid upgrades for more advanced features. Here are some popular options:\nWhere to Start\nThe best way to understand AI is to try it yourself. Start with a free version of one of these tools and ask a few basic questions. Remember: Do not enter personal or sensitive information.\nGenerative AI is a powerful tool—but like any technology, it has strengths and risks. The key is using it wisely and responsibly.\nAI transparency statement\nMy first step was to write the piece in a Google Doc without the use of generative AI. I then entered into ChatGPT the prompt “I'm writing a blog post about the basics of generative AI. The audience is adults who are non-technical. The writing style should be clear and casual. Here is a rough draft. Could you please make the text clearer, more concise, and organized?” I then pasted into ChatGPT the text of my draft. When ChatGPT came back with a response, I pasted the ChatGPT version back into a Google Doc and I revised it. The AI had made some of my text too concise so important meaning was lost. I also made small edits because some of the language didn’t feel like mine. The final version was reviewed by humans on our team who provided feedback.\nDisclaimer: The applications and their respective companies shared in this article have not been vetted or endorsed by Teachers College. Teachers College does not assume any responsibility for the accessibility, privacy, or security of these applications. The usage of these applications is at the sole discretion of the user, and Teachers College disclaims any legal liability associated with their usage. It is the responsibility of the users to conduct their own research and adhere to applicable laws, regulations, and best practices when incorporating these applications into their educational activities.",
+  "excerpt": "By Debbie Beaudry, Director of Academic Technology If you're curious about artificial intelligence but don't know where to start, you're in the right place. We'll be your guide, demystifying AI and exploring its many practical applications, whether you want to use these powerful tools or learn more. What is AI? AI enables machines to perform tasks that typically require human intelligence. You’ve probably used AI without realizing it—like when your streaming service recommends shows, your shopping site suggests products, or your phone predicts text as you type. What Makes AI Different Now? AI has been around for years, but in November 2022, OpenAI made ChatGPT widely available. This marked a shift because ChatGPT is a generative AI tool—it doesn’t just analyze data; it creates new content based on what you input. The Basics of Prompts Interacting with generative AI tools like ChatGPT involves entering prompts (questions or instructions) and receiving responses (the AI’s generated output). Types of Basic Prompts - Question Prompt – Ask a question, and the AI provides an answer (e.g., What causes lightning?). - Instruction Prompt – Give a command, and the AI performs a task (e.g., Create a 45-minute lesson plan on climate change). Watch this 90-second video to see this in action. A short video guiding viewers through basic generative AI prompts How AI Works AI tools are trained on vast amounts of information from the internet. Using complex algorithms, they predict and generate responses that mimic human conversation. These tools belong to a category called large language models (LLMs). Watch our 90-second explainer video for more info. A brief explainer about Generative AI What AI Can Do Generative AI tools can: - Assist with writing (clarify, summarize, or generate content) - Spark ideas - Explain topics or serve as a tutor - Summarize articles, videos, or audio - Help shift focus from routine tasks to higher-level thinking AI Concerns & Limitations While AI is a powerful tool with many benefits, it also comes with challenges and ethical concerns. Understanding these can help you use AI responsibly. Here are some key issues to keep in mind: - Data Privacy – Be cautious about sharing personal or proprietary information; some AI models may use inputs for further training. - Inaccuracy (Hallucinations) – AI sometimes generates incorrect or misleading information that sounds plausible. - Biases – Since AI learns from internet data, it can reflect existing biases. - Ethical Issues – AI tools are trained on content scraped from the web, often without permission from creators. Lawsuits regarding copyright violations are ongoing. - Accessibility - Not all AI tools are built to be accessible for people with disabilities. - Environmental Impact – AI models require vast computing power and consume significant electricity and water. - Human Labor – AI moderation sometimes relies on underpaid workers who review harmful content, sometimes at personal cost. Which AI Tool to Try? Since ChatGPT’s release, many other generative AI text tools have emerged. Most offer free versions but also have paid upgrades for more advanced features. Here are some popular options: Where to Start The best way to understand AI is to try it yourself. Start with a free version of one of these tools and ask a few basic questions. Remember: Do not enter personal or sensitive information. Generative AI is a powerful tool—but like any technology, it has strengths and risks. The key is using it wisely and responsibly. AI transparency statement My first step was to write the piece in a Google Doc without the use of generative AI. I then entered into ChatGPT the prompt “I'm writing a blog post about the basics of generative AI. The audience is adults who are non-technical. The writing style should be clear and casual. Here is a rough draft. Could you please make the text clearer, more concise, and organized?” I then pasted into ChatGPT the text of my draft. When ChatGPT came back with a response, I pasted the ChatGPT version back into a Google Doc and I revised it. The AI had made some of my text too concise so important meaning was lost. I also made small edits because some of the language didn’t feel like mine. The final version was reviewed by humans on our team who provided feedback. Disclaimer: The applications and their respective companies shared in this article have not been vetted or endorsed by Teachers College. Teachers College does not assume any responsibility for the accessibility, privacy, or security of these applications. The usage of these applications is at the sole discretion of the user, and Teachers College disclaims any legal liability associated with their usage. It is the responsibility of the users to conduct their own research and adhere to applicable laws, regulations, and best practices when incorporating these applications into their",
+  "word_count": 802,
+  "content_hash": "e55ba47ece04fd31f535fa42705ef1efe3bd43704f183fb3d9a1bd52b3907231",
+  "scrape_status": "success",
+  "blocked_reason": null,
+  "notes": {
+    "section": "Using AI for School and Work",
+    "source_type": "Explainer / Guide",
+    "relevance_note": "Introductory overview of AI concepts with an emphasis on practical understanding for students and educators.",
+    "date_added": "2026-01-21",
+    "url": "https://www.tc.columbia.edu/digitalfuturesinstitute/blog/dfi-perspectives/ai-for-beginners-new/"
+  }
+}

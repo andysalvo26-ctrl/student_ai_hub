@@ -1,0 +1,23 @@
+{
+  "url": "https://er.educause.edu/articles/sponsored/2025/5/shaping-the-future-of-learning-ai-in-higher-education",
+  "final_url": "https://er.educause.edu/articles/sponsored/2025/5/shaping-the-future-of-learning-ai-in-higher-education",
+  "retrieved_at": "2026-01-22T00:14:27.314774Z",
+  "http_status": 403,
+  "title": null,
+  "site_name": "er.educause.edu",
+  "content_type": "text/html",
+  "headings": [],
+  "full_text": null,
+  "excerpt": null,
+  "word_count": 0,
+  "content_hash": null,
+  "scrape_status": "error",
+  "blocked_reason": "HTTP 403",
+  "notes": {
+    "section": "Using AI for School and Work",
+    "source_type": "News / Update",
+    "relevance_note": "Sponsored EDUCAUSE Review article discussing emerging trends and perspectives on how AI is shaping learning in higher education.",
+    "date_added": "2026-01-21",
+    "url": "https://er.educause.edu/articles/sponsored/2025/5/shaping-the-future-of-learning-ai-in-higher-education"
+  }
+}

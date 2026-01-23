@@ -1,0 +1,149 @@
+{
+  "version": "v0",
+  "generatedAt": "2026-01-23T04:52:39.144Z",
+  "files": [
+    {
+      "path": "demo_corpus/pages/ai_at_penn_state.md",
+      "title": "AI at Penn State",
+      "hash": "8545d45f7d697d58",
+      "lastModified": "2026-01-23T04:00:41.456Z",
+      "size": 467,
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_basics.md",
+      "title": "AI Basics",
+      "hash": "0063ae00596762e5",
+      "lastModified": "2026-01-23T04:00:41.452Z",
+      "size": 2693,
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "ai-basics"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/ai_by_smeal_major.md",
+      "title": "AI by Smeal Major",
+      "hash": "bb7f5a25fcc51dfd",
+      "lastModified": "2026-01-23T04:00:41.456Z",
+      "size": 484,
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_news_that_matters.md",
+      "title": "AI News That Matters",
+      "hash": "e3918c03cf290552",
+      "lastModified": "2026-01-23T04:00:41.456Z",
+      "size": 493,
+      "chunks": 1,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+      "title": "AI Tools You Might Use",
+      "hash": "e3a68f829d2aacab",
+      "lastModified": "2026-01-23T04:00:41.454Z",
+      "size": 2338,
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "tools"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/faq_students.md",
+      "title": "FAQ for Students",
+      "hash": "0285be03a6b3ea8f",
+      "lastModified": "2026-01-23T04:00:41.455Z",
+      "size": 3529,
+      "chunks": 5,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/foundational_sources.md",
+      "title": "Foundational Sources",
+      "hash": "aed49de5891febea",
+      "lastModified": "2026-01-23T04:00:41.455Z",
+      "size": 1270,
+      "chunks": 2,
+      "tags": [
+        "transparency",
+        "sources"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/glossary.md",
+      "title": "Glossary",
+      "hash": "a64be03be236ea1f",
+      "lastModified": "2026-01-23T04:00:41.455Z",
+      "size": 3265,
+      "chunks": 5,
+      "tags": []
+    },
+    {
+      "path": "demo_corpus/pages/home.md",
+      "title": "Student AI Hub",
+      "hash": "5502f729129871bb",
+      "lastModified": "2026-01-23T04:00:41.452Z",
+      "size": 1503,
+      "chunks": 3,
+      "tags": [
+        "home",
+        "overview"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/how_businesses_use_ai.md",
+      "title": "How Businesses Are Using AI",
+      "hash": "7bbd89e59440a57e",
+      "lastModified": "2026-01-23T04:00:41.453Z",
+      "size": 2512,
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "business"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/process_and_provenance.md",
+      "title": "Process and Provenance",
+      "hash": "e0ee573ffb612d65",
+      "lastModified": "2026-01-23T04:00:41.455Z",
+      "size": 1375,
+      "chunks": 2,
+      "tags": [
+        "transparency",
+        "process"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/rules_risks_ethics.md",
+      "title": "Rules, Risks, and Ethics of AI",
+      "hash": "a336047cfb3010f7",
+      "lastModified": "2026-01-23T04:00:41.454Z",
+      "size": 2588,
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "ethics"
+      ]
+    },
+    {
+      "path": "demo_corpus/pages/using_ai_school_work.md",
+      "title": "Using AI for School and Work",
+      "hash": "f6d1b482e8eacf9f",
+      "lastModified": "2026-01-23T04:00:41.453Z",
+      "size": 2605,
+      "chunks": 4,
+      "tags": [
+        "pillar",
+        "school-work"
+      ]
+    }
+  ],
+  "totalFiles": 13,
+  "totalChunks": 40
+}

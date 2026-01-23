@@ -1,0 +1,92 @@
+{
+  "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+  "final_url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/",
+  "retrieved_at": "2026-01-22T00:14:01.176574Z",
+  "http_status": 200,
+  "title": "Kroger and Lowe’s test AI agents without handing control to Google",
+  "site_name": "www.artificialintelligence-news.com",
+  "content_type": "text/html",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Retailers like Kroger and Lowe’s test AI agents without handing control to Google"
+    },
+    {
+      "level": "h2",
+      "text": "agentic aiaiartificial intelligencechatbotretail"
+    },
+    {
+      "level": "h2",
+      "text": "AI Business StrategyAI in ActionAI Market TrendsArtificial IntelligenceDeep DivesFeaturesRetail & Logistics AI"
+    },
+    {
+      "level": "h2",
+      "text": "About the Author"
+    },
+    {
+      "level": "h2",
+      "text": "Related"
+    },
+    {
+      "level": "h2",
+      "text": "Join our Community"
+    },
+    {
+      "level": "h2",
+      "text": "Popular"
+    },
+    {
+      "level": "h2",
+      "text": "Latest"
+    },
+    {
+      "level": "h1",
+      "text": "Scaling AI value beyond pilot phase purgatory"
+    },
+    {
+      "level": "h1",
+      "text": "Credit unions, fintech and the AI inflection of financial services"
+    },
+    {
+      "level": "h1",
+      "text": "JPMorgan Chase treats AI spending as core infrastructure"
+    },
+    {
+      "level": "h2",
+      "text": "Subscribe"
+    },
+    {
+      "level": "h2",
+      "text": "Explore"
+    },
+    {
+      "level": "h2",
+      "text": "Reach Our Audience"
+    },
+    {
+      "level": "h2",
+      "text": "Categories"
+    },
+    {
+      "level": "h2",
+      "text": "Other Publications"
+    },
+    {
+      "level": "h2",
+      "text": "Subscribe"
+    }
+  ],
+  "full_text": "Retailers are starting to confront a problem that sits behind much of the hype around AI shopping: as customers turn to chatbots and automated assistants to decide what to buy, retailers risk losing control over how their products are shown, sold, and bundled.\nThat concern is pushing some large chains to build or support their own AI-powered shopping tools, rather than relying only on third-party platforms. The goal is not to chase novelty, but to stay close to customers as buying decisions shift toward automation.\nSeveral retailers, including Lowe’s, Kroger, and Papa Johns, are experimenting with AI agents that can help shoppers search for items, get support, or place orders. Many of these efforts are backed by tools from Google, which is offering retailers a way to deploy agents inside their own apps and websites instead of sending customers elsewhere.\nKeeping control as shopping shifts toward automation\nFor grocers like Kroger, the concern is not whether AI will influence shopping, but how quickly it might do so. The company is testing an AI shopping agent that can compare items, handle purchases, and adjust suggestions based on customer habits and needs.\n“Things are moving at a pace that if you’re not already deep into [AI agents], you’re probably creating a competitive barrier or disadvantage,” said Yael Cosset, Kroger’s chief digital officer and executive vice president.\nThe agent, which sits inside Kroger’s mobile app, can take into account factors such as time limits or meal plans, while also drawing on data the retailer already has, including price sensitivity and brand preferences. The intent is to keep those decisions within Kroger’s own systems rather than handing them off to external platforms.\nThat approach reflects a wider tension in retail. Making products available directly inside large AI chatbots can widen reach, but it can also weaken customer loyalty, reduce add-on sales, and cut into advertising revenue. Once a third party controls the interface, retailers have less say in how choices are framed.\nThis is one reason some retailers are cautious about selling directly through tools built by companies like OpenAI or Microsoft. Both have rolled out features that allow users to complete purchases inside their chatbots, and last year Walmart said it would work with OpenAI to let customers buy items through ChatGPT.\nFor retailers, the appeal of running their own agents is control. “There’s a market shift across the spectrum of retailers who are investing in their own capabilities rather than just relying on third-parties,” said Lauren Wiener, a global leader of marketing and customer growth at Boston Consulting Group.\nWhy retailers are spreading risk across vendors\nStill, building and maintaining these systems is not simple. The underlying models change quickly, and tools that work today may need reworking weeks later. That reality is shaping how retailers think about vendors.\nAt Lowe’s, Google’s shopping agent sits behind the retailer’s own virtual assistant, Mylow. When customers use Mylow online, the company says conversion rates more than double. But Lowe’s does not rely on a single provider.\n“The tech we build can become outdated in two weeks,” said Seemantini Godbole, Lowe’s chief digital and information officer. That pace is one reason Lowe’s works with several vendors, including OpenAI, rather than betting on one system.\nKroger is taking a similar approach. Alongside Google, it works with companies such as Instacart to support its agent strategy. “[AI agents] are not just top of mind, it’s a priority for us,” Cosset said. “It’s going at a remarkable pace.”\nTesting AI agents without overcommitting\nFor others, the challenge is not keeping up with the technology, but deciding how much to build at all. Papa Johns does not create its own AI models or agents. Instead, it is testing Google’s food ordering agent to handle tasks like estimating how many pizzas a group might need based on a photo uploaded by a customer.\nCustomers will be able to use the agent by phone, through the company’s website, or in its app. “I don’t want to be an AI expert in terms of building the agents,” said Kevin Vasconi, Papa Johns’ chief digital and technology officer. “I want to be an AI expert in terms of, ‘How do I use the agents?’”\nThat focus on use rather than ownership reflects a practical view of where AI fits today. While agent-based shopping is gaining attention, it is not yet the main way people buy everyday goods.\n“I don’t think [AI agents] are going to totally change the industry,” Vasconi said. “People still call our stores on the phone to order pizza in this day and age.”\nAnalysts see Google’s tools less as a finished answer and more as a way to lower the barrier for retailers that do not want to start from scratch. “The real challenge here is application of the technologies,” said Ed Anderson, a tech analyst at Gartner. “These announcements take a step forward so that retailers don’t have to start from ground zero.”\nFor now, retailers are testing, mixing vendors, and holding back from firm commitments. Kroger, Lowe’s, and Papa Johns have not shared detailed results from their trials. That caution suggests many are still trying to understand how much control they are willing to give up—and how much they can afford to keep—as shopping slowly shifts toward automation.\n(Photo by Heidi Fin)\nSee also: Grab brings robotics in-house to manage delivery costs\nWant to learn more about AI and big data from industry leaders? Check outAI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\nAI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+  "excerpt": "Retailers are starting to confront a problem that sits behind much of the hype around AI shopping: as customers turn to chatbots and automated assistants to decide what to buy, retailers risk losing control over how their products are shown, sold, and bundled. That concern is pushing some large chains to build or support their own AI-powered shopping tools, rather than relying only on third-party platforms. The goal is not to chase novelty, but to stay close to customers as buying decisions shift toward automation. Several retailers, including Lowe’s, Kroger, and Papa Johns, are experimenting with AI agents that can help shoppers search for items, get support, or place orders. Many of these efforts are backed by tools from Google, which is offering retailers a way to deploy agents inside their own apps and websites instead of sending customers elsewhere. Keeping control as shopping shifts toward automation For grocers like Kroger, the concern is not whether AI will influence shopping, but how quickly it might do so. The company is testing an AI shopping agent that can compare items, handle purchases, and adjust suggestions based on customer habits and needs. “Things are moving at a pace that if you’re not already deep into [AI agents], you’re probably creating a competitive barrier or disadvantage,” said Yael Cosset, Kroger’s chief digital officer and executive vice president. The agent, which sits inside Kroger’s mobile app, can take into account factors such as time limits or meal plans, while also drawing on data the retailer already has, including price sensitivity and brand preferences. The intent is to keep those decisions within Kroger’s own systems rather than handing them off to external platforms. That approach reflects a wider tension in retail. Making products available directly inside large AI chatbots can widen reach, but it can also weaken customer loyalty, reduce add-on sales, and cut into advertising revenue. Once a third party controls the interface, retailers have less say in how choices are framed. This is one reason some retailers are cautious about selling directly through tools built by companies like OpenAI or Microsoft. Both have rolled out features that allow users to complete purchases inside their chatbots, and last year Walmart said it would work with OpenAI to let customers buy items through ChatGPT. For retailers, the appeal of running their own agents is control. “There’s a market shift across the spectrum of retailers who are investing in their own capabilities rather than just relying on third-parties,” said Lauren Wiener, a global leader of marketing and customer growth at Boston Consulting Group. Why retailers are spreading risk across vendors Still, building and maintaining these systems is not simple. The underlying models change quickly, and tools that work today may need reworking weeks later. That reality is shaping how retailers think about vendors. At Lowe’s, Google’s shopping agent sits behind the retailer’s own virtual assistant, Mylow. When customers use Mylow online, the company says conversion rates more than double. But Lowe’s does not rely on a single provider. “The tech we build can become outdated in two weeks,” said Seemantini Godbole, Lowe’s chief digital and information officer. That pace is one reason Lowe’s works with several vendors, including OpenAI, rather than betting on one system. Kroger is taking a similar approach. Alongside Google, it works with companies such as Instacart to support its agent strategy. “[AI agents] are not just top of mind, it’s a priority for us,” Cosset said. “It’s going at a remarkable pace.” Testing AI agents without overcommitting For others, the challenge is not keeping up with the technology, but deciding how much to build at all. Papa Johns does not create its own AI models or agents. Instead, it is testing Google’s food ordering agent to handle tasks like estimating how many pizzas a group might need based on a photo uploaded by a customer. Customers will be able to use the agent by phone, through the company’s website, or in its app. “I don’t want to be an AI expert in terms of building the agents,” said Kevin Vasconi, Papa Johns’ chief digital and technology officer. “I want to be an AI expert in terms of, ‘How do I use the agents?’” That focus on use rather than ownership reflects a practical view of where AI fits today. While agent-based shopping is gaining attention, it is not yet the main way people buy everyday goods. “I don’t think [AI agents] are going to totally change the industry,” Vasconi said. “People still call our stores on the phone to order pizza in this day and age.” Analysts see Google’s tools less as a finished answer and more as a way to lower the barrier for retailers that do not want to start from scratch. “The real challenge here is application of the",
+  "word_count": 956,
+  "content_hash": "9418be754e6b13e77527db078bdeff00df752b030575f78309df00741662b954",
+  "scrape_status": "success",
+  "blocked_reason": null,
+  "notes": {
+    "section": "How Businesses Are Using AI",
+    "source_type": "News / Update",
+    "relevance_note": "Retail companies testing AI agents while retaining internal control rather than outsourcing to major platforms",
+    "date_added": "2026-01-21",
+    "url": "https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/"
+  }
+}

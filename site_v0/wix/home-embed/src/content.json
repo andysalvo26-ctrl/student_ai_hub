@@ -1,0 +1,81 @@
+{
+  "subtitle": "Reference materials about artificial intelligence for students",
+  "intro": "The Student AI Hub provides reference materials about artificial intelligence designed for students. It includes organized sections covering core concepts, practical applications, and important considerations. These materials serve as a starting point for understanding AI and its role in academic and professional contexts.",
+  "primarySections": {
+    "title": "Reference Sections",
+    "sections": [
+      {
+        "id": "ai-basics",
+        "title": "AI Basics",
+        "description": "[Description will be added from foundation materials]",
+        "linkKey": "ai-basics"
+      },
+      {
+        "id": "using-ai-school-work",
+        "title": "Using AI for School and Work",
+        "description": "[Description will be added from foundation materials]",
+        "linkKey": "using-ai-school-work"
+      },
+      {
+        "id": "businesses-using-ai",
+        "title": "How Businesses Are Using AI",
+        "description": "[Description will be added from foundation materials]",
+        "linkKey": "businesses-using-ai"
+      },
+      {
+        "id": "ai-tools",
+        "title": "AI Tools You Might Use",
+        "description": "[Description will be added from foundation materials]",
+        "linkKey": "ai-tools"
+      },
+      {
+        "id": "rules-risks-ethics",
+        "title": "Rules, Risks, and Ethics of AI",
+        "description": "[Description will be added from foundation materials]",
+        "linkKey": "rules-risks-ethics"
+      }
+    ]
+  },
+  "humanMaintained": {
+    "title": "Human-Maintained Sections",
+    "note": "This section is maintained by students and updated separately.",
+    "sections": [
+      {
+        "id": "ai-news",
+        "title": "AI News That Matters",
+        "description": "[Description will be added]",
+        "linkKey": "ai-news"
+      },
+      {
+        "id": "ai-penn-state",
+        "title": "AI at Penn State",
+        "description": "[Description will be added]",
+        "linkKey": "ai-penn-state"
+      },
+      {
+        "id": "ai-smeal-major",
+        "title": "AI by Smeal Major",
+        "description": "[Description will be added]",
+        "linkKey": "ai-smeal-major"
+      }
+    ]
+  },
+  "transparency": {
+    "title": "Transparency",
+    "tiles": [
+      {
+        "id": "foundational-sources",
+        "title": "Foundational Sources",
+        "description": "[Description will be added]",
+        "linkKey": "foundational-sources"
+      },
+      {
+        "id": "process-provenance",
+        "title": "Process and Provenance",
+        "description": "[Description will be added]",
+        "linkKey": "process-provenance"
+      }
+    ]
+  },
+  "footer": "[Footer text will be added]"
+}

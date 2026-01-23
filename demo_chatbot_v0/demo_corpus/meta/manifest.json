@@ -1,0 +1,95 @@
+{
+  "version": "v0",
+  "generatedAt": "2026-01-23T04:00:41.456Z",
+  "pages": [
+    {
+      "filename": "home.md",
+      "title": "Student AI Hub",
+      "sources": [
+        "canonical_pack/00_orientation_and_boundaries/SCOPE.md",
+        "canonical_pack/00_orientation_and_boundaries/README.md"
+      ]
+    },
+    {
+      "filename": "ai_basics.md",
+      "title": "AI Basics",
+      "sources": [
+        "canonical_pack/01_core_pillars/PILLAR_AI_BASICS.md"
+      ]
+    },
+    {
+      "filename": "using_ai_school_work.md",
+      "title": "Using AI for School and Work",
+      "sources": [
+        "canonical_pack/01_core_pillars/PILLAR_USING_AI_FOR_SCHOOL_AND_WORK.md"
+      ]
+    },
+    {
+      "filename": "how_businesses_use_ai.md",
+      "title": "How Businesses Are Using AI",
+      "sources": [
+        "canonical_pack/01_core_pillars/PILLAR_HOW_BUSINESSES_USE_AI.md"
+      ]
+    },
+    {
+      "filename": "ai_tools_you_might_use.md",
+      "title": "AI Tools You Might Use",
+      "sources": [
+        "canonical_pack/01_core_pillars/PILLAR_AI_TOOLS_YOU_MIGHT_USE.md"
+      ]
+    },
+    {
+      "filename": "rules_risks_ethics.md",
+      "title": "Rules, Risks, and Ethics of AI",
+      "sources": [
+        "canonical_pack/01_core_pillars/PILLAR_RULES_RISKS_AND_ETHICS.md"
+      ]
+    },
+    {
+      "filename": "foundational_sources.md",
+      "title": "Foundational Sources",
+      "sources": [
+        "canonical_pack/00_orientation_and_boundaries/PROVENANCE.md",
+        "canonical_pack/00_orientation_and_boundaries/AUTHORITY_BOUNDARIES.md"
+      ]
+    },
+    {
+      "filename": "process_and_provenance.md",
+      "title": "Process and Provenance",
+      "sources": [
+        "canonical_pack/00_orientation_and_boundaries/PROVENANCE.md",
+        "canonical_pack/00_orientation_and_boundaries/CITATION_AND_REFERENCE_RULES.md"
+      ]
+    },
+    {
+      "filename": "glossary.md",
+      "title": "Glossary",
+      "sources": [
+        "canonical_pack/02_cross_cutting_modules/GLOSSARY.md"
+      ]
+    },
+    {
+      "filename": "faq_students.md",
+      "title": "FAQ for Students",
+      "sources": [
+        "canonical_pack/02_cross_cutting_modules/FAQ_STUDENTS.md"
+      ]
+    },
+    {
+      "filename": "ai_at_penn_state.md",
+      "title": "AI at Penn State",
+      "sources": []
+    },
+    {
+      "filename": "ai_by_smeal_major.md",
+      "title": "AI by Smeal Major",
+      "sources": []
+    },
+    {
+      "filename": "ai_news_that_matters.md",
+      "title": "AI News That Matters",
+      "sources": []
+    }
+  ],
+  "totalPages": 13
+}

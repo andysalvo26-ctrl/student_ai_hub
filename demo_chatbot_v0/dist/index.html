@@ -287,6 +287,70 @@ body.embed .message-content {
     line-height: 1.5;
 }
 
+/* Empty state */
+.empty-state {
+    padding: 1.5rem 0.75rem;
+    text-align: center;
+}
+
+.empty-state-intro {
+    font-size: 0.875rem;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    max-width: 100%;
+}
+
+.suggested-questions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: stretch;
+}
+
+.question-chip {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    padding: 0.625rem 0.875rem;
+    font-size: 0.8125rem;
+    color: #1E3A5F;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: left;
+    font-family: inherit;
+    font-weight: 400;
+}
+
+.question-chip:hover {
+    background-color: #F6F7F9;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.question-chip:active {
+    background-color: #E2E8F0;
+}
+
+body.embed .empty-state {
+    padding: 1.25rem 0.75rem;
+}
+
+body.embed .empty-state-intro {
+    font-size: 0.8125rem;
+    color: #666;
+}
+
+body.embed .question-chip {
+    font-size: 0.8125rem;
+    padding: 0.5625rem 0.75rem;
+}
+
+/* Hide empty state when messages exist */
+.transcript-area:not(:has(.empty-state)) .empty-state,
+.transcript-area:has(.message:not(.bot-message:first-child)) .empty-state {
+    display: none;
+}
+
 /* Responsive for embedding */
 @media (max-width: 480px) {
     .widget-header h1 {
@@ -344,9 +408,15 @@ body.embed .message-content {
 
         <div class="widget-content">
             <div class="transcript-area" id="transcript-area">
-                <div class="message bot-message">
-                    <div class="message-content">
-                        <p>Ask about the Hub or any topic in the preview materials.</p>
+                <div class="empty-state" id="empty-state">
+                    <p class="empty-state-intro">Ask about the Student AI Hub preview materials. I can explain what's covered and summarize key ideas.</p>
+                    <div class="suggested-questions">
+                        <button class="question-chip" data-question="What is the Student AI Hub?">What is the Student AI Hub?</button>
+                        <button class="question-chip" data-question="What topics are in the preview?">What topics are in the preview?</button>
+                        <button class="question-chip" data-question="What are AI basics?">What are AI basics?</button>
+                        <button class="question-chip" data-question="How can I use AI for school?">How can I use AI for school?</button>
+                        <button class="question-chip" data-question="What are the risks and ethics?">What are the risks and ethics?</button>
+                        <button class="question-chip" data-question="How do businesses use AI?">How do businesses use AI?</button>
                     </div>
                 </div>
             </div>
@@ -1676,9 +1746,23 @@ body.embed .message-content {
         }
     }
 
+    // Hide empty state when first message is sent
+    function hideEmptyState() {
+        const emptyState = document.getElementById('empty-state');
+        if (emptyState) {
+            emptyState.style.display = 'none';
+        }
+    }
+
     // Add message to transcript
     function addMessage(text, isUser, messageId = null) {
         const transcriptArea = document.getElementById('transcript-area');
+        
+        // Hide empty state when user sends first message
+        if (isUser) {
+            hideEmptyState();
+        }
+        
         const messageDiv = document.createElement('div');
         messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
         
@@ -1839,6 +1923,21 @@ body.embed .message-content {
                     console.error('Error in handleUserInput:', error);
                 });
             }
+        });
+
+        // Set up question chip click handlers
+        const questionChips = document.querySelectorAll('.question-chip');
+        questionChips.forEach(chip => {
+            chip.addEventListener('click', () => {
+                const question = chip.getAttribute('data-question');
+                if (question) {
+                    userInput.value = question;
+                    // Immediately submit
+                    handleUserInput().catch(error => {
+                        console.error('Error in handleUserInput:', error);
+                    });
+                }
+            });
         });
     }
 

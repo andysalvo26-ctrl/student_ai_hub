@@ -289,9 +289,23 @@
         }
     }
 
+    // Hide empty state when first message is sent
+    function hideEmptyState() {
+        const emptyState = document.getElementById('empty-state');
+        if (emptyState) {
+            emptyState.style.display = 'none';
+        }
+    }
+
     // Add message to transcript
     function addMessage(text, isUser, messageId = null) {
         const transcriptArea = document.getElementById('transcript-area');
+        
+        // Hide empty state when user sends first message
+        if (isUser) {
+            hideEmptyState();
+        }
+        
         const messageDiv = document.createElement('div');
         messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
         
@@ -452,6 +466,21 @@
                     console.error('Error in handleUserInput:', error);
                 });
             }
+        });
+
+        // Set up question chip click handlers
+        const questionChips = document.querySelectorAll('.question-chip');
+        questionChips.forEach(chip => {
+            chip.addEventListener('click', () => {
+                const question = chip.getAttribute('data-question');
+                if (question) {
+                    userInput.value = question;
+                    // Immediately submit
+                    handleUserInput().catch(error => {
+                        console.error('Error in handleUserInput:', error);
+                    });
+                }
+            });
         });
     }
 

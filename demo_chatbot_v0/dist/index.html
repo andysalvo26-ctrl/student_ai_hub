@@ -1,0 +1,1741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student AI Hub — Site Guide (Preview)</title>
+    <style>
+/* Student AI Hub — Site Guide Widget Styles (Embed-Friendly) */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #F6F7F9;
+    color: #1E3A5F;
+    line-height: 1.5;
+}
+
+.widget-container {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F6F7F9;
+}
+
+/* Header */
+.widget-header {
+    background-color: #1E3A5F;
+    color: #fff;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 2px solid #0F2440;
+    flex-shrink: 0;
+}
+
+.widget-header h1 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.2rem;
+}
+
+.disclosure {
+    font-size: 0.65rem;
+    color: #E2E8F0;
+    font-style: italic;
+}
+
+.preview-badge {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    font-weight: 500;
+    margin-left: 0.5rem;
+}
+
+/* Content area */
+.widget-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 0;
+}
+
+/* Transcript area */
+.transcript-area {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.6rem 0.75rem;
+    background-color: #fff;
+    border-bottom: 1px solid #E2E8F0;
+    min-height: 0;
+}
+
+.message {
+    margin-bottom: 0.6rem;
+}
+
+.message-content {
+    padding: 0.5rem 0.65rem;
+    border-radius: 4px;
+    max-width: 85%;
+    font-size: 0.9rem;
+}
+
+.user-message .message-content {
+    background-color: #E2E8F0;
+    color: #1E3A5F;
+    margin-left: auto;
+    text-align: right;
+}
+
+.bot-message .message-content {
+    background-color: #F6F7F9;
+    color: #1E3A5F;
+    border: 1px solid #E2E8F0;
+}
+
+.message-content p {
+    margin-bottom: 0.5rem;
+}
+
+.message-content p:last-child {
+    margin-bottom: 0;
+}
+
+.citations-line {
+    font-size: 0.75rem;
+    color: #666;
+    margin-top: 0.4rem;
+    padding-top: 0.4rem;
+    border-top: 1px solid #E2E8F0;
+    font-style: italic;
+}
+
+/* Suggested pages removed - strict librarian behavior, no navigation suggestions */
+
+/* Input area */
+.input-area {
+    display: flex;
+    flex-direction: column;
+    padding: 0.6rem 0.75rem;
+    background-color: #fff;
+    border-top: 1px solid #E2E8F0;
+    gap: 0.4rem;
+    flex-shrink: 0;
+}
+
+.input-area-row {
+    display: flex;
+    gap: 0.5rem;
+}
+
+#user-input {
+    flex: 1;
+    padding: 0.6rem 0.75rem;
+    border: 1px solid #E2E8F0;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #1E3A5F;
+    background-color: #F6F7F9;
+}
+
+#user-input:focus {
+    outline: none;
+    border-color: #1E3A5F;
+    background-color: #fff;
+}
+
+#send-button {
+    padding: 0.6rem 1rem;
+    background-color: #1E3A5F;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    white-space: nowrap;
+}
+
+#send-button:hover {
+    background-color: #0F2440;
+}
+
+#send-button:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+}
+
+/* Scrollbar styling */
+.transcript-area::-webkit-scrollbar {
+    width: 6px;
+}
+
+.transcript-area::-webkit-scrollbar-track {
+    background: #F6F7F9;
+}
+
+.transcript-area::-webkit-scrollbar-thumb {
+    background: #E2E8F0;
+    border-radius: 3px;
+}
+
+.transcript-area::-webkit-scrollbar-thumb:hover {
+    background: #CBD5E0;
+}
+
+/* Responsive for embedding */
+@media (max-width: 480px) {
+    .widget-header h1 {
+        font-size: 1rem;
+    }
+
+    .disclosure {
+        font-size: 0.65rem;
+    }
+
+    .message-content {
+        max-width: 90%;
+        font-size: 0.85rem;
+    }
+
+    .input-area {
+        padding: 0.6rem 0.75rem;
+    }
+
+    #user-input {
+        font-size: 0.85rem;
+        padding: 0.5rem 0.6rem;
+    }
+
+    #send-button {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.85rem;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <div class="widget-container">
+        <header class="widget-header">
+            <h1>Student AI Hub — Site Guide<span class="preview-badge">Preview</span></h1>
+            <p class="disclosure">Answers are based on the preview materials.</p>
+        </header>
+
+        <div class="widget-content">
+            <div class="transcript-area" id="transcript-area">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello. I can help you find information about the Student AI Hub site. What would you like to know?</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-area-row">
+                    <input type="text" id="user-input" placeholder="Ask about the site..." />
+                    <button id="send-button">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Student AI Hub — Site Guide Widget (Preview)
+// Simplified, embed-friendly version with improved retrieval
+
+(function() {
+    'use strict';
+
+    // Configuration
+    const WORKER_URL = "https://student-ai-hub-site-guide-preview.ajs10845.workers.dev";
+    const DEBUG_MODE = false; // Set to true for debug logging
+
+    // Stopwords will be replaced by build script
+    const stopwords = new Set(["a","an","and","are","as","at","be","by","for","from","has","he","in","is","it","its","of","on","that","the","to","was","were","will","with","this","these","those","i","you","we","they","what","which","who","where","when","why","how","can","could","should","would","may","might","must","do","does","did","have","had","been","being","am"]);
+
+    // Dataset will be embedded here in dist version
+    let dataset = null;
+
+    // Conversation state (minimal)
+    let conversationState = {
+        active_topic_label: null,
+        active_topic_query: null,
+        active_sources: []
+    };
+
+    // Load dataset (in dist version, this will be embedded)
+    function loadDataset() {
+        return {
+        "version": "v0",
+        "lastUpdated": "2026-01-23",
+        "files": [
+                "demo_corpus/pages/ai_at_penn_state.md",
+                "demo_corpus/pages/ai_basics.md",
+                "demo_corpus/pages/ai_by_smeal_major.md",
+                "demo_corpus/pages/ai_news_that_matters.md",
+                "demo_corpus/pages/ai_tools_you_might_use.md",
+                "demo_corpus/pages/faq_students.md",
+                "demo_corpus/pages/foundational_sources.md",
+                "demo_corpus/pages/glossary.md",
+                "demo_corpus/pages/home.md",
+                "demo_corpus/pages/how_businesses_use_ai.md",
+                "demo_corpus/pages/process_and_provenance.md",
+                "demo_corpus/pages/rules_risks_ethics.md",
+                "demo_corpus/pages/using_ai_school_work.md"
+        ],
+        "chunks": [
+                {
+                        "id": "demo_corpus_pages_ai_at_penn_state_md_0",
+                        "path": "demo_corpus/pages/ai_at_penn_state.md",
+                        "title": "AI at Penn State",
+                        "chunkIndex": 0,
+                        "text": "This section provides information about AI resources and opportunities at Penn State.\n\n**Preview note:** This page is human-authored and maintained separately from the foundation reference sections. Content for this page is created and updated by humans, not derived from the canonical pack.\n\n**Status:** This is a placeholder page. Content will be created and maintained by humans.\n\n---\n\n**Derived from:**\n- Placeholder for human-authored content",
+                        "headings": [],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_ai_basics_md_0",
+                        "path": "demo_corpus/pages/ai_basics.md",
+                        "title": "AI Basics",
+                        "chunkIndex": 0,
+                        "text": "- Definitions of artificial intelligence, machine learning, deep learning, and large language models\n- How modern AI systems work at a high level\n- Common misconceptions and limitations of AI systems\n- The relationship between AI, machine learning, and related terms\n\n\n- **AI definition**: Technology that performs tasks typically requiring human intelligence, such as recognizing patterns, making decisions, and communicating. AI systems create models of the world based on limited information and make predictions.\n- **Machine learning**: A subset of AI that uses algorithms to learn from data, identify patterns, and improve through experience.\n- **Deep learning**: An advanced method of machine learning using multilayered neural networks that simulate complex decision-making.",
+                        "headings": [],
+                        "tags": [
+                                "pillar",
+                                "ai-basics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_basics_md_1",
+                        "path": "demo_corpus/pages/ai_basics.md",
+                        "title": "AI Basics",
+                        "chunkIndex": 1,
+                        "text": "ethod of machine learning using multilayered neural networks that simulate complex decision-making.\n- **Large language models (LLMs)**: Machine learning models designed for natural language processing, trained on vast amounts of text to map probabilities underlying human language.\n- **How AI works**: Starts with data, which is prepared as training data. More data generally leads to better performance. Models train themselves to find patterns or make predictions, and programmers can adjust parameters over time.\n- **Generative AI**: Creates original content using predictive algorithms, rather than just reacting to input. LLMs predict the next word but don't understand in the way humans do.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Basics"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ai-basics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_basics_md_2",
+                        "path": "demo_corpus/pages/ai_basics.md",
+                        "title": "AI Basics",
+                        "chunkIndex": 2,
+                        "text": "han just reacting to input. LLMs predict the next word but don't understand in the way humans do.\n\n\n- **Hallucinations**: AI systems can produce inaccurate or fabricated information, sometimes citing sources that don't exist. Information is presented with confidence even when incorrect.\n- **Bias**: AI systems can perpetuate bias and discrimination because they're trained on data that includes problematic content. Human biases can be incorporated into algorithms, leading to discriminatory outcomes.\n- **Black box problem**: AI systems often have many hidden layers of calculations, making it difficult to understand how they reach their predictions.\n\n\nThis pillar provides foundational definitions and concepts. Use it when:\n- Building an \"AI Basics\" or \"What is AI?\" page",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Basics"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ai-basics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_basics_md_3",
+                        "path": "demo_corpus/pages/ai_basics.md",
+                        "title": "AI Basics",
+                        "chunkIndex": 3,
+                        "text": "foundational definitions and concepts. Use it when:\n- Building an \"AI Basics\" or \"What is AI?\" page\n- Explaining core terminology to students\n- Providing context for other sections\n- Addressing common questions about how AI works\n\nKeep explanations simple and avoid technical jargon. Focus on what students need to understand, not implementation details.\n\n\nDerived from:\n- `foundation/content/sections/ai-basics/index.md`\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/01_core_pillars/PILLAR_AI_BASICS.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Basics"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ai-basics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_by_smeal_major_md_0",
+                        "path": "demo_corpus/pages/ai_by_smeal_major.md",
+                        "title": "AI by Smeal Major",
+                        "chunkIndex": 0,
+                        "text": "This section provides information about how AI relates to different Smeal College of Business majors.\n\n**Preview note:** This page is human-authored and maintained separately from the foundation reference sections. Content for this page is created and updated by humans, not derived from the canonical pack.\n\n**Status:** This is a placeholder page. Content will be created and maintained by humans.\n\n---\n\n**Derived from:**\n- Placeholder for human-authored content",
+                        "headings": [],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_ai_news_that_matters_md_0",
+                        "path": "demo_corpus/pages/ai_news_that_matters.md",
+                        "title": "AI News That Matters",
+                        "chunkIndex": 0,
+                        "text": "This section provides curated news and updates about artificial intelligence that are relevant to students.\n\n**Preview note:** This page is human-authored and maintained separately from the foundation reference sections. Content for this page is created and updated by humans, not derived from the canonical pack.\n\n**Status:** This is a placeholder page. Content will be created and maintained by humans.\n\n---\n\n**Derived from:**\n- Placeholder for human-authored content",
+                        "headings": [],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_ai_tools_you_might_use_md_0",
+                        "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+                        "title": "AI Tools You Might Use",
+                        "chunkIndex": 0,
+                        "text": "- Common categories of AI tools students may encounter\n- Typical use cases for students\n- Strengths and limitations of tools\n- Things to be careful about when using tools\n\n\n- **Tool categories**: General-use chatbots and AI assistants, research tools that synthesize scholarly information, meeting assistants for transcription and summarization, and developer tools for building applications.\n- **Student use cases**: Writing assistance, brainstorming, research tasks, document summarization, concept explanation, and study aids.\n- **Strengths**: Can synthesize information from large databases, save time finding relevant articles, generate different content formats, translate languages, and provide citations pointing back to sources.\n- **Limitations**: The landscape changes frequently.",
+                        "headings": [],
+                        "tags": [
+                                "pillar",
+                                "tools"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_tools_you_might_use_md_1",
+                        "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+                        "title": "AI Tools You Might Use",
+                        "chunkIndex": 1,
+                        "text": "and provide citations pointing back to sources.\n- **Limitations**: The landscape changes frequently. Tools may provide information that needs verification. Users risk missing important information if relying on one tool. Tools are not infallible and may produce errors.\n\n\n- **Data privacy**: Publicly available AI tools should not be used with confidential or sensitive information. Institutionally licensed tools may have different privacy protections.\n- **Meeting assistants**: Can pose privacy, regulatory, and legal risks. May scrape calendar information and save meetings in unknown places. Some institutions recommend avoiding third-party bots in virtual meetings.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Tools You Might Use"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "tools"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_tools_you_might_use_md_2",
+                        "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+                        "title": "AI Tools You Might Use",
+                        "chunkIndex": 2,
+                        "text": "tings in unknown places. Some institutions recommend avoiding third-party bots in virtual meetings.\n- **Reliability**: Students may need to verify information provided by AI tools and avoid relying solely on AI-generated content for critical academic work.\n\n\nThis pillar helps students understand available tools. Use it when:\n- Building a \"Tools\" or \"What Tools Are Available\" page\n- Explaining categories of tools without endorsing specific products\n- Providing guidance on tool selection and use\n- Addressing privacy and security considerations\n\nDescribe categories and patterns, not specific tool recommendations. Avoid \"best\" or \"recommended\" language.\n\n\nDerived from:\n- `foundation/content/sections/ai-tools-you-might-use/index.md`\n\n---",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Tools You Might Use"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "tools"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_ai_tools_you_might_use_md_3",
+                        "path": "demo_corpus/pages/ai_tools_you_might_use.md",
+                        "title": "AI Tools You Might Use",
+                        "chunkIndex": 3,
+                        "text": "ed\" language.\n\n\nDerived from:\n- `foundation/content/sections/ai-tools-you-might-use/index.md`\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/01_core_pillars/PILLAR_AI_TOOLS_YOU_MIGHT_USE.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "AI Tools You Might Use"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use this section"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "tools"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_faq_students_md_0",
+                        "path": "demo_corpus/pages/faq_students.md",
+                        "title": "FAQ for Students",
+                        "chunkIndex": 0,
+                        "text": "It depends on your instructor's expectations. Some instructors allow AI use for certain tasks like idea generation, editing, or clarification. Others may prohibit it. Check your syllabus and ask your instructor if you're unsure. If AI use is allowed, document how you used it.\n\n\nYes. Proper citation of AI-generated content is important for maintaining transparency and integrity. Check your syllabus to confirm your instructor's expectations for AI citations. When in doubt, ask questions and document your AI use.\n\n\nAppropriate uses include idea generation (brainstorming topics, thesis statements, outlines), clarification of difficult concepts, editing and proofreading, coding assistance for learning, information searching, summarizing documents, and creating first drafts.",
+                        "headings": [],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_faq_students_md_1",
+                        "path": "demo_corpus/pages/faq_students.md",
+                        "title": "FAQ for Students",
+                        "chunkIndex": 1,
+                        "text": "ng assistance for learning, information searching, summarizing documents, and creating first drafts. The key question is whether AI use facilitates or takes away opportunities for deeper learning.\n\n\nAI tools can produce incorrect information (hallucinations), exhibit bias, and misattribute sources. Not everything AI generates is accurate or useful. You should verify information independently and think critically about AI output. Don't rely solely on AI-generated content for critical academic work.\n\n\nMany publicly available AI tools should not be used with confidential or sensitive information. Institutionally licensed tools may have different privacy protections. Check your institution's guidelines about what types of data can be entered into different AI tools.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI for my coursework?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Do I need to cite AI-generated content?"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_faq_students_md_2",
+                        "path": "demo_corpus/pages/faq_students.md",
+                        "title": "FAQ for Students",
+                        "chunkIndex": 2,
+                        "text": "ck your institution's guidelines about what types of data can be entered into different AI tools.\n\n\nAI meeting assistants can pose privacy, regulatory, and legal risks. Some institutions recommend avoiding third-party bots in virtual meetings, as they can scrape calendar information and save meetings in unknown places. Check your institution's guidelines regarding AI tools in meetings.\n\n\nThe relationship depends on how you use the technology. If AI facilitates thinking deeply about material—comparing concepts, explaining in your own words, self-quizzing—it may help. If it takes away opportunities to engage directly with material, it may hurt. What's important is using effective learning strategies, not delegating your learning process to an AI tool.\n\n\nAsk your instructor.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI for my coursework?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Do I need to cite AI-generated content?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What are appropriate uses of AI for schoolwork?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What should I be careful about when using AI tools?"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_faq_students_md_3",
+                        "path": "demo_corpus/pages/faq_students.md",
+                        "title": "FAQ for Students",
+                        "chunkIndex": 3,
+                        "text": "tive learning strategies, not delegating your learning process to an AI tool.\n\n\nAsk your instructor. When in doubt, ask questions and document your AI use. Understanding what your instructor expects is typically recommended before using AI for assignments.\n\n\nAI tools have documented limitations. They can produce incorrect information, exhibit bias, and make up sources. You should verify claims and sources independently. AI tools are not infallible and may produce errors or incomplete information.\n\n\nAcademic integrity involves using AI tools appropriately and transparently. Some institutions treat any use of generative AI as analogous to receiving help from another person. Using AI to substantially complete an assignment may be prohibited.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI for my coursework?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Do I need to cite AI-generated content?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What are appropriate uses of AI for schoolwork?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What should I be careful about when using AI tools?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI tools with confidential information?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What about AI meeting assistants?"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_faq_students_md_4",
+                        "path": "demo_corpus/pages/faq_students.md",
+                        "title": "FAQ for Students",
+                        "chunkIndex": 4,
+                        "text": "eiving help from another person. Using AI to substantially complete an assignment may be prohibited. Always check with your instructor about expectations.\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/02_cross_cutting_modules/FAQ_STUDENTS.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "FAQ for Students"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI for my coursework?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Do I need to cite AI-generated content?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What are appropriate uses of AI for schoolwork?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What should I be careful about when using AI tools?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Can I use AI tools with confidential information?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What about AI meeting assistants?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How do I know if AI is helping or hurting my learning?"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What if I'm not sure whether AI use is allowed?"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_foundational_sources_md_0",
+                        "path": "demo_corpus/pages/foundational_sources.md",
+                        "title": "Foundational Sources",
+                        "chunkIndex": 0,
+                        "text": "The Student AI Hub reference materials are built from a curated set of approved sources. These sources were selected for credibility, relevance, and appropriateness for students.\n\n\nSources used in the hub were reviewed and approved before being included. Each source was classified by topic and source type to ensure appropriate use.\n\n\nThe hub maintains a registry of sources that were used to build the reference sections. This registry documents which sources were selected, which were successfully processed, and which were actually used in the published materials.\n\n\nSources go through several stages:\n- **Collected**: Sources selected and approved for use\n- **Ingested**: Sources successfully processed and added to the corpus",
+                        "headings": [],
+                        "tags": [
+                                "transparency",
+                                "sources"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_foundational_sources_md_1",
+                        "path": "demo_corpus/pages/foundational_sources.md",
+                        "title": "Foundational Sources",
+                        "chunkIndex": 1,
+                        "text": "elected and approved for use\n- **Ingested**: Sources successfully processed and added to the corpus\n- **Used**: Sources whose content was referenced in published reference sections\n\nNot all collected sources are used in final sections. This is documented in the source registry.\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/00_orientation_and_boundaries/PROVENANCE.md\n- canonical_pack/00_orientation_and_boundaries/AUTHORITY_BOUNDARIES.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Foundational Sources"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Source selection"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Source registry"
+                                }
+                        ],
+                        "tags": [
+                                "transparency",
+                                "sources"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_glossary_md_0",
+                        "path": "demo_corpus/pages/glossary.md",
+                        "title": "Glossary",
+                        "chunkIndex": 0,
+                        "text": "**Algorithm**: A series of steps that allows a computer to accomplish a certain task. Algorithms are the foundation of all AI tools.\n\n**Artificial Intelligence (AI)**: Technology developed with the goal of performing tasks typically requiring human intelligence, such as recognizing patterns, making decisions, and communicating. AI refers to the general ability of computers to emulate human thought and perform tasks in real-world environments.\n\n**Artificial Neural Network**: A computational approach that mimics how the human brain processes information, requiring large amounts of data and computational power. Used in deep learning.\n\n\n**Black Box**: A term used to describe AI systems because of the many, often hidden layers of calculations and decisions that lead to their predictions.",
+                        "headings": [],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_glossary_md_1",
+                        "path": "demo_corpus/pages/glossary.md",
+                        "title": "Glossary",
+                        "chunkIndex": 1,
+                        "text": "cause of the many, often hidden layers of calculations and decisions that lead to their predictions. The \"black box problem\" refers to the difficulty understanding why AI systems make certain decisions.\n\n**Bias**: In AI contexts, refers to systematic errors or unfairness in AI systems. AI systems can perpetuate bias and discrimination because they're trained on data that includes problematic content or reflects existing inequities.\n\n\n**Deep Learning**: An advanced method of machine learning. Deep learning models use large neural networks—networks that function like a human brain to logically analyze data—to learn complex patterns and make predictions independent of human input.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "A"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "B"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "G"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "N"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "T"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_glossary_md_2",
+                        "path": "demo_corpus/pages/glossary.md",
+                        "title": "Glossary",
+                        "chunkIndex": 2,
+                        "text": "logically analyze data—to learn complex patterns and make predictions independent of human input.\n\n\n**Generative AI**: AI systems that take in data and use predictive algorithms to create original content, rather than just reacting to data input. Examples include large language models that can generate text, images, or other content.\n\n\n**Hallucination**: When an AI system produces inaccurate or fabricated information. The system might make up an answer that's not true, or cite sources that don't actually exist. Information is often presented with confidence even when incorrect.\n\n\n**Large Language Model (LLM)**: Machine learning models designed for natural language processing, particularly language generation.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "A"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "B"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "D"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "G"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "L"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "N"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "T"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_glossary_md_3",
+                        "path": "demo_corpus/pages/glossary.md",
+                        "title": "Glossary",
+                        "chunkIndex": 3,
+                        "text": "Machine learning models designed for natural language processing, particularly language generation. LLMs are trained on vast amounts of human-written text, analyze it to map probabilities underlying human language, and use these models to mimic human communication.\n\n\n**Machine Learning**: A subset of artificial intelligence. Machine learning refers to technologies and algorithms that enable systems to identify patterns, make decisions, and improve themselves through experience and data. Machine learning is a pathway to artificial intelligence.\n\n\n**Neural Network**: Networks that function like a human brain to logically analyze data. Deep learning uses multilayered neural networks called deep neural networks.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "A"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "B"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "D"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "G"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "H"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "L"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "N"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "T"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_glossary_md_4",
+                        "path": "demo_corpus/pages/glossary.md",
+                        "title": "Glossary",
+                        "chunkIndex": 4,
+                        "text": "ically analyze data. Deep learning uses multilayered neural networks called deep neural networks.\n\n\n**Opacity**: The problem of AI systems making decisions that are not readily explainable to people. Also called the \"black box problem.\"\n\n\n**Training Data**: The information a machine learning model is trained on. Training data can include numbers, photos, text, bank transactions, pictures of people, repair records, time series data from sensors, or sales reports.\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/02_cross_cutting_modules/GLOSSARY.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 1,
+                                        "text": "Glossary"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "A"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "B"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "D"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "G"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "H"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "L"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "M"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "N"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "T"
+                                }
+                        ],
+                        "tags": []
+                },
+                {
+                        "id": "demo_corpus_pages_home_md_0",
+                        "path": "demo_corpus/pages/home.md",
+                        "title": "Student AI Hub",
+                        "chunkIndex": 0,
+                        "text": "The Student AI Hub provides reference materials about artificial intelligence designed for students. It includes organized sections covering core concepts, practical applications, and important considerations.\n\n\nThe hub is organized into several main sections:\n\n- **AI Basics** — Core concepts and definitions explaining how AI and machine learning work\n- **Using AI for School and Work** — Practical guidance for students using AI in coursework and productivity\n- **How Businesses Are Using AI** — High-level explanation of current business applications of AI\n- **AI Tools You Might Use** — Categories of AI tools students may encounter\n- **Rules, Risks, and Ethics of AI** — Ethical, legal, and governance considerations surrounding AI",
+                        "headings": [],
+                        "tags": [
+                                "home",
+                                "overview"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_home_md_1",
+                        "path": "demo_corpus/pages/home.md",
+                        "title": "Student AI Hub",
+                        "chunkIndex": 1,
+                        "text": "**Rules, Risks, and Ethics of AI** — Ethical, legal, and governance considerations surrounding AI\n\nYou can read these sections in any order or consult them as needed. Each section provides clear, organized reference material.\n\n\nThe hub includes information about the sources used to build these reference materials. See the Foundational Sources section for details.\n\n\nInformation about how the hub was built and what processes were used is available in the Process and Provenance section.\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/00_orientation_and_boundaries/SCOPE.md\n- canonical_pack/00_orientation_and_boundaries/README.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Student AI Hub"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this is"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use the hub"
+                                }
+                        ],
+                        "tags": [
+                                "home",
+                                "overview"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_home_md_2",
+                        "path": "demo_corpus/pages/home.md",
+                        "title": "Student AI Hub",
+                        "chunkIndex": 2,
+                        "text": "al_pack/00_orientation_and_boundaries/README.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Student AI Hub"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this is"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use the hub"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Foundational Sources"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Process and Provenance"
+                                }
+                        ],
+                        "tags": [
+                                "home",
+                                "overview"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_how_businesses_use_ai_md_0",
+                        "path": "demo_corpus/pages/how_businesses_use_ai.md",
+                        "title": "How Businesses Are Using AI",
+                        "chunkIndex": 0,
+                        "text": "- Common business applications of AI across industries\n- Examples from manufacturing, banking, healthcare, and retail\n- Organizational and strategic considerations for AI integration\n- Limits, tradeoffs, and risks in business use\n\n\n- **Common applications**: Data analysis and decision-making, customer experience improvement, content generation, IT operations optimization, sales and marketing, cybersecurity, workflow automation, fraud detection, chatbots, and predictive analytics.\n- **Industry examples**: Manufacturing uses AI for predictive maintenance and defect detection. Banking uses AI for fraud detection and customer service. Healthcare uses AI for clinical decision support and patient outcome prediction. Retail uses AI-powered shopping tools.",
+                        "headings": [],
+                        "tags": [
+                                "pillar",
+                                "business"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_how_businesses_use_ai_md_1",
+                        "path": "demo_corpus/pages/how_businesses_use_ai.md",
+                        "title": "How Businesses Are Using AI",
+                        "chunkIndex": 1,
+                        "text": "or clinical decision support and patient outcome prediction. Retail uses AI-powered shopping tools.\n- **Organizational requirements**: Integrating AI requires understanding technologies like natural language processing and machine learning. Organizations need proper data infrastructure and governance frameworks.\n- **Business models**: Companies identify AI-enabled business models they can scale, including supplier companies, omnichannel companies, modular producers, and ecosystem drivers.\n\n\n- **Explainability**: Understanding why AI models do what they do is difficult. Systems can be fooled or fail on tasks humans perform easily. Models may only perform to about 95% of human accuracy.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "How Businesses Are Using AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "business"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_how_businesses_use_ai_md_2",
+                        "path": "demo_corpus/pages/how_businesses_use_ai.md",
+                        "title": "How Businesses Are Using AI",
+                        "chunkIndex": 2,
+                        "text": "led or fail on tasks humans perform easily. Models may only perform to about 95% of human accuracy.\n- **Bias in business**: Machines trained by humans can incorporate human biases, leading to discriminatory outcomes. Some models have exacerbated social problems.\n- **Maintenance complexity**: AI systems change quickly, and tools that work today may need reworking weeks later. Building and maintaining AI systems is not simple.\n\n\nThis pillar provides business context for students. Use it when:\n- Building a \"Business Applications\" or \"How Companies Use AI\" page\n- Providing examples of real-world AI use\n- Explaining strategic considerations for organizations\n- Addressing questions about AI in business settings\n\nFocus on patterns and examples, not prescriptive advice.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "How Businesses Are Using AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "business"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_how_businesses_use_ai_md_3",
+                        "path": "demo_corpus/pages/how_businesses_use_ai.md",
+                        "title": "How Businesses Are Using AI",
+                        "chunkIndex": 3,
+                        "text": "ng questions about AI in business settings\n\nFocus on patterns and examples, not prescriptive advice. Describe what organizations are doing, not what they should do.\n\n\nDerived from:\n- `foundation/content/sections/how-businesses-use-ai/index.md`\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/01_core_pillars/PILLAR_HOW_BUSINESSES_USE_AI.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "How Businesses Are Using AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use this section"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "business"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_process_and_provenance_md_0",
+                        "path": "demo_corpus/pages/process_and_provenance.md",
+                        "title": "Process and Provenance",
+                        "chunkIndex": 0,
+                        "text": "The Student AI Hub was built through a documented process that ensures reference materials are grounded in approved sources. This process includes source selection, content organization, and review.\n\n\n1. **Source selection**: Sources were selected and approved for use\n2. **Content collection**: Content was gathered from approved sources\n3. **Content organization**: Content was organized into clear sections\n4. **Content drafting**: Reference sections were drafted from organized content\n5. **Review and revision**: Drafts were reviewed and revised as needed\n6. **Finalization**: Sections were finalized and marked as complete\n\n\nThe hub follows specific rules for citing sources and referencing materials. All content is traceable to its source, and citations are included where appropriate.",
+                        "headings": [],
+                        "tags": [
+                                "transparency",
+                                "process"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_process_and_provenance_md_1",
+                        "path": "demo_corpus/pages/process_and_provenance.md",
+                        "title": "Process and Provenance",
+                        "chunkIndex": 1,
+                        "text": "materials. All content is traceable to its source, and citations are included where appropriate.\n\n\nThe build process is documented in detail. This documentation explains how sources were selected, how content was organized, and how reference sections were created and reviewed.\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/00_orientation_and_boundaries/PROVENANCE.md\n- canonical_pack/00_orientation_and_boundaries/CITATION_AND_REFERENCE_RULES.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Process and Provenance"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How the hub was built"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Build steps"
+                                }
+                        ],
+                        "tags": [
+                                "transparency",
+                                "process"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_rules_risks_ethics_md_0",
+                        "path": "demo_corpus/pages/rules_risks_ethics.md",
+                        "title": "Rules, Risks, and Ethics of AI",
+                        "chunkIndex": 0,
+                        "text": "- Why governance and ethics matter in AI\n- Common risks and harms associated with AI systems\n- Policy, standards, and institutional frameworks\n- What this means for students\n\n\n- **Ethical concerns**: AI systems can embed biases, contribute to climate degradation, threaten human rights, and compound existing inequalities. Issues include privacy, surveillance, bias, transparency, and the black box problem.\n- **Common risks**: Data-intensive technologies can make biased recommendations against marginalized groups. AI systems make decisions that significantly impact people's lives (loans, admissions, jobs, sentencing). Many decisions are not readily explainable (opacity/black box problem).\n- **Policy frameworks**: UNESCO has developed global standards for AI ethics.",
+                        "headings": [],
+                        "tags": [
+                                "pillar",
+                                "ethics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_rules_risks_ethics_md_1",
+                        "path": "demo_corpus/pages/rules_risks_ethics.md",
+                        "title": "Rules, Risks, and Ethics of AI",
+                        "chunkIndex": 1,
+                        "text": "ty/black box problem).\n- **Policy frameworks**: UNESCO has developed global standards for AI ethics. Federal agencies develop standards for AI. Some institutions have created guidelines and frameworks, though policies are not always clear or comprehensive.\n- **Student considerations**: Students may encounter AI tools in academic contexts. Understanding ethical considerations is important. Academic integrity involves using AI appropriately and transparently. Accessibility considerations matter when using AI tools.\n\n\n- **Bias**: Many believe smart technologies would end human bias due to machine neutrality. However, machines may maintain and substantiate human bias toward women, different ethnicities, the elderly, people with medical impairments, or other groups.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Rules, Risks, and Ethics of AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ethics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_rules_risks_ethics_md_2",
+                        "path": "demo_corpus/pages/rules_risks_ethics.md",
+                        "title": "Rules, Risks, and Ethics of AI",
+                        "chunkIndex": 2,
+                        "text": "toward women, different ethnicities, the elderly, people with medical impairments, or other groups.\n- **Explainability**: Understanding why AI models do what they do is actually very difficult. Systems can be fooled and undermined.\n- **Academic integrity**: Concerns include student plagiarism made possible by generative AI and the distinction between concerns about honesty versus concerns about failure to learn.\n\n\nThis pillar addresses ethical and governance considerations. Use it when:\n- Building a \"Rules and Risks\" or \"Ethics\" page\n- Explaining why governance matters\n- Addressing student questions about AI ethics\n- Providing context for responsible AI use\n\nFrame issues as concerns and considerations, not absolute judgments.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Rules, Risks, and Ethics of AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ethics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_rules_risks_ethics_md_3",
+                        "path": "demo_corpus/pages/rules_risks_ethics.md",
+                        "title": "Rules, Risks, and Ethics of AI",
+                        "chunkIndex": 3,
+                        "text": "context for responsible AI use\n\nFrame issues as concerns and considerations, not absolute judgments. Describe what organizations and researchers have identified, not prescriptive rules.\n\n\nDerived from:\n- `foundation/content/sections/rules-risks-ethics/index.md`\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/01_core_pillars/PILLAR_RULES_RISKS_AND_ETHICS.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Rules, Risks, and Ethics of AI"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use this section"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "ethics"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_using_ai_school_work_md_0",
+                        "path": "demo_corpus/pages/using_ai_school_work.md",
+                        "title": "Using AI for School and Work",
+                        "chunkIndex": 0,
+                        "text": "- Appropriate uses of AI in coursework and academic settings\n- Maintaining academic integrity when using AI tools\n- AI as a study and productivity tool\n- Common pitfalls and limitations students should understand\n\n\n- **Appropriate uses**: Idea generation, clarification of concepts, editing and proofreading, coding assistance, information searching, summarizing documents, creating first drafts, and using AI tutors for explanations.\n- **Academic integrity**: Students should determine instructor expectations, seek clarification when needed, document AI use, and cite AI sources properly. Using AI to substantially complete assignments may be prohibited.\n- **Transparency**: Proper citation of AI-generated content is important for maintaining transparency and integrity.",
+                        "headings": [],
+                        "tags": [
+                                "pillar",
+                                "school-work"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_using_ai_school_work_md_1",
+                        "path": "demo_corpus/pages/using_ai_school_work.md",
+                        "title": "Using AI for School and Work",
+                        "chunkIndex": 1,
+                        "text": "**: Proper citation of AI-generated content is important for maintaining transparency and integrity. Students should disclose AI use and follow instructor guidelines.\n- **Learning strategies**: The relationship between AI use and learning depends on whether it facilitates or takes away opportunities for deeper learning. Effective strategies involve thinking deeply about material.\n- **Study support**: AI can support study practices like previewing readings and generating questions, but students should consider whether this removes opportunities to engage directly with material.\n\n\n- **Limitations**: AI tools can produce incorrect information (hallucinations), exhibit bias, and misattribute sources. Not everything AI generates is accurate or useful.",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Using AI for School and Work"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "school-work"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_using_ai_school_work_md_2",
+                        "path": "demo_corpus/pages/using_ai_school_work.md",
+                        "title": "Using AI for School and Work",
+                        "chunkIndex": 2,
+                        "text": "ations), exhibit bias, and misattribute sources. Not everything AI generates is accurate or useful.\n- **Comprehensive support**: While AI can feel life-like, it has serious limitations in providing comprehensive support. Students need to think critically about AI output.\n- **Accuracy concerns**: Students express concerns about receiving incorrect information, highlighting the importance of verifying AI-generated content.\n\n\nThis pillar provides practical guidance for students. Use it when:\n- Building a \"Using AI for School\" or \"Academic Integrity\" page\n- Creating guidance on when and how to use AI tools\n- Addressing student questions about AI in coursework\n- Explaining institutional expectations and best practices",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Using AI for School and Work"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "school-work"
+                        ]
+                },
+                {
+                        "id": "demo_corpus_pages_using_ai_school_work_md_3",
+                        "path": "demo_corpus/pages/using_ai_school_work.md",
+                        "title": "Using AI for School and Work",
+                        "chunkIndex": 3,
+                        "text": "tudent questions about AI in coursework\n- Explaining institutional expectations and best practices\n\nEmphasize that students should check with instructors and use AI thoughtfully, not as a replacement for learning.\n\n\nDerived from:\n- `foundation/content/sections/using-ai-for-school-and-work/index.md`\n\n---\n\n**Preview note:** This is demo content derived from the hub materials. The full version may include additional content.\n\n**Derived from:**\n- canonical_pack/01_core_pillars/PILLAR_USING_AI_FOR_SCHOOL_AND_WORK.md",
+                        "headings": [
+                                {
+                                        "level": 1,
+                                        "text": "Using AI for School and Work"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "What this covers"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Key ideas"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "Common misunderstandings"
+                                },
+                                {
+                                        "level": 2,
+                                        "text": "How to use this section"
+                                }
+                        ],
+                        "tags": [
+                                "pillar",
+                                "school-work"
+                        ]
+                }
+        ],
+        "totalChunks": 40
+};
+    }
+
+    // Normalize and expand query
+    function normalizeQuery(query) {
+        // Normalize: lowercase, strip punctuation, collapse whitespace
+        let normalized = query.toLowerCase()
+            .replace(/[^\w\s]/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+        // Expand common shorthand
+        const expansions = {
+            'hub': 'student ai hub',
+            'psu': 'penn state',
+            'smeal': 'smeal college of business',
+            'ai': 'artificial intelligence',
+            'site': 'student ai hub site'
+        };
+
+        for (const [short, expanded] of Object.entries(expansions)) {
+            const regex = new RegExp(`\\b${short}\\b`, 'gi');
+            normalized = normalized.replace(regex, expanded);
+        }
+
+        // If query is very short (< 5 tokens), prepend context
+        const tokens = normalized.split(/\s+/).filter(t => t.length > 0);
+        if (tokens.length < 5) {
+            normalized = 'Student AI Hub: ' + normalized;
+        }
+
+        return normalized;
+    }
+
+    // Tokenize text (lowercase, split, remove stopwords)
+    function tokenize(text) {
+        return text.toLowerCase()
+            .replace(/[^\w\s]/g, ' ')
+            .split(/\s+/)
+            .filter(token => token.length > 0 && !stopwords.has(token));
+    }
+
+    // Calculate TF-IDF-like score (simple term frequency weighting)
+    function calculateTFIDFScore(chunkTokens, queryTokens) {
+        const chunkTokenCounts = {};
+        chunkTokens.forEach(token => {
+            chunkTokenCounts[token] = (chunkTokenCounts[token] || 0) + 1;
+        });
+
+        let score = 0;
+        queryTokens.forEach(queryToken => {
+            if (chunkTokenCounts[queryToken]) {
+                // Simple TF weighting: more occurrences = higher score
+                const tf = chunkTokenCounts[queryToken];
+                score += tf / (1 + Math.log(chunkTokens.length)); // Normalize by chunk length
+            }
+        });
+
+        return score;
+    }
+
+    // Score chunk against query (hybrid: keyword overlap + TF-IDF-like)
+    function scoreChunk(chunk, queryTokens) {
+        const chunkTokens = tokenize(chunk.text);
+        const chunkTokenSet = new Set(chunkTokens);
+        
+        // Keyword overlap score (normalized)
+        let overlapCount = 0;
+        queryTokens.forEach(queryToken => {
+            if (chunkTokenSet.has(queryToken)) {
+                overlapCount++;
+            }
+        });
+        const overlapScore = queryTokens.length > 0 ? overlapCount / queryTokens.length : 0;
+
+        // TF-IDF-like score
+        const tfidfScore = calculateTFIDFScore(chunkTokens, queryTokens);
+        const normalizedTFIDF = Math.min(tfidfScore / queryTokens.length, 1.0);
+
+        // Hybrid: combine both scores (weighted average)
+        const hybridScore = (overlapScore * 0.6) + (normalizedTFIDF * 0.4);
+
+        return hybridScore;
+    }
+
+    // Get chunks from a specific page
+    function getChunksFromPage(pageFilename) {
+        if (!dataset || !dataset.chunks) return [];
+        return dataset.chunks.filter(chunk => chunk.path.includes(pageFilename));
+    }
+
+    // Retrieve top chunks with improved reliability
+    function retrieveChunks(query, minK = 5, maxK = 6) {
+        if (!dataset || !dataset.chunks) {
+            if (DEBUG_MODE) console.log('[RETRIEVAL] No dataset available');
+            return [];
+        }
+
+        // Normalize query
+        const normalizedQuery = normalizeQuery(query);
+        const queryTokens = tokenize(normalizedQuery);
+
+        if (DEBUG_MODE) {
+            console.log('[RETRIEVAL] Original query:', query);
+            console.log('[RETRIEVAL] Normalized query:', normalizedQuery);
+            console.log('[RETRIEVAL] Query tokens:', queryTokens);
+        }
+
+        // Score all chunks
+        const scoredChunks = dataset.chunks.map(chunk => ({
+            chunk: chunk,
+            score: scoreChunk(chunk, queryTokens)
+        }));
+
+        // Sort by score descending
+        scoredChunks.sort((a, b) => b.score - a.score);
+
+        if (DEBUG_MODE && scoredChunks.length > 0) {
+            console.log('[RETRIEVAL] Top 5 scores:', scoredChunks.slice(0, 5).map(s => ({
+                path: s.chunk.path.split('/').pop(),
+                score: s.score.toFixed(3)
+            })));
+        }
+
+        // Always return at least minK chunks (even if scores are low)
+        // Remove threshold filter - always get top chunks
+        let resultChunks = scoredChunks
+            .slice(0, maxK)
+            .map(item => item.chunk);
+
+        // If we still don't have enough, add chunks from home.md as fallback
+        if (resultChunks.length < minK) {
+            const homeChunks = getChunksFromPage('home.md');
+            const existingPaths = new Set(resultChunks.map(c => c.path));
+            for (const chunk of homeChunks) {
+                if (!existingPaths.has(chunk.path) && resultChunks.length < minK) {
+                    resultChunks.push(chunk);
+                }
+            }
+        }
+
+        if (DEBUG_MODE) {
+            console.log('[RETRIEVAL] Selected chunks:', resultChunks.map(c => ({
+                path: c.path.split('/').pop(),
+                chunkId: c.chunkIndex !== undefined ? c.chunkIndex : 'unknown'
+            })));
+        }
+
+        return resultChunks.slice(0, maxK);
+    }
+
+    // Call Cloudflare Worker to generate answer
+    async function generateAnswerWithWorker(question, retrievedChunks) {
+        const errorCode = `WORKER_ERROR_${Date.now()}`;
+        
+        try {
+            if (DEBUG_MODE) {
+                console.log(`[${errorCode}] Calling worker: ${WORKER_URL}`);
+                console.log(`[${errorCode}] Request payload:`, {
+                    question: question.substring(0, 50) + '...',
+                    retrievedChunksCount: retrievedChunks.length
+                });
+            }
+
+            const response = await fetch(WORKER_URL, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    question: question,
+                    retrievedChunks: retrievedChunks,
+                    conversationState: conversationState
+                })
+            });
+
+            if (DEBUG_MODE) {
+                console.log(`[${errorCode}] Response status: ${response.status} ${response.statusText}`);
+            }
+
+            if (!response.ok) {
+                // Try to read error text
+                let errorText = '';
+                try {
+                    errorText = await response.text();
+                    console.error(`[${errorCode}] Worker error response:`, errorText);
+                } catch (e) {
+                    console.error(`[${errorCode}] Could not read error response:`, e);
+                }
+                throw new Error(`Worker returned ${response.status}: ${errorText.substring(0, 200)}`);
+            }
+
+            // Parse JSON response
+            let data;
+            try {
+                const responseText = await response.text();
+                if (DEBUG_MODE) {
+                    console.log(`[${errorCode}] Response text length:`, responseText.length);
+                }
+                data = JSON.parse(responseText);
+                if (DEBUG_MODE) {
+                    console.log(`[${errorCode}] Parsed response:`, {
+                        hasAnswer: !!data.answer,
+                        confidence: data.confidence,
+                        citationsCount: data.citations ? data.citations.length : 0
+                    });
+                }
+                
+                // Log unexpected fields for debugging
+                const expectedFields = ['answer', 'confidence', 'citations'];
+                const unexpectedFields = Object.keys(data).filter(key => !expectedFields.includes(key));
+                if (unexpectedFields.length > 0) {
+                    console.log(`[${errorCode}] Unexpected fields in response (ignored):`, unexpectedFields);
+                }
+            } catch (parseError) {
+                console.error(`[${errorCode}] JSON parse error:`, parseError);
+                console.error(`[${errorCode}] Raw response text:`, responseText?.substring(0, 500));
+                throw new Error(`Invalid JSON response: ${parseError.message}`);
+            }
+            
+            // Handle response format: { answer, confidence?, citations? }
+            // Backward compatible with string responses
+            if (typeof data === 'string') {
+                if (DEBUG_MODE) console.log(`[${errorCode}] Worker returned string, wrapping in object`);
+                return {
+                    answer: data,
+                    confidence: 'low',
+                    citations: []
+                };
+            }
+            
+            if (data.answer) {
+                // Update conversation state if provided
+                if (data.conversationState) {
+                    conversationState = data.conversationState;
+                }
+                
+                return {
+                    answer: data.answer,
+                    confidence: data.confidence || 'medium',
+                    citations: data.citations || [],
+                    mode: data.mode || 'ANSWER'
+                };
+            }
+
+            throw new Error(`Worker response missing answer field. Response keys: ${Object.keys(data).join(', ')}`);
+        } catch (error) {
+            console.error(`[${errorCode}] Error calling worker:`, error);
+            console.error(`[${errorCode}] Error details:`, {
+                name: error.name,
+                message: error.message,
+                stack: error.stack?.substring(0, 500)
+            });
+            throw error;
+        }
+    }
+
+    // Add message to transcript
+    function addMessage(text, isUser, messageId = null) {
+        const transcriptArea = document.getElementById('transcript-area');
+        const messageDiv = document.createElement('div');
+        messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+        
+        if (messageId) {
+            messageDiv.setAttribute('data-message-id', messageId);
+        }
+
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'message-content';
+
+        // Extract answer from text (string or object with answer field)
+        const answerText = typeof text === 'string' ? text : (text.answer || '');
+        const citations = typeof text === 'object' && text.citations ? text.citations : [];
+        
+        const p = document.createElement('p');
+        p.textContent = answerText;
+        contentDiv.appendChild(p);
+
+        // Show citations if present (minimal, single line)
+        if (citations.length > 0) {
+            const citationsDiv = document.createElement('div');
+            citationsDiv.className = 'citations-line';
+            const citationTexts = citations.map(c => {
+                if (typeof c === 'string') return c;
+                return c.path ? c.path.split('/').pop() : 'unknown';
+            });
+            citationsDiv.textContent = 'Preview sources: ' + citationTexts.join(', ');
+            contentDiv.appendChild(citationsDiv);
+        }
+
+        messageDiv.appendChild(contentDiv);
+        transcriptArea.appendChild(messageDiv);
+        transcriptArea.scrollTop = transcriptArea.scrollHeight;
+        
+        return messageDiv;
+    }
+
+    // Update message content (for replacing "Thinking..." with actual answer)
+    function updateMessage(messageDiv, text) {
+        const contentDiv = messageDiv.querySelector('.message-content');
+        if (!contentDiv) return;
+
+        // Extract answer from text (string or object with answer field)
+        const answerText = typeof text === 'string' ? text : (text.answer || '');
+        const citations = typeof text === 'object' && text.citations ? text.citations : [];
+        
+        contentDiv.innerHTML = '';
+        const p = document.createElement('p');
+        p.textContent = answerText;
+        contentDiv.appendChild(p);
+
+        // Show citations if present (minimal, single line)
+        if (citations.length > 0) {
+            const citationsDiv = document.createElement('div');
+            citationsDiv.className = 'citations-line';
+            const citationTexts = citations.map(c => {
+                if (typeof c === 'string') return c;
+                return c.path ? c.path.split('/').pop() : 'unknown';
+            });
+            citationsDiv.textContent = 'Preview sources: ' + citationTexts.join(', ');
+            contentDiv.appendChild(citationsDiv);
+        }
+    }
+
+    // Handle user input
+    async function handleUserInput() {
+        const input = document.getElementById('user-input');
+        const query = input.value.trim();
+
+        if (!query) {
+            return;
+        }
+
+        // Add user message
+        addMessage(query, true);
+        input.value = '';
+
+        // Disable input while processing
+        const sendButton = document.getElementById('send-button');
+        sendButton.disabled = true;
+
+        // Show "Thinking..." message
+        const thinkingMessage = addMessage("Thinking…", false, 'thinking');
+        const errorCode = `CLIENT_ERROR_${Date.now()}`;
+
+        try {
+            // Retrieve chunks locally (improved reliability)
+            let chunks = retrieveChunks(query, 5, 6);
+
+            // If still empty, force include home.md as absolute fallback
+            if (chunks.length === 0) {
+                console.error(`[${errorCode}] No chunks available, dataset may be missing`);
+                updateMessage(thinkingMessage, {
+                    answer: "I can't access the preview materials right now. Please try again.",
+                    citations: []
+                });
+            } else {
+                // Call worker to generate answer
+                try {
+                    const workerResponse = await generateAnswerWithWorker(query, chunks);
+                    
+                    updateMessage(thinkingMessage, {
+                        answer: workerResponse.answer,
+                        confidence: workerResponse.confidence,
+                        citations: workerResponse.citations || []
+                    });
+                } catch (error) {
+                    // Worker error - show graceful error message with error code
+                    console.error(`[${errorCode}] Worker call failed:`, error);
+                    const userMessage = "I'm having trouble generating a response right now. Please try again.";
+                    updateMessage(thinkingMessage, {
+                        answer: userMessage,
+                        citations: []
+                    });
+                }
+            }
+        } catch (error) {
+            // Unexpected error
+            console.error(`[${errorCode}] Unexpected error:`, error);
+            updateMessage(thinkingMessage, {
+                answer: "An error occurred. Please try again.",
+                citations: []
+            });
+        } finally {
+            sendButton.disabled = false;
+        }
+    }
+
+    // Initialize
+    function init() {
+        // Load dataset (will be embedded in dist version)
+        dataset = loadDataset();
+        
+        if (!dataset || !dataset.chunks) {
+            console.error('Dataset not loaded. Check that dataset is embedded in HTML.');
+        } else {
+            console.log(`Dataset loaded: ${dataset.chunks.length} chunks from ${dataset.files.length} files`);
+        }
+
+        // Set up event listeners
+        const sendButton = document.getElementById('send-button');
+        const userInput = document.getElementById('user-input');
+
+        sendButton.addEventListener('click', () => {
+            handleUserInput().catch(error => {
+                console.error('Error in handleUserInput:', error);
+            });
+        });
+        
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                handleUserInput().catch(error => {
+                    console.error('Error in handleUserInput:', error);
+                });
+            }
+        });
+    }
+
+    // Run initialization
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+
+    </script>
+</body>
+</html>

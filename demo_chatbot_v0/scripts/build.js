@@ -370,4 +370,10 @@ const htmlContent = templateContent
 const htmlPath = path.join(distDir, 'hub-demo-chatbot.html');
 fs.writeFileSync(htmlPath, htmlContent);
 console.log(`✓ Generated self-contained HTML: ${htmlPath}`);
+
+// Create index.html for Cloudflare Pages (copy of hub-demo-chatbot.html)
+const indexPath = path.join(distDir, 'index.html');
+fs.writeFileSync(indexPath, htmlContent);
+console.log(`✓ Created index.html for Cloudflare Pages: ${indexPath}`);
+
 console.log(`\n✓ Build complete!`);

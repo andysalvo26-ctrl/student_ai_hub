@@ -1,0 +1,83 @@
+# Student Ai Hub 1 Learn
+
+**Source:** https://ajs10845.wixsite.com/student-ai-hub-1/learn
+
+---
+
+Skip to Main Content
+
+This website was built on Wix. Create yours today.
+
+Get Started
+
+Student AI Hub
+
+Foundational Sources
+
+Explore AI Topics
+
+The Student AI Hub is organized by topic to help you explore how artificial intelligence works, how it’s used in school and business, and what to consider when using it responsibly.
+
+View Topic Areas
+
+AI Basics
+
+An introduction to what artificial intelligence is, how it works at a high level, and the core terms used throughout the Student AI Hub.
+
+Explore
+
+Featuring sources from IBM, MIT Sloan, Columbia University, Johns Hopkins University, and other academic explainers.
+
+AI by Smeal Major
+
+A way to explore the Student AI Hub through the lens of different Smeal majors and areas of study.
+
+Organized and maintained by students to connect AI topics to different Smeal majors and areas of study.
+
+AI at Penn State
+
+Information about AI-related courses, programs, tools, and resources available across Penn State.
+
+Maintained by students to reflect current AI-related courses, tools, and resources available across Penn State.
+
+Using AI for School and Work
+
+Guidance on how AI tools are commonly used in academic and professional settings, with attention to appropriate, responsible, and ethical use.
+
+Featuring guidance from Stanford University, Oregon State University, and other higher-education institutions.
+
+AI News That Matters
+
+A curated resource for staying up to date on major developments in AI that are most relevant to students.
+
+Curated by students to highlight major AI developments most relevant to academic and professional life, and updated as the field evolves.
+
+How Businesses Use AI
+
+An overview of how AI is discussed and applied in business contexts, based on real examples and explanations included in the Hub.
+
+Featuring perspectives from IBM, MIT Sloan, the U.S. Small Business Administration, and university research on business applications of AI.
+
+Rules, Risks, and Ethics of AI
+
+An overview of academic integrity, risk, and ethical considerations related to the use of artificial intelligence.
+
+Featuring sources from UNESCO, NIST, the AAUP, Harvard University, and academic research organizations.
+
+AI Tools You Might Use
+
+Descriptions of common AI tools referenced in the Hub, including what they are designed to do and how students may encounter them.
+
+Featuring official resources from Harvard University, Georgetown University, and other university-maintained AI tool guides.
+
+Penn State
+
+by the Applied AI Club
+
+Visit appliedaipsu.com ​
+
+Visit smeal.psu.edu
+
+Process and Provenance
+
+About the Student AI Hub

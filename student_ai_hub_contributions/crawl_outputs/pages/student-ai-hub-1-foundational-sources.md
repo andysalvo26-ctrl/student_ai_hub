@@ -1,0 +1,127 @@
+# Student Ai Hub 1 Foundational Sources
+
+**Source:** https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources
+
+---
+
+Skip to Main Content
+
+This website was built on Wix. Create yours today.
+
+Get Started
+
+Student AI Hub
+
+Foundational Sources
+
+These sources reflect the initial foundation (v0) of the Student AI Hub.
+
+They document the materials used to develop the hub’s core reference sections.
+
+Pages on the site may include additional links or institution-specific resources that are not part of this foundational set.
+
+Title
+
+URL
+
+Artificial Intelligence
+
+https://www.ibm.com/think/topics/artificial-intelligence
+
+Kroger And Lowe Test AI Agents Without Handing Control To Google
+
+https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/
+
+AI Vs Machine Learning
+
+https://ai.engineering.columbia.edu/ai-vs-machine-learning/
+
+Approaching the Black Box: How AI Works in 5 Definitions
+
+https://www.library.jhu.edu/news/2025/09/approaching-the-black-box-how-ai-works-in-5-definitions/
+
+Artificial Intelligence Explained
+
+https://www.heinz.cmu.edu/media/2023/July/artificial-intelligence-explained
+
+Machine learning, explained
+
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+
+AI and Your Learning: A Guide for Students
+
+https://ctl.stanford.edu/aimes/ai-learning-guide-students
+
+AI In Higher Education A Summary Of Recent Surveys Of Students And Faculty
+
+https://sites.campbell.edu/academictechnology/2025/03/06/ai-in-higher-education-a-summary-of-recent-surveys-of-students-and-faculty/
+
+Using Artificial Intelligence
+
+https://scs.oregonstate.edu/using-artificial-intelligence
+
+Artificial Intelligence And Academic
+
+https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic
+
+How To Use Artificial Intelligence As A Study Tool
+
+https://blog.methodistcollege.edu/how-to-use-artificial-intelligence-as-a-study-tool
+
+AI Business Education New Era Opportunity
+
+https://www.flagler.edu/news-events/news/ai-business-education-new-era-opportunity
+
+Artificial Intelligence Business
+
+https://www.ibm.com/think/topics/artificial-intelligence-business
+
+AI Small Business
+
+https://www.sba.gov/business-guide/manage-your-business/ai-small-business
+
+How digital business models are evolving in the age of agentic AI
+
+https://mitsloan.mit.edu/ideas-made-to-matter/how-digital-business-models-are-evolving-age-agentic-ai
+
+Generative AI Tool Comparison
+
+https://www.huit.harvard.edu/ai/tools
+
+AI Tools - Artificial Intelligence Guidebook
+
+https://aiguidebook.vcu.edu/tools/
+
+AI Tools for Research - Artificial Intelligence (Generative) Resources
+
+https://guides.library.georgetown.edu/ai/tools
+
+Ethics In AI Why It Matters
+
+https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/
+
+Ethics Of Artificial Intelligence
+
+https://iep.utm.edu/ethics-of-artificial-intelligence/
+
+Recommendation Ethics
+
+https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+
+AI Standards: Federal Engagement
+
+https://www.nist.gov/artificial-intelligence/ai-standards-federal-engagement
+
+Sources Used in the Student AI Hub (v0)
+
+Penn State
+
+by the Applied AI Club
+
+Visit appliedaipsu.com ​
+
+Visit smeal.psu.edu
+
+Process and Provenance
+
+About the Student AI Hub

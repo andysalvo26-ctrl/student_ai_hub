@@ -1,0 +1,89 @@
+# Student Ai Hub 1 Process And Provenance
+
+**Source:** https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance
+
+---
+
+Skip to Main Content
+
+This website was built on Wix. Create yours today.
+
+Get Started
+
+Student AI Hub
+
+Foundational Sources
+
+The Purpose of the Student AI Hub.
+
+The Student AI Hub is a reference site.
+
+Its core content is built from a documented set of public sources chosen for credibility, relevance to students, and academic use. The goal is to explain artificial intelligence clearly.
+
+Across the hub, the material reflects deliberate choices about:
+
+which sources were used
+
+how those sources shaped the content
+
+how information is framed and presented
+
+Provenance and Source-Based Content
+
+Definition
+
+Provenance
+
+The documented origin of information—where it comes from, how it was selected, and how it informed the content presented.
+
+In the Student AI Hub, the word provenance refers to the documented origin of information.
+
+Explanations are grounded in identifiable sources, and those sources are selected intentionally rather than gathered automatically. When a concept appears in the hub, it is because available source material supported it clearly. When sources could not support a claim, that claim was not included.
+
+This approach is used to make the basis of the hub’s content visible and to support careful reading in an academic context.
+
+How the Foundation Was Built (v0)
+
+The initial foundation of the Student AI Hub was developed using a defined, documented process.
+
+This process focused on source selection, controlled use of material, and review before publication.
+
+The steps below describe how the hub moved from an initial set of sources to the core reference sections available on the site.
+
+1. Source selection
+
+A set of 36 publicly available sources was selected by a person based on credibility, relevance to students, and academic appropriateness.
+
+2. Source review and access
+
+Each source was reviewed to determine whether its content could be accessed and used. Sources that could not be accessed in full were documented but were not used to generate reference content.
+
+3. Content drafting
+
+Accessible source material was used to draft clear, student-facing reference sections. Drafts focused on explanation and context rather than technical detail or tool recommendations.
+
+4. Review and revision
+
+Draft content was reviewed to address clarity, balance, and scope. Language that was unsupported or overly broad was narrowed. No new sources were added during revision.
+
+5. Foundation lock
+
+After review, the core reference sections were finalized. These sections form the foundation of the Student AI Hub, meaning they define the shared set of information the site is built on.
+
+6. Hub formation
+
+The Student AI Hub website was then built around this foundation. The finalized reference sections shape the structure and content of the site, while other pages provide context and navigation without changing the foundation itself.
+
+The Student AI Hub is a reference site built on documented sources. It reflects an initial version of the project and is meant to support academic learning at Smeal.
+
+Penn State
+
+by the Applied AI Club
+
+Visit appliedaipsu.com ​
+
+Visit smeal.psu.edu
+
+Process and Provenance
+
+About the Student AI Hub

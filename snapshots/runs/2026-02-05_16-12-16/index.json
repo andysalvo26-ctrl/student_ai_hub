@@ -1,0 +1,717 @@
+[
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics",
+    "slug": "student-ai-hub-1-ai-basics",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-basics/page.html",
+      "text": "pages/student-ai-hub-1-ai-basics/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-basics/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-ai-basics/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-ai-basics/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:16.750Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 502.59999999403954,
+        "last": {
+          "height": 3771,
+          "textLength": 6144
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 130,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics",
+    "title": "AI Basics | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources",
+    "slug": "student-ai-hub-1-foundational-sources",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-foundational-sources/page.html",
+      "text": "pages/student-ai-hub-1-foundational-sources/page.txt",
+      "screenshot": "pages/student-ai-hub-1-foundational-sources/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-foundational-sources/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-foundational-sources/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:16.751Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 503.19999998807907,
+        "last": {
+          "height": 2540,
+          "textLength": 3195
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 139,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources",
+    "title": "Foundational Sources | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai",
+    "slug": "student-ai-hub-1-rules-risks-and-ethics-of-ai",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/page.html",
+      "text": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/page.txt",
+      "screenshot": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:16.751Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 501.80000001192093,
+        "last": {
+          "height": 1237,
+          "textLength": 948
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 125,
+      "failed": 6,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai",
+    "title": "Rules, Risks, and Ethics of AI | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/learn",
+    "slug": "student-ai-hub-1-learn",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-learn/page.html",
+      "text": "pages/student-ai-hub-1-learn/page.txt",
+      "screenshot": "pages/student-ai-hub-1-learn/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-learn/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-learn/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:19.864Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 502.19999998807907,
+        "last": {
+          "height": 3548,
+          "textLength": 2659
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 136,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/learn",
+    "title": "Learn | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai",
+    "slug": "student-ai-hub-1-how-businesses-are-using-ai",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-how-businesses-are-using-ai/page.html",
+      "text": "pages/student-ai-hub-1-how-businesses-are-using-ai/page.txt",
+      "screenshot": "pages/student-ai-hub-1-how-businesses-are-using-ai/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-how-businesses-are-using-ai/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-how-businesses-are-using-ai/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:19.866Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 504.19999998807907,
+        "last": {
+          "height": 3729,
+          "textLength": 7084
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 133,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai",
+    "title": "How Businesses Are Using AI | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major",
+    "slug": "student-ai-hub-1-ai-by-smeal-major",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-by-smeal-major/page.html",
+      "text": "pages/student-ai-hub-1-ai-by-smeal-major/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-by-smeal-major/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-ai-by-smeal-major/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-ai-by-smeal-major/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:19.873Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 503.40000000596046,
+        "last": {
+          "height": 2367,
+          "textLength": 617
+        }
+      }
+    },
+    "confidence": {
+      "level": "Medium",
+      "reasons": [
+        "yes (low word count)"
+      ]
+    },
+    "network": {
+      "requests": 126,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major",
+    "title": "AI by Smeal Major | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state",
+    "slug": "student-ai-hub-1-ai-at-penn-state",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-at-penn-state/page.html",
+      "text": "pages/student-ai-hub-1-ai-at-penn-state/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-at-penn-state/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-ai-at-penn-state/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-ai-at-penn-state/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:22.033Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 501.7000000178814,
+        "last": {
+          "height": 1193,
+          "textLength": 848
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 126,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state",
+    "title": "AI at Penn State | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/about",
+    "slug": "student-ai-hub-1-about",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-about/page.html",
+      "text": "pages/student-ai-hub-1-about/page.txt",
+      "screenshot": "pages/student-ai-hub-1-about/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-about/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-about/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:22.033Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 501.60000002384186,
+        "last": {
+          "height": 1648,
+          "textLength": 1101
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 128,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/about",
+    "title": "About the Student AI Hub | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance",
+    "slug": "student-ai-hub-1-process-and-provenance",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-process-and-provenance/page.html",
+      "text": "pages/student-ai-hub-1-process-and-provenance/page.txt",
+      "screenshot": "pages/student-ai-hub-1-process-and-provenance/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-process-and-provenance/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-process-and-provenance/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:22.220Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 502.69999998807907,
+        "last": {
+          "height": 2754,
+          "textLength": 3226
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 134,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance",
+    "title": "Process and Provenance | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1",
+    "slug": "student-ai-hub-1",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1/page.html",
+      "text": "pages/student-ai-hub-1/page.txt",
+      "screenshot": "pages/student-ai-hub-1/screenshot.png",
+      "metadata": "pages/student-ai-hub-1/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:23.909Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 504.5,
+        "last": {
+          "height": 2670,
+          "textLength": 2109
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 132,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1",
+    "title": "Home | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters",
+    "slug": "student-ai-hub-1-ai-news-that-matters",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-news-that-matters/page.html",
+      "text": "pages/student-ai-hub-1-ai-news-that-matters/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-news-that-matters/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-ai-news-that-matters/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-ai-news-that-matters/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:24.082Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 501.5,
+        "last": {
+          "height": 1193,
+          "textLength": 817
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 125,
+      "failed": 4,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters",
+    "title": "AI News That Matters | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work",
+    "slug": "student-ai-hub-1-using-ai-for-school-and-work",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-using-ai-for-school-and-work/page.html",
+      "text": "pages/student-ai-hub-1-using-ai-for-school-and-work/page.txt",
+      "screenshot": "pages/student-ai-hub-1-using-ai-for-school-and-work/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-using-ai-for-school-and-work/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-using-ai-for-school-and-work/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:24.198Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 502.80000001192093,
+        "last": {
+          "height": 3576,
+          "textLength": 5139
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 134,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work",
+    "title": "Using AI for School and Work | Student Ai Hub 1"
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use",
+    "slug": "student-ai-hub-1-ai-tools-you-might-use",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-tools-you-might-use/page.html",
+      "text": "pages/student-ai-hub-1-ai-tools-you-might-use/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-tools-you-might-use/screenshot.png",
+      "metadata": "pages/student-ai-hub-1-ai-tools-you-might-use/capture.json",
+      "siteContainerHtml": "pages/student-ai-hub-1-ai-tools-you-might-use/site_container.html",
+      "har": "run.har",
+      "mhtml": null
+    },
+    "capturedAt": "2026-02-05T21:12:25.865Z",
+    "status": {
+      "ok": true
+    },
+    "readiness": {
+      "selectorFound": true,
+      "selector": "#SITE_CONTAINER",
+      "fontsSupported": true,
+      "fontsReady": true,
+      "stability": {
+        "stable": true,
+        "totalChecks": 2,
+        "elapsedMs": 503.40000000596046,
+        "last": {
+          "height": 1170,
+          "textLength": 796
+        }
+      }
+    },
+    "confidence": {
+      "level": "High",
+      "reasons": [
+        "all readiness signals achieved"
+      ]
+    },
+    "network": {
+      "requests": 126,
+      "failed": 5,
+      "har": {
+        "path": "run.har",
+        "mode": "run"
+      }
+    },
+    "attempts": {
+      "total": 3,
+      "last": 1
+    },
+    "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use",
+    "title": "AI Tools You Might Use | Student Ai Hub 1"
+  }
+]

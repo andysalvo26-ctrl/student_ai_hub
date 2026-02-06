@@ -1,0 +1,59 @@
+Wix Site Snapshot Summary
+Captured: 2026-02-05T20:52:18.324Z
+Total pages: 13
+Succeeded: 0
+Failed: 13
+Output folder: /Users/andysalvo_1/Documents/GitHub/student_ai_hub/snapshots/runs/2026-02-05_15-52-18
+
+Failures:
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/learn :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/learn", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/about :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/about", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1 :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work", waiting until "networkidle"[22m
+
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use :: page.goto: Timeout 45000ms exceeded.
+Call log:
+[2m  - navigating to "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use", waiting until "networkidle"[22m

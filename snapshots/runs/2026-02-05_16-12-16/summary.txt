@@ -1,0 +1,9 @@
+Wix Site Snapshot Summary
+Captured: 2026-02-05T21:12:16.357Z
+Total pages: 13
+Succeeded: 13
+Failed: 0
+Output folder: /Users/andysalvo_1/Documents/GitHub/student_ai_hub/snapshots/runs/2026-02-05_16-12-16
+
+Medium/Low Confidence:
+- https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major :: Medium :: yes (low word count)

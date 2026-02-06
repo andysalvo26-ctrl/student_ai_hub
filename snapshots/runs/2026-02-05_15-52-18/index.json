@@ -1,0 +1,223 @@
+[
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics",
+    "slug": "student-ai-hub-1-ai-basics",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-basics/page.html",
+      "text": "pages/student-ai-hub-1-ai-basics/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-basics/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:52:18.875Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/ai-basics\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources",
+    "slug": "student-ai-hub-1-foundational-sources",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-foundational-sources/page.html",
+      "text": "pages/student-ai-hub-1-foundational-sources/page.txt",
+      "screenshot": "pages/student-ai-hub-1-foundational-sources/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:52:18.877Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/foundational-sources\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai",
+    "slug": "student-ai-hub-1-rules-risks-and-ethics-of-ai",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/page.html",
+      "text": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/page.txt",
+      "screenshot": "pages/student-ai-hub-1-rules-risks-and-ethics-of-ai/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:52:18.877Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/rules-risks-and-ethics-of-ai\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/learn",
+    "slug": "student-ai-hub-1-learn",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-learn/page.html",
+      "text": "pages/student-ai-hub-1-learn/page.txt",
+      "screenshot": "pages/student-ai-hub-1-learn/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:04.084Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/learn\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai",
+    "slug": "student-ai-hub-1-how-businesses-are-using-ai",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-how-businesses-are-using-ai/page.html",
+      "text": "pages/student-ai-hub-1-how-businesses-are-using-ai/page.txt",
+      "screenshot": "pages/student-ai-hub-1-how-businesses-are-using-ai/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:04.086Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/how-businesses-are-using-ai\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major",
+    "slug": "student-ai-hub-1-ai-by-smeal-major",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-by-smeal-major/page.html",
+      "text": "pages/student-ai-hub-1-ai-by-smeal-major/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-by-smeal-major/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:04.087Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/ai-by-smeal-major\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state",
+    "slug": "student-ai-hub-1-ai-at-penn-state",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-at-penn-state/page.html",
+      "text": "pages/student-ai-hub-1-ai-at-penn-state/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-at-penn-state/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:49.152Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/ai-at-penn-state\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/about",
+    "slug": "student-ai-hub-1-about",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-about/page.html",
+      "text": "pages/student-ai-hub-1-about/page.txt",
+      "screenshot": "pages/student-ai-hub-1-about/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:49.153Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/about\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance",
+    "slug": "student-ai-hub-1-process-and-provenance",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-process-and-provenance/page.html",
+      "text": "pages/student-ai-hub-1-process-and-provenance/page.txt",
+      "screenshot": "pages/student-ai-hub-1-process-and-provenance/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:53:49.155Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/process-and-provenance\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1",
+    "slug": "student-ai-hub-1",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1/page.html",
+      "text": "pages/student-ai-hub-1/page.txt",
+      "screenshot": "pages/student-ai-hub-1/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:54:34.234Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters",
+    "slug": "student-ai-hub-1-ai-news-that-matters",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-news-that-matters/page.html",
+      "text": "pages/student-ai-hub-1-ai-news-that-matters/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-news-that-matters/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:54:34.235Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/ai-news-that-matters\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work",
+    "slug": "student-ai-hub-1-using-ai-for-school-and-work",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-using-ai-for-school-and-work/page.html",
+      "text": "pages/student-ai-hub-1-using-ai-for-school-and-work/page.txt",
+      "screenshot": "pages/student-ai-hub-1-using-ai-for-school-and-work/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:54:34.241Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/using-ai-for-school-and-work\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  },
+  {
+    "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use",
+    "slug": "student-ai-hub-1-ai-tools-you-might-use",
+    "source": {
+      "sitemapLastmod": "2026-02-04"
+    },
+    "files": {
+      "html": "pages/student-ai-hub-1-ai-tools-you-might-use/page.html",
+      "text": "pages/student-ai-hub-1-ai-tools-you-might-use/page.txt",
+      "screenshot": "pages/student-ai-hub-1-ai-tools-you-might-use/screenshot.png"
+    },
+    "capturedAt": "2026-02-05T20:55:19.302Z",
+    "status": {
+      "ok": false,
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use\", waiting until \"networkidle\"\u001b[22m\n"
+    }
+  }
+]

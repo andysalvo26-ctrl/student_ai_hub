@@ -1,0 +1,17 @@
+{
+  "name": "wix-site-snapshot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "snapshot": "node snapshot.js",
+    "snapshot:check": "node check.js"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "fast-xml-parser": "^4.3.5",
+    "jsdom": "^24.0.0",
+    "p-limit": "^5.0.0",
+    "playwright": "^1.49.1"
+  }
+}

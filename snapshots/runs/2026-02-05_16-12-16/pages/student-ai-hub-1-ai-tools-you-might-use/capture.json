@@ -1,0 +1,31 @@
+{
+  "capturedAt": "2026-02-05T21:12:27.778Z",
+  "url": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use",
+  "finalUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/ai-tools-you-might-use",
+  "title": "AI Tools You Might Use | Student Ai Hub 1",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "userAgent": "StudentAIHubSnapshotBot/1.0 (+https://ajs10845.wixsite.com/student-ai-hub-1)",
+  "readiness": {
+    "selectorFound": true,
+    "selector": "#SITE_CONTAINER",
+    "fontsSupported": true,
+    "fontsReady": true,
+    "stability": {
+      "stable": true,
+      "totalChecks": 2,
+      "elapsedMs": 503.40000000596046,
+      "last": {
+        "height": 1170,
+        "textLength": 796
+      }
+    }
+  },
+  "confidence": "High",
+  "attempts": {
+    "total": 3,
+    "last": 1
+  }
+}

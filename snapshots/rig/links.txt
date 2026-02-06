@@ -1,0 +1,7 @@
+# Paste one absolute URL per line.
+# Lines starting with # are ignored.
+# If this file has at least one URL, it will be used instead of the sitemap.
+
+# Example:
+# https://ajs10845.wixsite.com/student-ai-hub-1
+# https://ajs10845.wixsite.com/student-ai-hub-1/learn

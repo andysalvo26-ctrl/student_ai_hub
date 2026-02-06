@@ -1,0 +1,53 @@
+{
+  "sitemapUrl": "https://ajs10845.wixsite.com/student-ai-hub-1/pages-sitemap.xml",
+  "outputBaseDir": "../runs",
+  "input": {
+    "mode": "auto",
+    "linksFile": "../links.txt"
+  },
+  "crawl": {
+    "concurrency": 3,
+    "timeoutMs": 120000,
+    "waitUntil": "domcontentloaded",
+    "hydrationWaitMs": 800,
+    "userAgent": "StudentAIHubSnapshotBot/1.0 (+https://ajs10845.wixsite.com/student-ai-hub-1)"
+  },
+  "readiness": {
+    "selectorCandidates": ["#SITE_CONTAINER", "[data-testid='site-root']", "main"],
+    "stability": {
+      "checks": 2,
+      "delayMs": 250,
+      "tolerance": 20
+    }
+  },
+  "retries": {
+    "attempts": 3,
+    "backoffMs": [2000, 5000]
+  },
+  "blocking": {
+    "enabled": true,
+    "urlSubstrings": [
+      "googletagmanager",
+      "google-analytics",
+      "doubleclick",
+      "facebook",
+      "hotjar",
+      "segment",
+      "mixpanel"
+    ]
+  },
+  "har": {
+    "enabled": true,
+    "mode": "run",
+    "content": "embed"
+  },
+  "mhtml": {
+    "enabled": false
+  },
+  "auth": {
+    "enabled": false,
+    "mode": "cookieFile",
+    "cookieFilePath": "../auth/cookies.json",
+    "loginUrl": ""
+  }
+}
